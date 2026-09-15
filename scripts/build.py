@@ -228,6 +228,7 @@ def build_page(page: dict, environment: Environment) -> None:
             if reference["section"] == ("research" if key == "research" else "media")
         ],
         "page_intro": PAGE_INTROS.get(key),
+        "info_centre": PAGE_INTROS["info-centre"],
         "article_toc": article_toc(key, language),
         "url": lambda target: local_url(target, current_page),
         "page_url": lambda target, lang=language: local_url(

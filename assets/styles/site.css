@@ -1780,3 +1780,60 @@ p {
     padding: 24px;
   }
 }
+
+/* Homepage invitation to the SOS Proteus Info Centre */
+.home-visit {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+  align-items: center;
+  gap: 48px;
+  margin-top: 56px;
+  padding: 36px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+}
+.home-visit-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+.home-visit-photo figcaption {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.home-visit-copy h2 {
+  margin: 14px 0;
+  font-size: clamp(30px, 3.2vw, 44px);
+}
+.home-visit-location {
+  margin-bottom: 18px;
+  color: var(--muted);
+  font-size: 16px;
+}
+.home-visit-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+  margin-top: 24px;
+  font-size: 16px;
+  font-weight: 600;
+}
+@media (max-width: 850px) {
+  .home-visit {
+    gap: 28px;
+    padding: 28px;
+  }
+}
+@media (max-width: 700px) {
+  .home-visit {
+    grid-template-columns: 1fr;
+    margin-top: 28px;
+    padding: 24px;
+  }
+  .home-visit-copy {
+    grid-row: 1;
+  }
+}

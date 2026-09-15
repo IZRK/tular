@@ -20,6 +20,23 @@
   <figcaption><i>Proteus anguinus</i><span>{{ 'Fotografija' if language == 'sl' else 'Photograph' }}: Gregor Aljančič · Tular</span></figcaption>
 </figure>
 </div>
+<section class="home-visit page-width" aria-labelledby="visit-heading">
+  <figure class="home-visit-photo">
+    <img src="{{ url(info_centre.image) }}" width="800" height="533" alt="{{ 'Človeška ribica' if language == 'sl' else 'An olm' }}" loading="lazy" />
+    <figcaption>{{ 'Fotografija' if language == 'sl' else 'Photograph' }}: {{ info_centre.credit }}</figcaption>
+  </figure>
+  <div class="home-visit-copy">
+    <p class="eyebrow">{{ 'Obiščite nas' if language == 'sl' else 'Visit us' }}</p>
+    <h2 id="visit-heading">{{ titles['info-centre'] }}</h2>
+    <p class="home-visit-location">{{ 'Rovi pod starim Kranjem' if language == 'sl' else 'Tunnels beneath the old town of Kranj' }}</p>
+    <p>{{ info_centre[language].intro }}</p>
+    <div class="home-visit-actions">
+      <a class="button booking-button" href="{{ info_centre.booking[language] }}">{{ 'Rezervirajte vodeni ogled' if language == 'sl' else 'Book a guided tour' }} <span aria-hidden="true">↗</span></a>
+      <a class="underlined" href="{{ page_url('info-centre') }}">{{ 'Načrtujte obisk' if language == 'sl' else 'Plan your visit' }}</a>
+    </div>
+    <p class="booking-provider">{{ 'Rezervacije prek Visit Kranj' if language == 'sl' else 'Booking through Visit Kranj' }}</p>
+  </div>
+</section>
 <section class="topics page-width">
   <h2>{{ copy.explore }}</h2>
   <div class="topic-grid">
