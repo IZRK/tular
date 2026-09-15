@@ -18,6 +18,9 @@ def main() -> None:
         shutil.copy2(ROOT / page["route"], target)
     shutil.copytree(ROOT / "assets", OUTPUT / "assets", dirs_exist_ok=True)
 
+    for filename in ("sitemap.xml", "robots.txt"):
+        shutil.copy2(ROOT / filename, OUTPUT / filename)
+
     redirects = []
     url_map = json.loads((ROOT / "content/url-map.json").read_text())
     for source, target in url_map.items():

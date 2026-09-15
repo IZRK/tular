@@ -7,7 +7,7 @@
     "build": "python3 scripts/build.py && npm run format",
     "format": "prettier --write \"**/*.{html,css,js,mjs,json,md}\"",
     "format:check": "prettier --check \"**/*.{html,css,js,mjs,json,md}\"",
-    "check": "python3 scripts/check.py",
+    "check": "python3 scripts/check.py && python3 scripts/check_seo.py",
     "check:browser": "node scripts/check-browser.mjs",
     "package": "python3 scripts/package.py"
   },

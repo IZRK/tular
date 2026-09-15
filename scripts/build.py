@@ -14,6 +14,8 @@ from bs4 import BeautifulSoup
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from markupsafe import Markup
 
+from seo import page_metadata, structured_data, write_crawl_files
+
 ROOT = Path(__file__).resolve().parents[1]
 
 
@@ -201,6 +203,8 @@ def build_page(page: dict, environment: Environment) -> None:
         "language": language,
         "other_language": other_language,
         "title": title,
+        "seo": page_metadata(key, language),
+        "structured_data": structured_data(key, language, TITLES[language]),
         "copy": COPY[language],
         "titles": TITLES[language],
         "main_navigation": list(TITLES[language])[:7],
@@ -240,6 +244,7 @@ def main() -> None:
     )
     for page in PAGES:
         build_page(page, environment)
+    write_crawl_files(PAGES)
     print(f"Built {len(PAGES)} static pages from curated local content.")
 
 

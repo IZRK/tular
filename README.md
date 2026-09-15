@@ -92,3 +92,13 @@ Research includes 50 original bibliography entries per language and one newly ad
 Text, photographs and documents retain the rights of Društvo za jamsko biologijo / Society for Cave Biology and their named authors. Asset source URLs and checksums are recorded in `content/assets.json`. Manrope and Source Sans 3 are loaded through Google Fonts.
 
 Git is initialized on `main`. Dependencies, environments, IDE files, credentials, generated release packages and browser screenshots are ignored.
+
+## Search and social metadata
+
+Edit `content/seo.json` for the production URL, per-page English and Slovenian titles and descriptions, and original photographs used in link previews. The default production address is `https://tular.si`. Rebuild after changing it.
+
+Every generated page has an absolute canonical URL, reciprocal English/Slovenian language alternatives and an English `x-default`, Open Graph metadata, a Twitter large-image card, and JSON-LD describing the organization, website and page. Interior pages also include breadcrumb structured data. The build generates `sitemap.xml` and `robots.txt`; packaging includes both. Homepages use `/` and `/sl/` as their canonical addresses.
+
+`npm run check` validates metadata uniqueness, canonical/language consistency, preview-image files, structured data and sitemap coverage. Preview crawlers require the new site and images to be deployed at the configured production address; these changes are local until deployment. No search ranking or live social-preview result is implied by local validation.
+
+Implementation references: [Google’s localized-page guidance](https://developers.google.com/search/docs/specialty/international/localized-versions) and the [Open Graph protocol](https://ogp.me/).

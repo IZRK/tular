@@ -1,0 +1,243 @@
+{
+  "base_url": "https://tular.si",
+  "site_name": {
+    "en": "Tular Cave Laboratory",
+    "sl": "Jamski laboratorij Tular"
+  },
+  "pages": {
+    "home": {
+      "en": {
+        "title": "Tular Cave Laboratory | Olm research and conservation",
+        "description": "Discover Tular Cave Laboratory in Kranj, Slovenia: research, conservation and rescue of the olm, Proteus anguinus, since 1960.",
+        "image_alt": "Olm research and conservation at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Jamski laboratorij Tular | Raziskovanje in varstvo človeške ribice",
+        "description": "Spoznajte Jamski laboratorij Tular v Kranju: raziskovanje, varstvo in reševanje človeške ribice ter življenje v podzemlju od leta 1960.",
+        "image_alt": "Raziskovanje in varstvo človeške ribice v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "proteus": {
+      "en": {
+        "title": "Proteus: the olm and life underground | Tular",
+        "description": "Discover the olm and black proteus, their adaptations to cave life, reproduction and the threats facing their groundwater habitat.",
+        "image_alt": "Olm research and conservation at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Proteus: človeška ribica in življenje v podzemlju | Tular",
+        "description": "Spoznajte belo in črno človeško ribico, njune prilagoditve na jamsko okolje, razmnoževanje ter ogroženost podzemnih voda.",
+        "image_alt": "Raziskovanje in varstvo človeške ribice v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "proteus/olm": {
+      "en": {
+        "title": "The olm: biology, habitat and reproduction | Tular",
+        "description": "Explore the biology of the olm, Proteus anguinus: its underground habitat, feeding, reproduction and remarkable adaptations to darkness.",
+        "image_alt": "Olm research and conservation at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Človeška ribica: življenje, habitat in razmnoževanje | Tular",
+        "description": "Kako živi človeška ribica? Spoznajte njeno prehrano, razmnoževanje, podzemeljski življenjski prostor in nenavadne prilagoditve na temo.",
+        "image_alt": "Raziskovanje in varstvo človeške ribice v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "proteus/black-proteus": {
+      "en": {
+        "title": "Black proteus of Bela krajina | Tular",
+        "description": "Meet the rare black olm of Bela krajina, Slovenia. Learn about its discovery, distinctive features, research at Tular and threats to its habitat.",
+        "image_alt": "An olm studied at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Črna človeška ribica iz Bele krajine | Tular",
+        "description": "Spoznajte redko črno človeško ribico iz Bele krajine, njeno odkritje, posebnosti, raziskave v Tularju in ogroženost njenega življenjskega prostora.",
+        "image_alt": "Človeška ribica med raziskovanjem v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "conservation": {
+      "en": {
+        "title": "Olm conservation and groundwater protection | Tular",
+        "description": "Explore Tular’s work to protect olms and groundwater: rescue, environmental DNA monitoring, public education and conservation projects.",
+        "image_alt": "Olm research and conservation at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Varstvo človeške ribice in podzemne vode | Tular",
+        "description": "Varstvo človeške ribice v Tularju: reševanje živali, spremljanje razširjenosti z okoljsko DNK, izobraževanje in varstvo podzemnih voda.",
+        "image_alt": "Raziskovanje in varstvo človeške ribice v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "conservation/sos-proteus": {
+      "en": {
+        "title": "SOS Proteus: report and rescue stranded olms | Tular",
+        "description": "Found an olm outside a cave? Call SOS Proteus on +386 31 804 163. Learn about Tular’s sanctuary and rescue of olms washed out by floods.",
+        "image_alt": "Olm research and conservation at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "SOS Proteus: pomoč človeškim ribicam | Tular",
+        "description": "Ste našli človeško ribico zunaj jame? Pokličite SOS Proteus: +386 31 804 163. Spoznajte zatočišče Tular in reševanje živali po poplavah.",
+        "image_alt": "Raziskovanje in varstvo človeške ribice v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "conservation/monitoring": {
+      "en": {
+        "title": "Monitoring olms with environmental DNA | Tular",
+        "description": "Discover how Tular and its partners use environmental DNA in groundwater samples to investigate olm distribution and support conservation.",
+        "image_alt": "An olm studied at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Monitoring človeške ribice z okoljsko DNK | Tular",
+        "description": "Kako sledovi okoljske DNK v vzorcih podzemne vode pomagajo odkrivati človeške ribice? Spoznajte metodo, raziskave in sodelovanja Tularja.",
+        "image_alt": "Človeška ribica med raziskovanjem v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus-2.jpg",
+        "width": 1152,
+        "height": 768,
+        "type": "image/jpeg"
+      }
+    },
+    "research": {
+      "en": {
+        "title": "Olm research and publications | Tular",
+        "description": "Browse Tular’s research bibliography, scientific publications and related studies on olm biology, environmental DNA and groundwater conservation.",
+        "image_alt": "Olm research and conservation at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Raziskave in objave o človeški ribici | Tular",
+        "description": "Prebrskajte znanstvene objave in bibliografijo Tularja: biologija človeške ribice, okoljska DNK, jamsko živalstvo in varstvo podzemnih voda.",
+        "image_alt": "Raziskovanje in varstvo človeške ribice v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "media": {
+      "en": {
+        "title": "Tular in the media: articles, films and interviews | Tular",
+        "description": "Explore articles, documentaries, interviews and recent reporting about Tular Cave Laboratory, the olm and conservation of life underground.",
+        "image_alt": "Olm research and conservation at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Tular v medijih: članki, filmi in pogovori | Tular",
+        "description": "Članki, dokumentarni filmi, pogovori in novejše reportaže o Jamskem laboratoriju Tular, človeški ribici in varstvu življenja v podzemlju.",
+        "image_alt": "Raziskovanje in varstvo človeške ribice v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "contact": {
+      "en": {
+        "title": "Contact Tular Cave Laboratory | Tular",
+        "description": "Contact Tular Cave Laboratory in Kranj, Slovenia, and laboratory head Gregor Aljančič. Find email, address and the SOS Proteus rescue number.",
+        "image_alt": "Olm research and conservation at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Kontakt Jamskega laboratorija Tular | Tular",
+        "description": "Pišite Jamskemu laboratoriju Tular v Kranju ali vodji Gregorju Aljančiču. Naslov, e-pošta in telefon SOS Proteus za pomoč človeškim ribicam.",
+        "image_alt": "Raziskovanje in varstvo človeške ribice v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus.jpg",
+        "width": 777,
+        "height": 480,
+        "type": "image/jpeg"
+      }
+    },
+    "projects": {
+      "en": {
+        "title": "Olm conservation and research projects | Tular",
+        "description": "Explore Tular’s research and conservation projects, partner organisations, environmental education and work to protect shared groundwater.",
+        "image_alt": "Knowledge for conservation"
+      },
+      "sl": {
+        "title": "Projekti raziskovanja in varstva človeške ribice | Tular",
+        "description": "Spoznajte projekte Tularja, partnerske organizacije, okoljsko izobraževanje ter raziskovanje in varstvo človeške ribice in podzemnih voda.",
+        "image_alt": "Znanje za varstvo"
+      },
+      "image": {
+        "path": "assets/images/workshop-sos-proteus-2015.jpg",
+        "width": 1155,
+        "height": 768,
+        "type": "image/jpeg"
+      }
+    },
+    "projects/groundwater": {
+      "en": {
+        "title": "Shared groundwater: the 2015 conservation project | Tular",
+        "description": "Read the aims, partners, budget and outcomes of Tular’s 2015 project, With Proteus we share dependence on groundwater.",
+        "image_alt": "An olm studied at Tular Cave Laboratory"
+      },
+      "sl": {
+        "title": "Skupna podzemna voda: projekt iz leta 2015 | Tular",
+        "description": "Cilji, partnerji, financiranje in rezultati projekta S človeško ribico si delimo odvisnost od podtalnice, ki je potekal leta 2015.",
+        "image_alt": "Človeška ribica med raziskovanjem v Jamskem laboratoriju Tular"
+      },
+      "image": {
+        "path": "assets/images/edna-proteus-2.jpg",
+        "width": 1152,
+        "height": 768,
+        "type": "image/jpeg"
+      }
+    },
+    "tular": {
+      "en": {
+        "title": "The story of Tular Cave Laboratory | Tular",
+        "description": "From a natural cave in Kranj to a laboratory founded in 1960: discover Tular’s history, olm research, breeding observations and rescue work.",
+        "image_alt": "Beneath Kranj"
+      },
+      "sl": {
+        "title": "Zgodba Jamskega laboratorija Tular | Tular",
+        "description": "Od naravne jame v Kranju do laboratorija, ustanovljenega leta 1960. Zgodovina Tularja, raziskovanje, razmnoževanje in reševanje človeške ribice.",
+        "image_alt": "Pod površjem Kranja"
+      },
+      "image": {
+        "path": "assets/images/jama-tular-2-photo-g-aljancic.jpg",
+        "width": 1151,
+        "height": 768,
+        "type": "image/jpeg"
+      }
+    }
+  }
+}
