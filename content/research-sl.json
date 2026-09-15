@@ -1,0 +1,893 @@
+[
+  {
+    "id": "2026-taxonomy",
+    "year": 2026,
+    "title": "Four new species of the genus Proteus (Amphibia: Proteidae)",
+    "authors": "Peter Trontelj, Špela Gorički, Rok Kostanjšek, Valerija Zakšek, Teo Delić, Nicola Bressi, Edgardo Mauri, Lada Lukić Bilela, Branko Jalžić, Hans Recknagel",
+    "citation": ["Natura Sloveniae 28(1): 11–27."],
+    "affiliations": [],
+    "notes": ["Sorodna raziskava; taksonomska revizija, objavljena 28. avgusta 2026."],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/29865",
+        "kind": "publisher"
+      }
+    ],
+    "doi": "10.14720/ns.29865"
+  },
+  {
+    "year": 2022,
+    "title": "Oviparity, viviparity or plasticity in reproductive mode of the olm Proteus anguinus: an epic misunderstanding caused by prey regurgitation?",
+    "authors": "Hans Recknagel, Ester Premate, Valerija Zakšek, Gregor Aljančič, Rok Kostanjšek, Peter Trontelj",
+    "citation": ["Contributions to Zoology 91(3): 153–165."],
+    "affiliations": [
+      "<sup>     </sup> (1Department of Biology, Biotechnical Faculty, University of Ljubljana, SI; <sup>2</sup>Tular Cave Laboratory, SI)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://doi.org/10.1163/18759866-bja10029",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2022-1",
+    "doi": "10.1163/18759866-bja10029"
+  },
+  {
+    "year": 2022,
+    "title": "Living in darkness: Exploring adaptation of Proteus anguinus in 3 dimensions by X-ray imaging",
+    "authors": "Markéta Tesařová, Lucia Mancini, Edgardo Mauri, Gregor Aljančič, Magdalena Năpăruş Aljančič, Rok Kostanjšek, Lilijana Bizjak Mali, Tomáš Zikmund, Markéta Kaucká, Federica Papi, Jana Goyens, Anass Bouchnita, Andreas Hellander, Igor Adameyko & Jozef Kaiser",
+    "citation": ["GigaScience 11: giac030."],
+    "affiliations": [
+      "<sup>     </sup> (1Central European Institute of Technology, CZ; <sup>2</sup>Elettra-Sincrotrone Trieste S.C.p.A., IT; <sup>3</sup>Speleovivarium Erwin Pichl, Adriatic Speleological Society, IT; <sup>4</sup>Institute Tular Cave Laboratory, SI; <sup>5</sup>Research Centre of the Slovenian Academy of Sciences and Arts: Karst Research Institute, SI; <sup>6</sup>Department of Biology, Biotechnical Faculty, University of Ljubljana, SI; <sup>7</sup>Max Planck Institute for Evolutionary Biology, DE; <sup>8</sup>Laboratory of Functional Morphology, University of Antwerp, BE; <sup>9</sup>Department of Information Technology, Uppsala University, SE; <sup>10</sup>Department of Integrative Biology, University of Texas at Austin, TX, US; <sup>11</sup>Medical University of Vienna, AT)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://doi.org/10.1093/gigascience/giac030",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2022-2",
+    "doi": "10.1093/gigascience/giac030"
+  },
+  {
+    "year": 2019,
+    "title": "History of research on Proteus anguinus Laurenti 1768 in Slovenia",
+    "authors": "Gregor Aljančič",
+    "citation": ["Folia biologica et geologica 60(1): 39-69."],
+    "affiliations": ["(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, SI)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://ojs.sazu.si/folia_bio_geo/article/view/7544/7063",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2019-3"
+  },
+  {
+    "year": 2019,
+    "title": "A brief historical review of Proteus research in the Dinaric Karst",
+    "authors": "Katarina Koller Šarić, Dušan Jelić, Gregor Aljančič",
+    "citation": [
+      "In: K. Koller Šarić, D. Jelić, P. Kovač Konrad, B. Jalžić (eds), Proteus. Association Hyla, Zagreb: 78-83."
+    ],
+    "affiliations": [
+      "<sup>     </sup> (1Association Hyla, HR; <sup>2</sup>Croatian Institute for Biodiversity, HR; <sup>3</sup>Tular Cave Laboratory, Society for Cave Biology, SI)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22A%20brief%20historical%20review%20of%20Proteus%20research%20in%20the%20Dinaric%20Karst%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2019-4"
+  },
+  {
+    "year": 2019,
+    "title": "Slovenia - a brief historical review of research",
+    "authors": "Gregor Aljančič",
+    "citation": [
+      "In: K. Koller Šarić, D. Jelić, P. Kovač Konrad, B. Jalžić (eds), Proteus. Association Hyla, Zagreb: 89-93."
+    ],
+    "affiliations": ["(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, SI)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Slovenia%20-%20a%20brief%20historical%20review%20of%20research%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2019-5"
+  },
+  {
+    "year": 2019,
+    "title": "Reproductive biology",
+    "authors": "Katarina Koller Šarić, Gregor Aljančič",
+    "citation": [
+      "In: K. Koller Šarić, D. Jelić, P. Kovač Konrad, B. Jalžić (eds), Proteus. Association Hyla, Zagreb: 130-139."
+    ],
+    "affiliations": [
+      "<sup>     </sup> (1Association Hyla, HR; <sup>2</sup>Tular Cave Laboratory, Society for Cave Biology, SI)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Reproductive%20biology%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2019-6"
+  },
+  {
+    "year": 2019,
+    "title": "Proteus breeding in laboratory conditions/ Postojnska jama, Slovenija",
+    "authors": "Gregor Aljančič, Katarina Koller Šarić",
+    "citation": [
+      "In: K. Koller Šarić, D. Jelić, P. Kovač Konrad, B. Jalžić (eds), Proteus. Association Hyla, Zagreb: 140-143."
+    ],
+    "affiliations": [
+      "<sup>     </sup> (<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, SI; <sup>2</sup>Association Hyla, HR)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Proteus%20breeding%20in%20laboratory%20conditions/%20Postojnska%20jama%2C%20Slovenija%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2019-7"
+  },
+  {
+    "year": 2019,
+    "title": "The Tular Cave Laboratory, Slovenia",
+    "authors": "Gregor Aljančič",
+    "citation": [
+      "In: K. Koller Šarić, D. Jelić, P. Kovač Konrad, B. Jalžić (eds), Proteus. Association Hyla, Zagreb: 144-146."
+    ],
+    "affiliations": ["(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, SI)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22The%20Tular%20Cave%20Laboratory%2C%20Slovenia%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2019-8"
+  },
+  {
+    "year": 2019,
+    "title": "Speleological Laboratory at the Department of Biology, Biotechnical Faculty, University of Ljubljana, Slovenia",
+    "authors": "Gregor Aljančič",
+    "citation": [
+      "In: K. Koller Šarić, D. Jelić, P. Kovač Konrad, B. Jalžić (eds), Proteus. Association Hyla, Zagreb: 146-147."
+    ],
+    "affiliations": ["(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, SI)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Speleological%20Laboratory%20at%20the%20Department%20of%20Biology%2C%20Biotechnical%20Faculty%2C%20University%20of%20Ljubljana%2C%20Slovenia%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2019-9"
+  },
+  {
+    "year": 2019,
+    "title": "History of research on Proteus anguinus Laurenti 1768 in Slovenia",
+    "authors": "Gregor Aljančič",
+    "citation": ["Folia biologica et geologica 60(1): 39-69."],
+    "affiliations": [],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://ojs.sazu.si/folia_bio_geo/article/view/7544/7063",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2019-10"
+  },
+  {
+    "year": 2019,
+    "title": "Mitigating the potential risk of chytridiomycete fungi and ranaviruses infection at the Sanctuary for injured proteus (Proteus anguinus) of the Tular Cave Laboratory",
+    "authors": "Gregor Aljančič, Zlatko Golob, Magdalena Năpăruş-Aljančič, Tajda Turk, Nino Kirbiš, Mojca Vek, Rok Kostanjšek, Nina Gunde-Cimerman",
+    "citation": [
+      "ZSL Symposium \"Mitigating single pathogen and co-infections that threaten amphibian biodiversity\". London, UK, 24–25 April 2019: 24."
+    ],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia; <sup>2</sup>Sanctuary for Protected Wildlife, Slovenia; <sup>3</sup>Karst Research Institute, Research Centre of the Slovenian Academy of Sciences and Arts, Slovenia; <sup>4</sup>Societas herpetologica slovenica, Slovenia; <sup>5</sup>Department of Biology, Biotechnical Faculty, University of Ljubljana, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://www.zsl.org/sites/default/files/media/2019-04/ZSL%20Amphibian%20Symposium%20programme%20and%20abstracts.pdf",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2019-11"
+  },
+  {
+    "year": 2018,
+    "title": "Third International meeting SOS Proteus: »Conservation of proteus and its habitat – 250 years after its scientific description«",
+    "authors": "Gregor Aljančič, Magdalena Năpăruș-Aljančič, Vanja Debevec",
+    "citation": ["Natura Sloveniae 20(2): 35–37."],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia; <sup>2</sup>ZRC SAZU Karst Research Institute, Slovenia; <sup>3</sup>Škocjan Caves Park, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16692",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2018-12",
+    "doi": "10.14720/ns.20.2.35-37"
+  },
+  {
+    "year": 2018,
+    "title": "Capacity building for conservation of the subterranean biodiversity of the Skadar/Shkodra Lake basin (Montenegro and Albania)",
+    "authors": "Magdalena Năpăruș-Aljančič, Miloš Pavićević, Leonid Merzlyakov, Tajda Turk, Philippe Theou, Denik Ulqini, Spase Shumka, Gregor Aljančič",
+    "citation": ["Natura Sloveniae 20(2): 69–72."],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Slovenia; <sup>2</sup>ZRC SAZU Karst Research Institute; <sup>3</sup>Biospeleological Society of Montenegro, Montenegro; <sup>4</sup>Department of Biology, Faculty of Natural Sciences, University of Tirana, Albania; <sup>5</sup>Department of Biology and Chemistry, Faculty of Natural Sciences, »Luigj Gurakuqi« University of Shkodra, Albania; <sup>6</sup>Faculty of Biotechnology and Food, Agricultural University of Tirana, Albania)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16707",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2018-13",
+    "doi": "10.14720/ns.20.2.69-72"
+  },
+  {
+    "year": 2018,
+    "title": "Development of eDNA methods for monitoring two stygobiotic species of the Dinaric Karst, Proteus anguinus and Congeria jalzici, using digital PCR",
+    "authors": "Špela Gorički, Primož Presetnik, Uršula Prosenc-Zmrzljak, Tajda Gredar, Matej Blatnik, Blaž Kogovšek, Oliver Koit, Cyril Mayaud, Sara Strah, Branko Jalžić, Gregor Aljančič, Dejan Štebih, Andrej Hudoklin, Rok Košir",
+    "citation": ["Natura Sloveniae 20(2): 47–50."],
+    "affiliations": [
+      "(<sup>1</sup> Scriptorium biologorum - Biološka pisarna d.o.o., Slovenia; <sup>2</sup>Tolstojeva ulica 9b, Slovenia; <sup>3</sup>BIA Separations CRO, <sup>4</sup>Labena d.o.o, Slovenia; <sup>5</sup>ZRC SAZU Karst Research Institute, Slovenia; <sup>6</sup>UNESCO Chair on Karst Education, University of Nova Gorica, Slovenia; <sup>7</sup>Institute of Ecology, Tallinn University, Estonia; <sup>8</sup>University of Primorska, Slovenia; <sup>9</sup>Croatian Biospeleological Society, Croatia; <sup>10</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia; <sup>11</sup>National Institute of Biology, Slovenia; <sup>12</sup>Institute of the Republic of Slovenia for Nature Conservation, Novo mesto Regional Unit, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16700",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2018-14",
+    "doi": "10.14720/ns.20.2.47-50"
+  },
+  {
+    "year": 2018,
+    "title": "Environmental DNA in subterranean biology update: from “Where?” to “How many?”",
+    "authors": "Špela Gorički, Primož Presetnik, Uršula Prosenc-Zmrzljak, Matej Blatnik, Tajda Gredar, Blaž Kogovšek, Oliver Koit, Sara Strah, Helena Bilandžija, Branko Jalžić, Gregor Aljančič, Rok Košir, Cyril Mayaud, Dejan Štebih, Andrej Hudoklin, William Jeffery",
+    "citation": ["ARPHA Conference Abstracts 1: e29968"],
+    "affiliations": [
+      "(<sup>1</sup>Scriptorium biologorum - Biološka pisarna d.o.o., Slovenia; <sup>2</sup>Tolstojeva ulica 9b, Slovenia; <sup>3</sup>BIA Separations CRO, <sup>4</sup>Labena d.o.o, Slovenia; <sup>5</sup>ZRC SAZU Karst Research Institute, Slovenia; <sup>6</sup>Institute of Ecology, Tallinn University, Estonia; <sup>7</sup>University of Primorska, Slovenia; <sup>8</sup>Ruđer Bošković Institute, Croatia <sup>9</sup>Croatian Biospeleological Society, Croatia; <sup>10</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia; <sup>11</sup>National Institute of Biology, Slovenia; <sup>12</sup>Institute of the Republic of Slovenia for Nature Conservation, Novo mesto Regional Unit, Slovenia; <sup>13</sup>University of Maryland, Maryland, USA)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://aca.pensoft.net/articles.php?id=29968",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2018-15"
+  },
+  {
+    "year": 2017,
+    "title": "Pregled razširjenosti človeške ribice ter njenega odkrivanja na nizkem dolenjskem krasu",
+    "authors": "Andrej Hudoklin, Gregor Aljančič",
+    "citation": ["Dolenjski kras 7: 212-227."],
+    "affiliations": ["(<sup>1</sup>Zavod RS za varstvo narave; <sup>2</sup>Tular Cave Laboratory)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Pregled%20raz%C5%A1irjenosti%20%C4%8Dlove%C5%A1ke%20ribice%20ter%20njenega%20odkrivanja%20na%20nizkem%20dolenjskem%20krasu%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2017-16"
+  },
+  {
+    "year": 2017,
+    "title": "Second International Meeting SOS Proteus: »Conservation of black Proteus and its habitat –  30 years after its discovery«",
+    "authors": "Gregor Aljančič, Magdalena Năpăruș-Aljančič, Peter Trontelj",
+    "citation": ["Natura Sloveniae 19(1): 25–26."],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia; <sup>2</sup>Department of Biology, Biotechnical Faculty, University of Ljubljana, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16715",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2017-17",
+    "doi": "10.14720/ns.19.1.25-26"
+  },
+  {
+    "year": 2017,
+    "title": "GIS analysis to assess the groundwater habitat pollution of black proteus",
+    "authors": "Magdalena Năpăruș-Aljančič, Špela Gorički, David Stanković, Matjaž Kuntner, Gregor Aljančič",
+    "citation": ["Natura Sloveniae 19(1): 47–49."],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia; <sup>2</sup>Scriptorium biologorum – Biološka pisarna d.o.o., Murska Sobota, Slovenia; <sup>3</sup>Department of Life Sciences, University of Trieste,Trieste, Italy; <sup>4</sup>Institute of Biology, Scientific Research Center, Slovenian Academy of Sciences and Arts, Ljubljana, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16723",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2017-18",
+    "doi": "10.14720/ns.19.1.47-49"
+  },
+  {
+    "year": 2017,
+    "title": "Recommendations for a consistent use of vernacular names for Proteus anguinus in English and Slovenian scientific texts",
+    "authors": "Peter Trontelj, Gregor Aljančič, Rok Kostanjšek",
+    "citation": ["Natura Sloveniae 19(1): 23–24."],
+    "affiliations": [
+      "(<sup>1</sup>Department of Biology, Biotechnical Faculty, University of Ljubljana, Slovenia; <sup>2</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16714",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2017-19",
+    "doi": "10.14720/ns.19.1.23-24"
+  },
+  {
+    "year": 2017,
+    "title": "The utility of non-genetic data collected during genetic monitoring of proteus populations",
+    "authors": "Žiga Fišer, Valerija Zakšek, Magdalena Năpăruș-Aljančič, Gregor Aljančič, Teo Delić, Peter Trontelj",
+    "citation": ["Natura Sloveniae 19(1): 35–37."],
+    "affiliations": [
+      "(<sup>1</sup>Department of Biology, Biotechnical Faculty, University of Ljubljana, Slovenia; <sup>2</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16720",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2017-20",
+    "doi": "10.14720/ns.19.1.35-37"
+  },
+  {
+    "year": 2017,
+    "title": "Environmental DNA in subterranean biology: range extension and taxonomic implications for Proteus",
+    "authors": "Špela Gorički, David Stanković, Aleš Snoj, Matjaž Kuntner, William R. Jeffery, Peter Trontelj, Miloš Pavićević, Zlatko Grizelj, Magdalena Năpăruş-Aljančič & Gregor Aljančič",
+    "citation": ["Scientific Reports 7, Article number: 45054 (2017), doi:10.1038/srep45054"],
+    "affiliations": [
+      "(<sup>1</sup>Society for Cave Biology, Tular Cave Laboratory, Slovenia; <sup>2</sup>Department of Animal Sciences, Biotechnical Faculty, University of Ljubljana, Slovenia; <sup>3</sup>Department of Life Sciences, University of Trieste, Italy; <sup>4</sup>Institute of Biology, Scientific Research Centre, Slovenian Academy of Sciences and Arts, Slovenia; <sup>5</sup>Department of Biology, University of Maryland, USA; <sup>6</sup>Department of Biology, Biotechnical Faculty, University of Ljubljana, Slovenia. <sup>7</sup>Biospeleological Society of Montenegro, Montenegro; <sup>8</sup>Scientific Research Society Versus, Bosnia and Herzegovina, <sup>9</sup>University of Bucharest Research Institute, ICUB, Transdisciplinary Research Centre Landscape - Territory - Information Systems, CeLTIS, Romania)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://www.nature.com/articles/srep45054",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2017-21"
+  },
+  {
+    "year": 2016,
+    "title": "International workshop »SOS PROTEUS: Implementation of monitoring and practical actions for the conservation of Proteus in Slovenia«",
+    "authors": "Gregor Aljančič, Magdalena Aljančič",
+    "citation": ["Natura Sloveniae 18(1): 31–34."],
+    "affiliations": ["(Tular Cave Laboratory, Society for Cave Biology, Slovenia)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16745",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2016-22",
+    "doi": "10.14720/ns.18.1.31-34"
+  },
+  {
+    "year": 2016,
+    "title": "Salvaging the washed-out Proteus",
+    "authors": "Gregor Aljančič, Magdalena Aljančič and Zlatko Golob",
+    "citation": ["Natura Sloveniae 18(1): 65–67."],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia, <sup>2</sup>Sanctuary for protected wildlife animals, Golob d.o.o., Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16757",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2016-23",
+    "doi": "10.14720/ns.18.1.65-67"
+  },
+  {
+    "year": 2016,
+    "title": "Searching for the black Proteus with the help of eDNA",
+    "authors": "Špela Gorički, David Stanković, Magdalena Năpăruș-Aljančič, Aleš Snoj, Matjaž Kuntner, Tajda Gredar, Luka Vodnik and Gregor Aljančič",
+    "citation": ["Natura Sloveniae 18(1): 57–58."],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia, <sup>2</sup>Department of Life Sciences, University of Trieste, Italy; <sup>3</sup>Department of Animal Science, Biotechnical faculty, University of Ljubljana, Slovenia;<sup> 4</sup>ZRC SAZU, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16754",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2016-24",
+    "doi": "10.14720/ns.18.1.57-58"
+  },
+  {
+    "year": 2016,
+    "title": "Application of environmental DNA for detection of Proteus",
+    "authors": "David Stanković, Špela Gorički, Magdalena Năpăruș-Aljančič, Aleš Snoj, Matjaž Kuntner and Gregor Aljančič",
+    "citation": ["Natura Sloveniae 18(1): 55–56."],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia, <sup>2</sup>Department of Life Sciences, University of Trieste, Italy; <sup>3</sup>Department of Animal Science, Biotechnical faculty, University of Ljubljana, Slovenia, <sup>4</sup>ZRC SAZU, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16753",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2016-25",
+    "doi": "10.14720/ns.18.1.55-56"
+  },
+  {
+    "year": 2016,
+    "title": "Rapid genetic and ecological differentiation during the northern range expansion of the venomous yellow sac spider Cheiracanthium punctorium in Europe",
+    "authors": "Henrik Krehenwinkel, Dennis Rödder, Magdalena Năpăruş Aljančič, Matjaž Kuntner",
+    "citation": ["Evolutionary Applications, DOI: 10.1111/eva.12392"],
+    "affiliations": [
+      "(<sup> 1</sup>Max Planck Institute for Evolutionary Biology, Plön, Germany; <sup>2</sup>University of California Berkeley, Environmental Science Policy and Management, Berkeley, USA; <sup>3</sup>Zoologisches Forschungsmuseum Alexander Koenig, Germany; <sup>4</sup>University of Bucharest Research Institute, ICUB; Transdisciplinary Research Centre Landscape - Territory - Information Systems, CeLTIS, Romania; <sup>5</sup>Tular Cave Laboratory, Slovenia; <sup>6</sup>Evolutionary Zoology Laboratory, Biological Institute ZRC SAZU, Slovenia.)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://doi.org/10.1111/eva.12392",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2016-26"
+  },
+  {
+    "year": 2016,
+    "title": "Searching for black Proteus (Proteus anguinus parkelj) in karst groundwater with the help of eDNA.",
+    "authors": "Špela Gorički, David Stanković, Magdalena Năpăruş-Aljančič, Aleš Snoj and Gregor Aljančič, 2016.",
+    "citation": [
+      "Abstracts of the 23h International Conference on Subterranean Biology, Fayetteville, Arkansas, USA, June 13 -17, 2016: 31."
+    ],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia, <sup>2</sup>Department of Life Sciences, University of Trieste, Italy; <sup>3</sup>Department of Animal Science, Biotechnical faculty, University of Ljubljana, Slovenia)<br/>"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://web.archive.org/web/*/http://www.speleobiology.com/icsb2016/conference-info/program/2016-icsb-abstracts/goricki-spela/",
+        "kind": "archive"
+      }
+    ],
+    "id": "2016-27"
+  },
+  {
+    "year": 2015,
+    "title": "Detection of olm (Proteus anguinus) environmental DNA in karst groundwater.",
+    "authors": "David Stanković, Špela Gorički, Magdalena Năpăruş, Miloš Pavićević, Matjaž Kuntner, Aleš Snoj and Gregor Aljančič, 2015.",
+    "citation": [
+      "Programme and Abstracts of the 18th European congress of Herpetology, Wrocław, Poland, September 7-12, 2015: 89."
+    ],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Society for Cave Biology, Slovenia, <sup>2</sup>Department of Animal Science, Biotechnical faculty, University of Ljubljana, Slovenia, <sup>3</sup>Biospeleological Society of Montenero, <sup>4</sup>ZRC SAZU, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://web.archive.org/web/*/http://seh-herpetology.org/sites/seh-herpetology.org/files/uploads/documents/proceedings/SEH%202015.%20Programme%20and%20Abstracts.pdf",
+        "kind": "archive"
+      }
+    ],
+    "id": "2015-28"
+  },
+  {
+    "year": 2014,
+    "title": "Endangered Proteus: combining DNA and GIS analyses for its conservation.",
+    "authors": "Gregor Aljančič, Špela Gorički, Magdalena Năpăruş, David Stankovićand Matjaž Kuntner, 2014.",
+    "citation": [
+      "In: P. Sackl, R. Durst, D. Kotrošan and B. Stumberger (eds.), Dinaric Karst Poljes - Floods for Life. EuroNatur, Radolfzell: 70–75."
+    ],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, Slovenia, <sup>2</sup>LASIG, École Polytechnique Fédérale de Lausanne, Switzerland; <sup>3</sup>Zootechnical Department, Biotechnical Faculty, Univ. of Ljubljana, Slovenia; <sup>4</sup>ZRC SAZU, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "/assets/documents/aljancic-et-al-2014-endangered-proteus-combining-dna-and-gis-for-its-conservation.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "id": "2014-29"
+  },
+  {
+    "year": 2014,
+    "title": "Phylogeny Predicts Future Habitat Shifts Due to Climate Change",
+    "authors": "Matjaž Kuntner, Magdalena Năpăruş, Daiqin Li, Jonathan A. Coddington",
+    "citation": ["PLoS ONE 9(6): e98907."],
+    "affiliations": [
+      "(<sup>1</sup>Institute of Biology, ZRC SAZU, Slovenia, <sup>2</sup>Centre for Behavioural Ecology and Evolution, Hubei University, China, <sup>3</sup>Smithsonian Institution, USA, <sup>4</sup>Centre of Landscape–Territory–Information Systems, University of Bucharest, Romania, <sup>5</sup>Tular Cave Laboratory, Slovenia, <sup>6</sup>Department of Biological Sciences, National University of Singapore, Singapore)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://journals.plos.org/plosone/",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2014-30",
+    "doi": "10.1371/journal.pone.0098907"
+  },
+  {
+    "year": 2014,
+    "title": "A novel survey of the distribution of Proteus anguinus by environmental DNA sampling",
+    "authors": "David Stanković, Gregor Aljančič, Špela Gorički, Magdalena Năpăruş, Miloš Pavićević, Ivan Skaramuca, Jasminko Mulaomerović, Matjaž Kuntner, Aleš Snoj, Zlatko Grizelj, William R. Jeffery, 2014.",
+    "citation": [
+      "Guide book of 22nd International Karstological School, Postojna, Slovenia, June 16–20, 2014: 61–62."
+    ],
+    "affiliations": [],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22A%20novel%20survey%20of%20the%20distribution%20of%20Proteus%20anguinus%20by%20environmental%20DNA%20sampling%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2014-31"
+  },
+  {
+    "year": 2014,
+    "title": "A novel method for detection of the highly endangered cave amphibian Proteus anguinus using environmental DNA and real-time PCR",
+    "authors": "David Stanković, Špela Gorički, Magdalena Năpăruş, Matjaž Kuntner, Aleš Snojand Gregor Aljančič",
+    "citation": [
+      "Proceedings of International symposium Frontiers in Amphibian Biology: Endangered Species Conservation and Genome Editing, Hiroshima, Japan, March 27-28, 2014. (PDF, 1.7MB)"
+    ],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory; <sup>2</sup>University of Ljubljana, Biotechnical faculty, Department of Animal Science, Slovenia; <sup>3</sup>Societas Herpetologica Slovenica, Slovenia; <sup>4</sup>Institute of Biology, ZRC SAZU, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://web.archive.org/web/*/http://home.hiroshima-u.ac.jp/amphibia/FronAmphBiol/FronAmphBiol/English_top_files/program_fron_amph_biolX1a.pdf",
+        "kind": "archive"
+      }
+    ],
+    "id": "2014-32"
+  },
+  {
+    "year": 2013,
+    "title": "The relationships between land cover, climate and cave copepod spatial distribution and suitability along the Carpathians",
+    "authors": "Ioana N. Meleg, Magdalena Năpăruş, Frank Fiers, Ionuţ H. Meleg, Marius Vlaicu and Oana T. Moldovan, 2013.",
+    "citation": ["Environmental Conservation, 41/2: 206-216."],
+    "affiliations": [
+      "(<sup>1</sup>Emil Rakoviţă Institute of Speleology, Romania; <sup>2</sup>Tular Cave Laboratory, Slovenia/ Transdisciplinary Center Landscape-Territory-Information Systems, University of Bucharest, Romania; <sup>3</sup>Royal Belgian Institute of Natural Sciences, Belgium; <sup>4</sup>Babeş-Bolyai University, Romania)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://www.cambridge.org/core/journals/environmental-conservation/article/abs/relationships-between-land-cover-climate-and-cave-copepod-spatial-distribution-and-suitability-along-the-carpathians/D855C0A183F6AC8BB8F90060017FD0A0",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2013-33"
+  },
+  {
+    "year": 2013,
+    "title": "Endangered Proteus: combining DNA and GIS analyses for its conservation",
+    "authors": "Gregor Aljančič, Špela Gorički, Magdalena Năpăruş, David Stanković and Matjaž Kuntner, 2013.",
+    "citation": [
+      "Abstract book of First international workshop on Dinaric karst poljes as wetlands of national and international importance, Livno, Bosnia and Herzegovina, Sep 30 - Oct 2, 2013: 16-17. (PDF, 0.9MB)"
+    ],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, <sup>2</sup>LASIG, École Polytechnique Fédérale de Lausanne, Switzerland; <sup>3</sup>Zootechnical Department, Biotechnical Faculty, Univ. of Ljubljana, Slovenia; <sup>4</sup>ZRC SAZU, Slovenia)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://web.archive.org/web/*/http://www.euronatur.org/fileadmin/docs/docs_english/Karst-workshop_October2013/Kraska_polja_BiH_-_Knjiga_sazetaka_EN.pdf",
+        "kind": "archive"
+      }
+    ],
+    "id": "2013-34"
+  },
+  {
+    "year": 2013,
+    "title": "A survey of the distribution of Proteus anguinus by environmental DNA sampling",
+    "authors": "Gregor Aljančič, Špela Gorički, Magdalena Năpăruș, 2013.",
+    "citation": [
+      "Workshop on protection of underground biodiversity in the Neretva River catchment area, Čitluk, Bosnia and Herzegovina."
+    ],
+    "affiliations": [
+      "(<sup>1</sup>Tular Cave Laboratory, <sup>2</sup>LASIG, École Polytechnique Fédérale de Lausanne, Switzerland)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22A%20survey%20of%20the%20distribution%20of%20Proteus%20anguinus%20by%20environmental%20DNA%20sampling%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2013-35"
+  },
+  {
+    "year": 2013,
+    "title": "Skull shape differentiation of black and white olms (Proteus anguinus anguinus and Proteus a. parkelj): an exploratory analysis with micro-CT scanning",
+    "authors": "Ana Ivanović*, Gregor Aljančič and Jan W. Arntzen, 2013.",
+    "citation": ["Contributions to Zoology 82 (2): 107-114."],
+    "affiliations": [
+      "(*Faculty of Biology, Institute for Zoology, University of Belgrade, Serbia; <sup>+</sup>Naturalis Biodiversity Center, Leiden, The Netherlands)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://tular.si/www.ctoz.nl/cgi/t/text/get-pdf?c=ctz;idno=8202a04",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2013-36"
+  },
+  {
+    "year": 2012,
+    "title": "GIS helps to asses threats to Proteus, a highly endangered cave amphibian",
+    "authors": "Magdalena Năpăruş and Gregor Aljančič, 2012. GDi FORUM, Budapest, Hungary, Oct 11-12, 2012.",
+    "citation": [],
+    "affiliations": [],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22GIS%20helps%20to%20asses%20threats%20to%20Proteus%2C%20a%20highly%20endangered%20cave%20amphibian%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2012-37"
+  },
+  {
+    "year": 2012,
+    "title": "Tular Virtual Lab: Monitoring of a rare cave amphibian, Proteus anguinus, via Internet connection",
+    "authors": "Gregor Aljančič and Magdalena Năpăruş, 2012.",
+    "citation": ["2nd EuroSpeleo Protection Symposium, Muotathal, Switzerland, Sep 29-30,2012."],
+    "affiliations": [],
+    "notes": ["EuroSpeleo Protection Label 2011 Award (European Speleological Federation)"],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Tular%20Virtual%20Lab%3A%20Monitoring%20of%20a%20rare%20cave%20amphibian%2C%20Proteus%20anguinus%2C%20via%20Internet%20connection%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2012-38"
+  },
+  {
+    "year": 2012,
+    "title": "Stygobionts washed out to surface: A case of Proteus anguinus",
+    "authors": "Gregor Aljančič and Magdalena Năpăruş, 2012.",
+    "citation": [
+      "Abstract book of the 21h International Conference on Subterranean Biology, Košice, Slovakia, Sep 2-7, 2012: 22-23."
+    ],
+    "affiliations": [],
+    "notes": [
+      "Special Award for Conservation of Subterranean Life (International Society for Subterranean Biology)"
+    ],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Stygobionts%20washed%20out%20to%20surface%3A%20A%20case%20of%20Proteus%20anguinus%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2012-39"
+  },
+  {
+    "year": 2012,
+    "title": "The 250th anniversary of the first scientific description of Proteus anguinus",
+    "authors": "Gregor Aljančič, 2012.",
+    "citation": [
+      "Abstract book of the 21h International Conference on Subterranean Biology, Košice, Slovakia, Sep 2-7, 2012: 22."
+    ],
+    "affiliations": [],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22The%20250th%20anniversary%20of%20the%20first%20scientific%20description%20of%20Proteus%20anguinus%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2012-40"
+  },
+  {
+    "year": 2012,
+    "title": "Predictive GIS modelling and conservation of copepods in groundwater habitats of the Romanian Carpathians",
+    "authors": "Ioana N. Meleg*, Magdalena Năpăruş**, Frank Fiers, Ionuţ H. Meleg***, Marius Vlaicu* and Oana T. Moldovan*, 2012.",
+    "citation": [
+      "Abstract book of the 21h International Conference on Subterranean Biology, Košice, Slovakia, Sep 2- 7, 2012: 68."
+    ],
+    "affiliations": [
+      "(*Emil Rakoviţă Institute of Speleology, Romania;*Tular Cave Laboratory, Slovenia, <sup>+</sup>Royal Belgian Institute of Natural Sciences, Belgium; ***Babeş-Bolyai University, Romania)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Predictive%20GIS%20modelling%20and%20conservation%20of%20copepods%20in%20groundwater%20habitats%20of%20the%20Romanian%20Carpathians%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2012-41"
+  },
+  {
+    "year": 2012,
+    "title": "Salt karst: A GIS model to assess the dynamic and risk phenomena under natural and anthropogenic conditions",
+    "authors": "Magdalena Năpăruş, 2012.",
+    "citation": [
+      "Proceedings of the 20 th International Karstological School “Classical Karst”: Karst forms and processes, Postojna, Slovenia, Jun 18-21, 2012: 65."
+    ],
+    "affiliations": [],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Salt%20karst%3A%20A%20GIS%20model%20to%20assess%20the%20dynamic%20and%20risk%20phenomena%20under%20natural%20and%20anthropogenic%20conditions%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2012-42"
+  },
+  {
+    "year": 2012,
+    "title": "A GIS Model Predicting Potential Distributions of a Lineage: A Test Case on Hermit Spiders (Nephilidae: Nephilengys)",
+    "authors": "Magdalena Năpăruş and Matjaž Kuntner**, 2012.",
+    "citation": ["PLoS ONE 7(1): e30047."],
+    "affiliations": [
+      "(*Tular Cave Laboratory Slovenia, **ZRC SAZU, Slovenia; Smithsonian Institution, USA)"
+    ],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://tular.si/www.plosone.org/article/info:doi/10.1371/journal.pone.0030047",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2012-43",
+    "doi": "10.1371/journal.pone.0030047"
+  },
+  {
+    "year": 2011,
+    "title": "Proteus after flooding: should we save the animals or let them be?",
+    "authors": "Gregor Aljančič and Magdalena Năpăruş, 2011.",
+    "citation": [
+      "Proceedings of 19 th International Karstological School “Classical Karst”. Postojna, Slovenia, Jun 20 - 26, 2011."
+    ],
+    "affiliations": [],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Proteus%20after%20flooding%3A%20should%20we%20save%20the%20animals%20or%20let%20them%20be%3F%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2011-44"
+  },
+  {
+    "year": 2010,
+    "title": "Fifty years of Tular Cave Laboratory",
+    "authors": "Gregor Aljančič, 2010.",
+    "citation": [
+      "Abstract book of 20 th International Conference on Subterranean Biology. Postojna, Slovenia, Aug 29 - Sep 3, 2010: 113-114."
+    ],
+    "affiliations": [],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Fifty%20years%20of%20Tular%20Cave%20Laboratory%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2010-45"
+  },
+  {
+    "year": 2010,
+    "title": "Design of a GIS database to monitor possible threats to the habitat of Proteus anguinus (Amphibia: Proteidae). A case study of a highly vulnerable population of P. a. parkelj in Bela krajina, Slovenia",
+    "authors": "Magdalena Năpăruş, Gregor Aljančič and Krištof Oštir, 2010.",
+    "citation": [
+      "Abstract book of 20 th International Conference on Subterranean Biology. Postojna, Slovenia, Aug 29 - Sep 3, 2010: 88-89."
+    ],
+    "affiliations": ["(*ZRC SAZU)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Design%20of%20a%20GIS%20database%20to%20monitor%20possible%20threats%20to%20the%20habitat%20of%20Proteus%20anguinus%20%28Amphibia%3A%20Proteidae%29.%20A%20case%20study%20of%20a%20highly%20vulnerable%20population%20of%20P.%20a.%20parkelj%20in%20Bela%20krajina%2C%20Slovenia%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2010-46"
+  },
+  {
+    "year": 2010,
+    "title": "Does Proteus detect and react to a sudden rise of water conductivity which indicates incoming flood?",
+    "authors": "Gregor Aljančič and Mitja Prelovšek*, 2010.",
+    "citation": [
+      "Abstract book of 20 th International Conference on Subterranean Biology. Postojna, Aug 29 - Sep 3, 2010: 114-115."
+    ],
+    "affiliations": ["(*ZRC SAZU)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22Does%20Proteus%20detect%20and%20react%20to%20a%20sudden%20rise%20of%20water%20conductivity%20which%20indicates%20incoming%20flood%3F%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2010-47"
+  },
+  {
+    "year": 2010,
+    "title": "The shrimp rostrum between phylogeny and adaptation",
+    "authors": "Jure Jugovic*, Simona Prevorčnik*, Gregor Aljančič and Boris Sket*, 2010.",
+    "citation": [
+      "Abstract book of 20 th International Conference on Subterranean Biology. Postojna, Slovenia, Aug 29 - Sep 3, 2010: 118."
+    ],
+    "affiliations": ["(*Oddelek za biologijo/ Dept. of Biology, University of Ljubljana)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://scholar.google.com/scholar?q=%22The%20shrimp%20rostrum%20between%20phylogeny%20and%20adaptation%22",
+        "kind": "search"
+      }
+    ],
+    "id": "2010-48"
+  },
+  {
+    "year": 2010,
+    "title": "The atyid shrimp (Crustacea: Decapoda: Atyidae) rostrum: phylogeny versus adaptation, taxonomy versus trophic ecology",
+    "authors": "Jure Jugovic*, Simona Prevorčnik*, Gregor Aljančič and Boris Sket*, 2010.",
+    "citation": ["Journal of Natural History, Vol. 44 (41-42): 2509 - 2533."],
+    "affiliations": ["(*Oddelek za biologijo/ Dept. of Biology, University of Ljubljana)"],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://tular.si/www.informaworld.com/smpp/content%7Econtent=a927983829%7Edb=all%7Ejumptype=rss",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2010-49"
+  },
+  {
+    "year": 2009,
+    "title": "Monitoring of Proteus anguinus in Semi-Natural Conditions of Cave Laboratory Tular – a GIS Approach",
+    "authors": "Gregor Aljančič and Magdalena Năpăruş, 2009.",
+    "citation": [
+      "Proceedings of 17 th International Karstological School “Classical Karst”. Postojna, Slovenia."
+    ],
+    "affiliations": [],
+    "notes": [],
+    "links": [
+      {
+        "url": "https://tular.si/www.tular.si/index.php/en/recen-research/53-gis",
+        "kind": "publisher"
+      }
+    ],
+    "id": "2009-50"
+  }
+]

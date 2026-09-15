@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="home-hero page-width">
+<section class="home-intro">
+  <p class="eyebrow">Tular · {{ "Kranj, Slovenija · Od leta 1960" if language == "sl" else "Kranj, Slovenia · Since 1960" }}</p>
+  <h1>{{ copy.hero_title }}</h1>
+  <div class="home-summary">
+    <p class="hero-statement">{{ copy.hero_intro }}</p>
+    <div>
+      <p>{{ copy.hero_body }}</p>
+      <div class="hero-links">
+        <a class="button" href="{{ page_url('proteus') }}">{{ copy.meet }} <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14" /></svg></a>
+        <a class="underlined" href="{{ page_url('tular') }}">{{ copy.about }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+<figure class="hero-photo">
+  <img src="{{ asset('eDNA_Proteus.jpg') }}" width="777" height="480" alt="{{ 'Človeška ribica pri opazovanju v laboratoriju' if language == 'sl' else 'Close view of an olm under observation in the laboratory' }}" fetchpriority="high" />
+  <figcaption><i>Proteus anguinus</i><span>{{ 'Fotografija' if language == 'sl' else 'Photograph' }}: Gregor Aljančič · Tular</span></figcaption>
+</figure>
+</div>
+<section class="topics page-width">
+  <h2>{{ copy.explore }}</h2>
+  <div class="topic-grid">
+    {% for topic in topics %}
+    <article class="topic">
+      <a class="topic-image" href="{{ page_url(topic.route) }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ url(topic.image) }}" alt="" loading="lazy" />
+      </a>
+      <div class="topic-copy">
+        <h3><a href="{{ page_url(topic.route) }}">{{ topic.title }} <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14" /></svg></a></h3>
+        <p>{{ topic.description }}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+<section class="film-strip page-width">
+  <div class="film-intro">
+    <p class="eyebrow">{{ 'Pogled od blizu' if language == 'sl' else 'A closer look' }}</p>
+    <h2>{{ copy.film }}</h2>
+    <p>{{ 'Posnetki razmnoževanja človeške ribice iz dokumentarnega filma Prirodoslovnega muzeja Slovenije (2000).' if language == 'sl' else 'Footage of olm reproduction from the Slovenian Museum of Natural History documentary (2000).' }}</p>
+    <a href="https://www.youtube.com/watch?v=tePqvqWYOxA">{{ 'Odpri v YouTubu' if language == 'sl' else 'Open on YouTube' }} ↗</a>
+  </div>
+  <iframe src="https://www.youtube-nocookie.com/embed/tePqvqWYOxA?rel=0" title="{{ copy.film }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</section>
+<section class="references page-width">
+  <h2>{{ copy.new }}</h2>
+  {% include "references.html" %}
+</section>
+{% endblock %}

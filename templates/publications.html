@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-width">
+  <nav class="breadcrumbs" aria-label="{{ 'Pot do strani' if language == 'sl' else 'Breadcrumb' }}"><a href="{{ page_url('home') }}">{{ titles.home }}</a><span aria-hidden="true">/</span><span>{{ title }}</span></nav>
+  <header class="page-heading">
+    <h1>{{ title }}</h1>
+    <p>{{ copy.research_intro if key == 'research' else copy.media_intro }}</p>
+  </header>
+  <section class="reference-section">
+    <h2>{{ copy.related_research if key == 'research' else copy.new }}</h2>
+    {% include "references.html" %}
+  </section>
+  <section class="bibliography" id="archive" aria-labelledby="archive-title">
+    <div class="archive-heading">
+      <h2 id="archive-title">{{ copy.archive }}</h2>
+      <span class="entry-count">{{ entry_count }} {{ copy.results }}</span>
+    </div>
+    <form class="archive-tools" hidden role="search">
+      <div class="search-field">
+        <label for="archive-search">{{ copy.search if key == 'research' else copy.search_media }}</label>
+        <input id="archive-search" type="search" placeholder="{{ copy.placeholder }}" autocomplete="off" />
+      </div>
+      <div class="year-field">
+        <label for="archive-year">{{ copy.year }}</label>
+        <select id="archive-year">
+          <option value="">{{ copy.all_years }}</option>
+          {% for year in years %}<option value="{{ year }}">{{ year }}</option>{% endfor %}
+        </select>
+      </div>
+      <button type="reset" class="reset-button">{{ copy.reset }}</button>
+      <p id="search-status" role="status" aria-live="polite"></p>
+    </form>
+    <div id="archive-content">
+      {% for group in groups %}
+      <section class="publication-year" data-year="{{ group.year }}" aria-labelledby="year-{{ group.year }}">
+        <h2 id="year-{{ group.year }}">{{ group.year }}</h2>
+        <div class="year-entries">
+          {% for entry in group.entries %}
+          <article class="publication" id="publication-{{ entry.id }}">
+            <h3>
+              {% if entry.links and entry.links[0].kind not in ['archive', 'search'] %}
+              <a href="{{ url(entry.links[0].url) }}">{{ entry.title }}</a>
+              {% else %}{{ entry.title }}{% endif %}
+            </h3>
+            {% if key == 'research' %}
+            <p class="publication-authors">{{ entry.authors }}</p>
+            {% for citation in entry.citation %}<p class="publication-citation">{{ citation }}</p>{% endfor %}
+            {% if entry.doi %}<p class="publication-doi"><a href="https://doi.org/{{ entry.doi }}">doi:{{ entry.doi }}</a></p>{% endif %}
+            {% for note in entry.notes %}<p class="publication-note">{{ note }}</p>{% endfor %}
+            {% else %}
+            <p class="publication-citation">{{ entry.description }}</p>
+            {% endif %}
+            <div class="publication-links">
+              {% for link in entry.links %}
+              <a href="{{ url(link.url) }}" {% if link.kind == 'archive' %}title="{{ copy.archive_note }}"{% endif %}>
+                {{ copy.archive_link if link.kind == 'archive' else copy.search_link if link.kind == 'search' else copy.pdf if link.kind == 'pdf' else copy.publisher if key == 'research' else copy.media_publisher }}
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14" /></svg>
+              </a>
+              {% endfor %}
+            </div>
+            {% if key == 'research' and entry.affiliations %}
+            <details class="publication-details">
+              <summary>{{ copy.details }}</summary>
+              {% for affiliation in entry.affiliations %}<p>{{ affiliation | safe }}</p>{% endfor %}
+            </details>
+            {% endif %}
+          </article>
+          {% endfor %}
+        </div>
+      </section>
+      {% endfor %}
+      <p class="no-results" hidden>{{ copy.no_results }}</p>
+    </div>
+  </section>
+</div>
+{% endblock %}

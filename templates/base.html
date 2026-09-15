@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="{{ language }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ title }} — Tular {{ copy.laboratory }}</title>
+    <meta name="description" content="{{ copy.mission }} {{ copy.hero_body }}" />
+    <meta name="theme-color" content="#151a20" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&amp;display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url('/assets/styles/site.css') }}" />
+    <link rel="icon" href="{{ asset('Tular_logo_55') }}" />
+    <link rel="alternate" hreflang="en" href="{{ page_url(key, 'en') }}" />
+    <link rel="alternate" hreflang="sl" href="{{ page_url(key, 'sl') }}" />
+    <script src="{{ url('/assets/scripts/site.js') }}" defer></script>
+  </head>
+  <body class="page-{{ key | replace('/', '-') }}">
+    <a class="skip-link" href="#main">{{ copy.skip }}</a>
+    <header class="site-header">
+      <a class="brand" href="{{ page_url('home') }}">
+        <img src="{{ asset('Tular_logo_55') }}" width="48" height="48" alt="" />
+        <span>TULAR<small>{{ copy.laboratory }}</small></span>
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="navigation">
+        {{ copy.menu }}
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h16M4 16h16" /></svg>
+      </button>
+      <nav id="navigation" aria-label="{{ copy.navigation }}">
+        {% for item in main_navigation %}
+        <a href="{{ page_url(item) }}" {% if item == section %}aria-current="page"{% endif %}>{{ titles[item] }}</a>
+        {% endfor %}
+      </nav>
+      <a class="language" href="{{ page_url(key, other_language) }}" lang="{{ other_language }}" hreflang="{{ other_language }}" aria-label="{{ 'Switch to English' if language == 'sl' else 'Preklopi v slovenščino' }}">{{ other_language | upper }}</a>
+    </header>
+
+    <aside class="rescue-banner" aria-label="SOS Proteus">
+      <div class="rescue-inner">
+        <strong class="rescue-name">SOS <br />PROTEUS</strong>
+        <div class="rescue-message">
+          <h2>{{ copy.rescue_title }}</h2>
+          <p>{{ copy.rescue_text }} <a href="{{ page_url('conservation/sos-proteus') }}">{{ copy.rescue_link }}</a></p>
+        </div>
+        <a class="rescue-phone" href="tel:+38631804163">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 3 3 5-2 2a14 14 0 0 0 6 6l2-2 5 3-1 4C10 23 1 14 3 4Z" /></svg>
+          +386 31 804 163
+        </a>
+      </div>
+    </aside>
+
+    <main id="main">
+      {% block content %}{% endblock %}
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-top">
+        <div>
+          <a class="footer-brand" href="{{ page_url('home') }}">TULAR</a>
+          <p>{{ copy.mission }}</p>
+        </div>
+        <address>
+          {{ copy.society }}<br />
+          Oldhamska c. 8a, SI-4000 Kranj<br />
+          <a href="mailto:info@tular.si">info@tular.si</a>
+        </address>
+        <nav aria-label="{{ 'Povezave v nogi' if language == 'sl' else 'Footer links' }}">
+          <a href="{{ page_url('contact') }}">{{ titles.contact }}</a>
+          <a href="https://www.facebook.com/TularCaveLaboratory">Facebook</a>
+          <a href="https://twitter.com/TularCaveLab">X / Twitter</a>
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <span>© Društvo za jamsko biologijo / Society for Cave Biology</span>
+        <a href="tel:+38631804163">SOS Proteus · +386 31 804 163</a>
+      </div>
+    </footer>
+  </body>
+</html>

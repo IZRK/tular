@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "direction": "Contemporary photographic science publication",
+  "colors": {
+    "background": "#f9faf7",
+    "surface": "#eaf0ec",
+    "ink": "#173d3d",
+    "muted": "#536765",
+    "line": "#d8e1dc",
+    "link": "#175e63",
+    "rescue": "#bf3424"
+  },
+  "typography": {
+    "display": "Manrope",
+    "body": "Source Sans 3",
+    "provider": "Google Fonts"
+  },
+  "layout": {
+    "maxWidth": 1280,
+    "readingMeasure": "Same width as the article gallery"
+  }
+}

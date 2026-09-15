@@ -1,0 +1,320 @@
+{
+  "https://tular.si/images/Tular_img/Proteus_stranded_photo_Gregor_Aljancic_Mediuma.jpg": {
+    "path": "assets/images/proteus-stranded-photo-gregor-aljancic-mediuma.jpg",
+    "bytes": 159905,
+    "sha256": "82d7fab436d1b5722e3bd8eddd089227f50100c39b44a1fabf394e19bd9fbe7f"
+  },
+  "https://tular.si/images/Tular_img/black_proteus_photo_Gregor_Aljancic.jpg": {
+    "path": "assets/images/black-proteus-photo-gregor-aljancic.jpg",
+    "bytes": 71581,
+    "sha256": "e93f1bb1fc79c296216f5c9515c1bbfeed23a8bd949a12e479c036167fc77943"
+  },
+  "https://tular.si/images/Tular_img/Hutovo_Blato_photo_Gregor_Aljancic_a.jpg": {
+    "path": "assets/images/hutovo-blato-photo-gregor-aljancic-a.jpg",
+    "bytes": 122159,
+    "sha256": "710ffee6daae21caa1170c55e6643a12a9400e9cfe151ab46c5fc369da2673ea"
+  },
+  "https://tular.si/images/Tular_img/Tular_photo_Gregor_Aljancic_Mediuma.jpg": {
+    "path": "assets/images/tular-photo-gregor-aljancic-mediuma.jpg",
+    "bytes": 104533,
+    "sha256": "998d4f950c2c1b157f15ee430c7928cbee152093e207395415ea60353c6cd038"
+  },
+  "https://tular.si/images/Tular_img/eea_nor_grants_logo.png": {
+    "path": "assets/images/eea-nor-grants-logo.png",
+    "bytes": 25364,
+    "sha256": "d4c070aeb11ca8daf60470a41d49392ffdb8431aa9299a49b30e2199a1c71f8f"
+  },
+  "https://tular.si/images/Tular_img/Proteus_photo_Gregor_Aljancic_Mediuma.jpg": {
+    "path": "assets/images/proteus-photo-gregor-aljancic-mediuma.jpg",
+    "bytes": 93405,
+    "sha256": "755425e9e0305d1fe50ac03ccf549c4e0dade2e32bfa399ae95dc92e163db75b"
+  },
+  "https://tular.si/images/Tular_img/vonChauvin_1883.jpg": {
+    "path": "assets/images/vonchauvin-1883.jpg",
+    "bytes": 75862,
+    "sha256": "f79bf088c2db20c15e7593393803f7e6537438d2b10f13179d271a9fb86847da"
+  },
+  "https://tular.si/images/Tular_img/Proteus_hatching_Tular_Cave_Lab_photo_G_Aljancic.JPG": {
+    "path": "assets/images/proteus-hatching-tular-cave-lab-photo-g-aljancic.jpg",
+    "bytes": 90155,
+    "sha256": "f8f4051868de2cf6d1a217f491f9b2f4906c763aa4513b9ccc1449fb02979890"
+  },
+  "https://tular.si/images/Tular_img/Zeller_1889_Proteus_larva.JPG": {
+    "path": "assets/images/zeller-1889-proteus-larva.jpg",
+    "bytes": 27643,
+    "sha256": "bb6da9553fe55fa3122cc72db6b1ed413dc9794e0d612882d231d879f6f90944"
+  },
+  "https://tular.si/images/pdf/GM_Aljancic_1998_Razmnozevanje_cloveske_ribice.pdf": {
+    "path": "assets/documents/gm-aljancic-1998-razmnozevanje-cloveske-ribice.pdf",
+    "bytes": 953372,
+    "sha256": "cc52fa35486963c45e10e229aa281848dac528238166cba99cd92c5ce7de38a4"
+  },
+  "https://tular.si/images/Tular_img/Featured/eDNA_Proteus.jpg": {
+    "path": "assets/images/edna-proteus.jpg",
+    "bytes": 66839,
+    "sha256": "07c05753f1d903d737c7f6ce67b7d5358a115d2eb85335f731583308b92c1dfb"
+  },
+  "https://tular.si/images/pdf/Proteus_eDNA_SREP_press_release.pdf": {
+    "path": "assets/documents/proteus-edna-srep-press-release.pdf",
+    "bytes": 78724,
+    "sha256": "7123b0c082958579fd4b98d799dad988012fb9328329e5b654acc64f2a9a9b7e"
+  },
+  "https://tular.si/images/Tular_docs/Subterranean_biodiversity_Shkoder_Program.pdf": {
+    "path": "assets/documents/subterranean-biodiversity-shkoder-program.pdf",
+    "bytes": 501566,
+    "sha256": "c14da54908e784acea04ffbf7f43837f197f1607fe8786efa3e8c1a7bf6b57e8"
+  },
+  "https://tular.si/images/Tular_img/Rijeka_Crnojevica_MNE_Large.JPG": {
+    "path": "assets/images/rijeka-crnojevica-mne-large.jpg",
+    "bytes": 164476,
+    "sha256": "8f8be16d87543c468d54893c5c97e5ae4d0433fa83838f44c3f3b7322ac3c76b"
+  },
+  "https://tular.si/images/Tular_img/Sopot_Cave_MNELarge.JPG": {
+    "path": "assets/images/sopot-cave-mnelarge.jpg",
+    "bytes": 285715,
+    "sha256": "91744e0aa005bc22edad67570210344e23f3034b0412c317a5abb4efb475317e"
+  },
+  "https://tular.si/images/Tular_img/Trebizat_CEPF_BE_Large.JPG": {
+    "path": "assets/images/trebizat-cepf-be-large.jpg",
+    "bytes": 187951,
+    "sha256": "36c2c1da549963665a21228664e534d2e97abd599da285bd70dffb22ba137d49"
+  },
+  "https://tular.si/images/Tular_img/Bela_Krajina_SLO_Large.JPG": {
+    "path": "assets/images/bela-krajina-slo-large.jpg",
+    "bytes": 223447,
+    "sha256": "3e150684640b846b607ed6201165e2b593b7b7413029b38321771b4f02eaf434"
+  },
+  "https://tular.si/images/Tular_img/Bregava_BE_Large.JPG": {
+    "path": "assets/images/bregava-be-large.jpg",
+    "bytes": 359225,
+    "sha256": "9d0dff5ccb269fa0145e947b92074ec0ffec9a9cb70c3cceba994d8e52d18c0f"
+  },
+  "https://tular.si/images/Tular_img/Info_Board_Vitina_BE_Large.jpg": {
+    "path": "assets/images/info-board-vitina-be-large.jpg",
+    "bytes": 317548,
+    "sha256": "492987787ea0d5fe91f25bddad47b553be3b6f1d7c926c0928e4755e9a578476"
+  },
+  "https://tular.si/images/Tular_img/Hutovo_Blato_BE_Large.jpg": {
+    "path": "assets/images/hutovo-blato-be-large.jpg",
+    "bytes": 255424,
+    "sha256": "13611a06575ef70834889ecaeb138431f08995055676411e1a5a6ca57a2521d4"
+  },
+  "https://tular.si/images/Tular_img/eDNA_SLO_Large.jpg": {
+    "path": "assets/images/edna-slo-large.jpg",
+    "bytes": 182188,
+    "sha256": "d8c46ee536da808d020a6beae5daddbd168989feaf554fd760ccac6ab22e0b30"
+  },
+  "https://tular.si/images/Tular_img/eDNA_Proteus_2.jpg": {
+    "path": "assets/images/edna-proteus-2.jpg",
+    "bytes": 108311,
+    "sha256": "28d6b0f42b9000023014c7e4dcf06e64fd6764cd262f86c9eaeea948d722fd0b"
+  },
+  "https://tular.si/images/Tular_img/eDNA1_SLO_Large.JPG": {
+    "path": "assets/images/edna1-slo-large.jpg",
+    "bytes": 193337,
+    "sha256": "495e9aef107ec96ac8961cf6505550d577777d943e1568fe75c51fb1bb9e8e40"
+  },
+  "https://tular.si/images/Tular_img/Filtering.jpg": {
+    "path": "assets/images/filtering.jpg",
+    "bytes": 73731,
+    "sha256": "341680a67a68600bf559a9e3f7f1415ff51b2bd4086548fbee8ccd11022980a5"
+  },
+  "https://tular.si/images/Tular_img/Tular_logo.png": {
+    "path": "assets/images/tular-logo.png",
+    "bytes": 12770,
+    "sha256": "d3d7cc7a100581a5fd517d8c0b930322be2bba5d4db04a285f5baeb3af8d99ed"
+  },
+  "https://tular.si/images/Tular_img/Rodica_M.jpg": {
+    "path": "assets/images/rodica-m.jpg",
+    "bytes": 64851,
+    "sha256": "85cc7db8ae10f10f1b3ddf9256a93e71950523573a93b2fa6c9c0d4d956ad438"
+  },
+  "https://tular.si/images/Tular_img/cepf_PARTNERJI1.jpg": {
+    "path": "assets/images/cepf-partnerji1.jpg",
+    "bytes": 636768,
+    "sha256": "93628fde3d78714439889358d017fb5fbcc9bc42522c992cd623f2dedfda4050"
+  },
+  "https://tular.si/images/Tular_img/cepf_logos1.jpg": {
+    "path": "assets/images/cepf-logos1.jpg",
+    "bytes": 89624,
+    "sha256": "9291bda5525060b58c8ae3dbd971d8e1e70eac1d9df6ee78c7227394039ab205"
+  },
+  "https://tular.si/images/Tular_img/logoZRCcmyk.jpg": {
+    "path": "assets/images/logozrccmyk.jpg",
+    "bytes": 87390,
+    "sha256": "38c5bb2f1c06b9b26072af83da829a0aa75b4c0e1d3239e0a045fe762fb74d6a"
+  },
+  "https://tular.si/images/Tular_img/Dobrepolje1.png": {
+    "path": "assets/images/dobrepolje1.png",
+    "bytes": 16914,
+    "sha256": "680ab2f1115f2dc612ca05642211baa0a014d2954dfd69b1cdef3bbc8319e79a"
+  },
+  "https://tular.si/images/Tular_img/rnomelj1.png": {
+    "path": "assets/images/rnomelj1.png",
+    "bytes": 9598,
+    "sha256": "bcfa214bf03fe114e14fb3dfc01484c45e9de8fa334f43f34bff05ccfbc790fb"
+  },
+  "https://tular.si/images/Tular_img/NO3_Bela_krajina.jpg": {
+    "path": "assets/images/no3-bela-krajina.jpg",
+    "bytes": 296043,
+    "sha256": "d1b80689f29fc264f0d4a26a1f85104b386d821147adea12fc70ec00afc75cc4"
+  },
+  "https://tular.si/images/Tular_img/Workshop_SOS_Proteus_2015.jpg": {
+    "path": "assets/images/workshop-sos-proteus-2015.jpg",
+    "bytes": 170998,
+    "sha256": "3f9e0048be69a89d9795df37bbd3ee9470d3bb68fd4e389567987ac20e8066ab"
+  },
+  "https://tular.si/images/pdf/Workshop_SOS_Proteus_2015.pdf": {
+    "path": "assets/documents/workshop-sos-proteus-2015.pdf",
+    "bytes": 1462434,
+    "sha256": "19906b1f210492dc90f67f550435c47571409ccc6b759bbfea6d057af64d28fb"
+  },
+  "https://tular.si/images/pdf/Threats_on_Proteus_and_groundwater.pdf": {
+    "path": "assets/documents/threats-on-proteus-and-groundwater.pdf",
+    "bytes": 1337386,
+    "sha256": "4dfdd74e013e842419656a61bf76ae30d0ab802d03bf8f9061982275da880e45"
+  },
+  "https://tular.si/images/Tular_img/Threats_on_Proteus_and_groundwater_Page_1s.jpg": null,
+  "https://tular.si/images/Tular_img/lecture_Dragatus.jpg": {
+    "path": "assets/images/lecture-dragatus.jpg",
+    "bytes": 201247,
+    "sha256": "11a7f41b76da5c3c1e6fb48c309085cbc6fbe415aa900b75951f2344662b7a9f"
+  },
+  "https://tular.si/images/pdf/Zatocisce_za_cloveske_ribice.pdf": {
+    "path": "assets/documents/zatocisce-za-cloveske-ribice.pdf",
+    "bytes": 1716320,
+    "sha256": "4903ed6dd6e9252215f645bc9378aa2b307d7234a14861fe8ce33ed7ee14d1d9"
+  },
+  "https://tular.si/images/Tular_img/Zatocisce_za_cloveske_ribice_Page_1s.jpg": null,
+  "https://tular.si/images/Tular_docs/SOS_Proteus_2016_Program.pdf": {
+    "path": "assets/documents/sos-proteus-2016-program.pdf",
+    "bytes": 622024,
+    "sha256": "75052e51c30d381d7a0a193d5c359e8fce74a54a52c503433e893417575f8af5"
+  },
+  "https://tular.si/images/pdf/Aljancic_et_al_2014_Endangered_Proteus_combining_DNA_and_GIS_for_its_conservation.pdf": {
+    "path": "assets/documents/aljancic-et-al-2014-endangered-proteus-combining-dna-and-gis-for-its-conservation.pdf",
+    "bytes": 296578,
+    "sha256": "4dd5765a8ef0719c53213f7ea7ea4410821f853c6880527a51a98c5a26cd04c1"
+  },
+  "https://tular.si/images/Tular_img/TularCaveLaboratory1.jpg": {
+    "path": "assets/images/tularcavelaboratory1.jpg",
+    "bytes": 91711,
+    "sha256": "58677f79e52791de2976818b562bdd5d71ddfadb28da4b0b33502d867ee3ae76"
+  },
+  "https://tular.si/images/Tular_img/TularCaveLaboratory2.jpg": {
+    "path": "assets/images/tularcavelaboratory2.jpg",
+    "bytes": 36299,
+    "sha256": "450446149bc161dd972740a398a117cd26e7b3f3729bb3146a346940b8ad015e"
+  },
+  "https://tular.si/images/Tular_img/TularCaveLaboratory3.jpg": {
+    "path": "assets/images/tularcavelaboratory3.jpg",
+    "bytes": 59348,
+    "sha256": "9353f24b4e87c30364d9944c9271d6236a6a88c10707a5966c16b52841a6b877"
+  },
+  "https://tular.si/images/Tular_docs/SOS_Proteus_2018_Program.pdf": {
+    "path": "assets/documents/sos-proteus-2018-program.pdf",
+    "bytes": 764718,
+    "sha256": "db8636c791f761aaf35192dd34aae98bd374230279d9f991137f31668b294e85"
+  },
+  "https://tular.si/images/Tular_img/IMG_1626Large.jpg": {
+    "path": "assets/images/img-1626large.jpg",
+    "bytes": 65029,
+    "sha256": "2d79656aa2b96433d1445036f4dbb5e61e9f9fd4f41826e8538bda889cebcb9f"
+  },
+  "https://tular.si/images/Tular_img/Cloveska_ribica_odlaganje_jajcec_2012.jpg": {
+    "path": "assets/images/cloveska-ribica-odlaganje-jajcec-2012.jpg",
+    "bytes": 89398,
+    "sha256": "bca6935e516d71c6e54423741931ab3767aababeb3d2159bbbe5d7c0d6df1b58"
+  },
+  "https://tular.si/images/Tular_img/Proteus_SOS.jpg": {
+    "path": "assets/images/proteus-sos.jpg",
+    "bytes": 104457,
+    "sha256": "62b71bdf9a500efa10a1261ea2f15dcfb9ccdf7a188a1e03983a80df80e29fb6"
+  },
+  "https://tular.si/images/pdf/Abstract_Book_SOS_Proteus_2022.pdf": {
+    "path": "assets/documents/abstract-book-sos-proteus-2022.pdf",
+    "bytes": 816066,
+    "sha256": "fdc22efe6e9b2e89f23738266bfa45cf33671d30bac67e9f7dbac41b2d3e2758"
+  },
+  "https://tular.si/images/pdf/Conservation_of_Proteus_2017.pdf": {
+    "path": "assets/documents/conservation-of-proteus-2017.pdf",
+    "bytes": 1434588,
+    "sha256": "a9143d931ce2fe398341cd18333368e124949d55f1c9c56012b95a1a2a5d3c91"
+  },
+  "https://tular.si/images/Tular_img/Conservation_of_Proteus_2017_Page_2_Large.jpg": {
+    "path": "assets/images/conservation-of-proteus-2017-page-2-large.jpg",
+    "bytes": 377018,
+    "sha256": "51066b5b7a4c64f04d602066489216132e15aec7ca3744339d6535d886cfd780"
+  },
+  "https://tular.si/images/pdf/Resevanje_cloveskih_ribic_2017.pdf": {
+    "path": "assets/documents/resevanje-cloveskih-ribic-2017.pdf",
+    "bytes": 1499628,
+    "sha256": "87fc0eeea5ff89448cb6b39f5f6f8feaf31c015b2e59eff5bfb7154aa844e74b"
+  },
+  "https://tular.si/images/Tular_img/Resevanje_cloveskih_ribic_2017_Page_1_Large.jpg": {
+    "path": "assets/images/resevanje-cloveskih-ribic-2017-page-1-large.jpg",
+    "bytes": 319800,
+    "sha256": "37df0f35acb2481df4b278189c7899451cf258b69e34ab4d19305a621181a1d1"
+  },
+  "https://tular.si/images/pdf/Varstvo_proteusa_2017.pdf": {
+    "path": "assets/documents/varstvo-proteusa-2017.pdf",
+    "bytes": 1377117,
+    "sha256": "e8dbd8ca671424a583ec24a420d95e695b011652866510d83b80b729c8a86c3e"
+  },
+  "https://tular.si/images/Tular_img/Varstvo_proteusa_2017_Page_2_Large.jpg": {
+    "path": "assets/images/varstvo-proteusa-2017-page-2-large.jpg",
+    "bytes": 375075,
+    "sha256": "ff701676ccd2090acecfaca82447a55eed431dc89a6af8ca9b96efecf1c254ea"
+  },
+  "https://tular.si/images/Tular_img/Jama_Tular_2_photo_G_Aljancic.JPG": {
+    "path": "assets/images/jama-tular-2-photo-g-aljancic.jpg",
+    "bytes": 172468,
+    "sha256": "30cc74c09b00f9501f66a08d0ad36da38e63d972a8cfd0e1e3307d0c38af8823"
+  },
+  "https://tular.si/images/Tular_img/Niphargus_ilidzensis_slovenicus_photo_M_Aljancic.jpg": {
+    "path": "assets/images/niphargus-ilidzensis-slovenicus-photo-m-aljancic.jpg",
+    "bytes": 87479,
+    "sha256": "069edfb3a5750b369676dbd42f504601bcffe7c361c2d526f8013d465739f71a"
+  },
+  "https://tular.si/images/Tular_img/Jama_Tular_1_photo_G_Aljancic.jpg": {
+    "path": "assets/images/jama-tular-1-photo-g-aljancic.jpg",
+    "bytes": 131255,
+    "sha256": "f435fa60de5e557d4e1bfa01af87b252ad406d154e8ecbd8c38c41f4a60d0943"
+  },
+  "https://tular.si/images/Tular_img/Proteus_eggs_Tular_Cave_Lab_photo_G_Aljancic.jpg": {
+    "path": "assets/images/proteus-eggs-tular-cave-lab-photo-g-aljancic.jpg",
+    "bytes": 141357,
+    "sha256": "e754e56037c9065acc9196ea4b143b86ddb495e56746ed46a218ee506e0a7f65"
+  },
+  "https://tular.si/images/pdf/Posvet_SOS_Proteus.pdf": {
+    "path": "assets/documents/posvet-sos-proteus.pdf",
+    "bytes": 1451996,
+    "sha256": "1ed6a70e595e3a610a15fe2b8f51403d7d0cf5497b0182a476a22a64032fdbe2"
+  },
+  "https://tular.si/images/pdf/Ogrozenost_cloveske_ribice.pdf": {
+    "path": "assets/documents/ogrozenost-cloveske-ribice.pdf",
+    "bytes": 1377104,
+    "sha256": "00c3d8bbb70bf63f32938b049dcd094ab690b48d807e8f4dd83593edca6a91ea"
+  },
+  "https://tular.si/images/Tular_img/Ogrozenost_proteusa_Page_2s.jpg": null,
+  "https://tular.si/images/pdf/Aljancic_et_al_2015_Ogrozenost_cloveske_ribice_in_pitne_vode_v_Beli_krajini.pdf": {
+    "path": "assets/documents/aljancic-et-al-2015-ogrozenost-cloveske-ribice-in-pitne-vode-v-beli-krajini.pdf",
+    "bytes": 385324,
+    "sha256": "90b9f024dbde8c2853d2b749e12cf49a3674827da8932e0b7e5e0af8350e9002"
+  },
+  "https://tular.si/images/pdf/Aljancic_GM_2015_Dobrepolje_dolina_cloveskih_ribic.pdf": {
+    "path": "assets/documents/aljancic-gm-2015-dobrepolje-dolina-cloveskih-ribic.pdf",
+    "bytes": 383536,
+    "sha256": "6aeef90b0711a1fdbabdfe01fce9968f4e479405b2558c82c828eea08b9062fb"
+  },
+  "https://tular.si/images/Tular_img/foto_EEA_Proteus_2015.JPG": {
+    "path": "assets/images/foto-eea-proteus-2015.jpg",
+    "bytes": 59653,
+    "sha256": "0ead735a1d1e9956da3d11a793fdef80e490af5ec38306ff798a7ef052d8e63d"
+  },
+  "https://tular.si/images/Tular_img/Tular_logo_55.png": {
+    "path": "assets/images/tular-logo-55.png",
+    "bytes": 13519,
+    "sha256": "68b4c07dd018b95330e3e1f10c30e7884748d3494d1058f6ed416d3042458a3e"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "tular",
+  "version": "1.0.0",
+  "description": "Bilingual static website for Tular Cave Laboratory",
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "build": "python3 scripts/build.py && npm run format",
+    "format": "prettier --write \"**/*.{html,css,js,mjs,json,md}\"",
+    "format:check": "prettier --check \"**/*.{html,css,js,mjs,json,md}\"",
+    "check": "python3 scripts/check.py",
+    "check:browser": "node scripts/check-browser.mjs",
+    "package": "python3 scripts/package.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "playwright": "^1.63.0",
+    "prettier": "^3.9.6"
+  },
+  "private": true
+}

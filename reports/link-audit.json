@@ -1,0 +1,2299 @@
+{
+  "checked": "2026-09-15",
+  "results": [
+    {
+      "url": "http://4d.rtvslo.si/arhiv/o-zivalih-in-ljudeh/165364301",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/o-zivalih-in-ljudeh/165364301",
+      "labels": [
+        "watch @7:10'",
+        "glej od @7:10'"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/o-zivalih-in-ljudeh/165364301",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.nature.com/articles/srep45054",
+      "status": 200,
+      "final_url": "https://www.nature.com/articles/srep45054",
+      "labels": [
+        "Read open access",
+        "article",
+        "read"
+      ],
+      "repair": {
+        "url": "https://www.nature.com/articles/srep45054",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.cepf.net/SiteCollectionDocuments/mediterranean/FinalReport_SCB.pdf",
+      "status": 403,
+      "final_url": "http://www.cepf.net/SiteCollectionDocuments/mediterranean/FinalReport_SCB.pdf",
+      "labels": [
+        "A survey of the distribution of Proteus anguinus by environmental DNA sampling",
+        "PDF, 3.89MB"
+      ],
+      "repair": {
+        "url": "http://www.cepf.net/SiteCollectionDocuments/mediterranean/FinalReport_SCB.pdf",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.cepf.net",
+      "status": 403,
+      "final_url": "http://www.cepf.net/",
+      "labels": [
+        "Critical Ecosystem Partnership Fund"
+      ],
+      "repair": {
+        "url": "https://www.cepf.net/",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Current HTTPS homepage"
+      }
+    },
+    {
+      "url": "http://www.birdlife.org",
+      "status": 200,
+      "final_url": "https://www.birdlife.org/",
+      "labels": [
+        "BirdLife International"
+      ],
+      "repair": {
+        "url": "https://www.birdlife.org/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://ptice.si/",
+      "status": 200,
+      "final_url": "https://ptice.si/",
+      "labels": [
+        "DOPPS"
+      ],
+      "repair": {
+        "url": "https://ptice.si/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://eeagrants.org/",
+      "status": 200,
+      "final_url": "https://eeagrants.org/en/fmo",
+      "labels": [
+        "EEA Financial Mechanism and the Norwegian Financial Mechanism 2009-2014",
+        ""
+      ],
+      "repair": {
+        "url": "https://eeagrants.org/en/fmo",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.cepf.net/Pages/default.aspx",
+      "status": 403,
+      "final_url": "http://www.cepf.net/Pages/default.aspx",
+      "labels": [
+        "Critical Ecosystem Partnership Fund"
+      ],
+      "repair": {
+        "url": "https://www.cepf.net/",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Current HTTPS homepage"
+      }
+    },
+    {
+      "url": "http://www.birdlife.org/",
+      "status": 200,
+      "final_url": "https://www.birdlife.org/",
+      "labels": [
+        "BirdLife International"
+      ],
+      "repair": {
+        "url": "https://www.birdlife.org/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.birdlife.org/cepf-med/best-practice/cave-olm",
+      "status": 404,
+      "final_url": "https://www.birdlife.org/cepf-med/best-practice/cave-olm",
+      "labels": [
+        "Read more",
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.birdlife.org/cepf-med/best-practice/cave-olm",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.cepf.net/news/top_stories/Pages/Cave-Dwelling-Salamander-Sheds-Light-on-Drinking-Water-Resources.aspx",
+      "status": 403,
+      "final_url": "http://www.cepf.net/news/top_stories/Pages/Cave-Dwelling-Salamander-Sheds-Light-on-Drinking-Water-Resources.aspx",
+      "labels": [
+        "Cave-Dwelling Salamander Sheds Light on Drinking Water Resources",
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "http://www.cepf.net/news/top_stories/Pages/Cave-Dwelling-Salamander-Sheds-Light-on-Drinking-Water-Resources.aspx",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.birdlife.org/europe-and-central-asia/news/scientific-breakthrough-reveals-evidence-%E2%80%98human-fish%E2%80%99-locked-away-cave",
+      "status": 404,
+      "final_url": "https://www.birdlife.org/europe-and-central-asia/news/scientific-breakthrough-reveals-evidence-%E2%80%98human-fish%E2%80%99-locked-away-cave",
+      "labels": [
+        "Scientific breakthrough reveals evidence of ‘human fish’ locked away in cave system",
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.birdlife.org/europe-and-central-asia/news/scientific-breakthrough-reveals-evidence-%E2%80%98human-fish%E2%80%99-locked-away-cave",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://arcg.is/1R9aYfp",
+      "status": 200,
+      "final_url": "http://birdlife.maps.arcgis.com/apps/MapJournal/index.html?appid=0370696a3e124396bf4954f5fefb09cc",
+      "labels": [
+        "StoryMap"
+      ],
+      "repair": {
+        "url": "http://birdlife.maps.arcgis.com/apps/MapJournal/index.html?appid=0370696a3e124396bf4954f5fefb09cc",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.birdlife.org/cepf-med#Best_practices",
+      "status": 200,
+      "final_url": "https://www.birdlife.org/projects/cepf-med/#Best_practices",
+      "labels": [
+        "read more",
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.birdlife.org/projects/cepf-med/#Best_practices",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.tular.si",
+      "status": 200,
+      "final_url": "http://www.tular.si/",
+      "labels": [
+        ""
+      ],
+      "repair": {
+        "url": "http://www.tular.si/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.zrc-sazu.si/en/node",
+      "status": 404,
+      "final_url": "https://www.zrc-sazu.si/en/node",
+      "labels": [
+        ""
+      ],
+      "repair": {
+        "url": "https://www.zrc-sazu.si/en",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Institution homepage repaired"
+      }
+    },
+    {
+      "url": "http://www.dobrepolje.si/",
+      "status": 200,
+      "final_url": "https://www.dobrepolje.si/",
+      "labels": [
+        "",
+        "Municipality of Dobrepolje",
+        "Občina Dobrepolje"
+      ],
+      "repair": {
+        "url": "https://www.dobrepolje.si/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.crnomelj.si/",
+      "status": 200,
+      "final_url": "https://www.crnomelj.si/",
+      "labels": [
+        "",
+        "Municipality of Črnomelj",
+        "Občina Črnomelj"
+      ],
+      "repair": {
+        "url": "https://www.crnomelj.si/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://norveski.nvosklad.si/",
+      "status": 0,
+      "error": "HTTPConnectionPool(host='norveski.nvosklad.si', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='norveski.nvosklad.si', port=80): Fai",
+      "labels": [
+        ""
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://norveski.nvosklad.si/",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://bijh.zrc-sazu.si/en/predstavitev#v",
+      "status": 200,
+      "final_url": "https://bijh.zrc-sazu.si/en/predstavitev#v",
+      "labels": [
+        "Institute of Biology ZRC SAZU",
+        "ZRC SAZU"
+      ],
+      "repair": {
+        "url": "https://bijh.zrc-sazu.si/en/predstavitev#v",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.bf.uni-lj.si/oddelek-za-zootehniko/oddelek/",
+      "status": 404,
+      "final_url": "https://www.bf.uni-lj.si/oddelek-za-zootehniko/oddelek/",
+      "labels": [
+        "Department of Animal Sciences",
+        "Oddelkom za zootehniko"
+      ],
+      "repair": {
+        "url": "https://www.bf.uni-lj.si/en/units/animal-science/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Department moved"
+      }
+    },
+    {
+      "url": "https://brill.com/view/journals/ctoz/aop/article-10.1163-18759866-bja10029/article-10.1163-18759866-bja10029.xml?rskey=m5Mxa9&result=1",
+      "status": 403,
+      "final_url": "https://brill.com/view/journals/ctoz/aop/article-10.1163-18759866-bja10029/article-10.1163-18759866-bja10029.xml?rskey=m5Mxa9&result=1",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://doi.org/10.1163/18759866-bja10029",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Permanent DOI replaces early-online link"
+      }
+    },
+    {
+      "url": "https://watermark.silverchair.com/giac030.pdf",
+      "status": 0,
+      "error": "HTTPSConnectionPool(host='watermark.silverchair.com', port=443): Max retries exceeded with url: /giac030.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAukwggLlBgkqh",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://doi.org/10.1093/gigascience/giac030",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Permanent DOI replaces expiring PDF"
+      }
+    },
+    {
+      "url": "https://ojs.sazu.si/folia_bio_geo/article/view/7544/7063",
+      "status": 200,
+      "final_url": "https://ojs.sazu.si/folia_bio_geo/article/view/7544/7063",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://ojs.sazu.si/folia_bio_geo/article/view/7544/7063",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "https://www.zsl.org/sites/default/files/media/2019-04/ZSL%20Amphibian%20Symposium%20programme%20and%20abstracts.pdf",
+      "status": 502,
+      "final_url": "https://membership.zsl.org/sites/default/files/media/2019-04/ZSL%20Amphibian%20Symposium%20programme%20and%20abstracts.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://www.zsl.org/sites/default/files/media/2019-04/ZSL%20Amphibian%20Symposium%20programme%20and%20abstracts.pdf",
+        "kind": "publisher",
+        "status": 502,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_20_2_5.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_20_2_5.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16692",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_20_2_13.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_20_2_13.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16707",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_20_2_8.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_20_2_8.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16700",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "https://aca.pensoft.net/articles.php?id=29968",
+      "status": 200,
+      "final_url": "https://aca.pensoft.net/articles.php?id=29968",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://aca.pensoft.net/articles.php?id=29968",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_19_1_3.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_19_1_3.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16715",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_19_1_11.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_19_1_11.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16723",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_19_1_2.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_19_1_2.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16714",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_19_1_8.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_19_1_8.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16720",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_18_1_5.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_18_1_5.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16745",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_18_1_16.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_18_1_16.pdf",
+      "labels": [
+        "PDF",
+        "washed-out Proteus"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16757",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_18_1_13.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_18_1_13.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16754",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_18_1_12.pdf",
+      "status": 404,
+      "final_url": "http://web.bf.uni-lj.si/bi/NATURA-SLOVENIAE/pdf/NatSlo_18_1_12.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://journals.uni-lj.si/NaturaSloveniae/article/view/16753",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered article at publisher"
+      }
+    },
+    {
+      "url": "http://onlinelibrary.wiley.com/doi/10.1111/eva.12392/full",
+      "status": 403,
+      "final_url": "https://onlinelibrary.wiley.com/doi/10.1111/eva.12392/full",
+      "labels": [
+        "read"
+      ],
+      "repair": {
+        "url": "https://doi.org/10.1111/eva.12392",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Permanent DOI"
+      }
+    },
+    {
+      "url": "http://www.speleobiology.com/icsb2016/conference-info/program/2016-icsb-abstracts/goricki-spela/",
+      "status": 404,
+      "final_url": "https://speleobiology.com/icsb2016/conference-info/program/2016-icsb-abstracts/goricki-spela/",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.speleobiology.com/icsb2016/conference-info/program/2016-icsb-abstracts/goricki-spela/",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://seh-herpetology.org/sites/seh-herpetology.org/files/uploads/documents/proceedings/SEH%202015.%20Programme%20and%20Abstracts.pdf",
+      "status": 404,
+      "final_url": "http://seh-herpetology.org/sites/seh-herpetology.org/files/uploads/documents/proceedings/SEH%202015.%20Programme%20and%20Abstracts.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://seh-herpetology.org/sites/seh-herpetology.org/files/uploads/documents/proceedings/SEH%202015.%20Programme%20and%20Abstracts.pdf",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0098907&representation=PDF",
+      "status": 200,
+      "final_url": "https://journals.plos.org/plosone/",
+      "labels": [
+        "PDF, 827 KB"
+      ],
+      "repair": {
+        "url": "https://journals.plos.org/plosone/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://home.hiroshima-u.ac.jp/amphibia/FronAmphBiol/FronAmphBiol/English_top_files/program_fron_amph_biolX1a.pdf",
+      "status": 404,
+      "final_url": "https://home.hiroshima-u.ac.jp:443/amphibia/FronAmphBiol/FronAmphBiol/English_top_files/program_fron_amph_biolX1a.pdf",
+      "labels": [
+        "PDF, 1.7MB"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://home.hiroshima-u.ac.jp/amphibia/FronAmphBiol/FronAmphBiol/English_top_files/program_fron_amph_biolX1a.pdf",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://journals.cambridge.org/action/displayAbstract;jsessionid=40D130C212FF55947D4B46BA92536A24.journals?aid=9246777&fileId=S0376892913000465",
+      "status": 200,
+      "final_url": "https://www.cambridge.org/core/journals/environmental-conservation/article/abs/relationships-between-land-cover-climate-and-cave-copepod-spatial-distribution-and-suitability-along-the-carpathians/D855C0A183F6AC8BB8F90060017FD0A0",
+      "labels": [
+        "Environental Conservation, 41/2: 206-216"
+      ],
+      "repair": {
+        "url": "https://www.cambridge.org/core/journals/environmental-conservation/article/abs/relationships-between-land-cover-climate-and-cave-copepod-spatial-distribution-and-suitability-along-the-carpathians/D855C0A183F6AC8BB8F90060017FD0A0",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.euronatur.org/fileadmin/docs/docs_english/Karst-workshop_October2013/Kraska_polja_BiH_-_Knjiga_sazetaka_EN.pdf",
+      "status": 404,
+      "final_url": "https://www.euronatur.org/fileadmin/docs/docs_english/Karst-workshop_October2013/Kraska_polja_BiH_-_Knjiga_sazetaka_EN.pdf",
+      "labels": [
+        "PDF, 0.9MB"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.euronatur.org/fileadmin/docs/docs_english/Karst-workshop_October2013/Kraska_polja_BiH_-_Knjiga_sazetaka_EN.pdf",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://iks.zrc-sazu.si/datoteke/IKS-19-Guide-book-2011.pdf",
+      "status": 404,
+      "final_url": "https://iks.zrc-sazu.si/datoteke/IKS-19-Guide-book-2011.pdf",
+      "labels": [
+        "ABSTRACT"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://iks.zrc-sazu.si/datoteke/IKS-19-Guide-book-2011.pdf",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kranj",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Kranj",
+      "labels": [
+        "Kranj"
+      ],
+      "repair": {
+        "url": "https://en.wikipedia.org/wiki/Kranj",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Johann_Weikhard_von_Valvasor",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Johann_Weikhard_von_Valvasor",
+      "labels": [
+        "J. V. Valvasor"
+      ],
+      "repair": {
+        "url": "https://en.wikipedia.org/wiki/Johann_Weikhard_von_Valvasor",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.ecoex-moulis.cnrs.fr/spip.php?article98&lang=en",
+      "status": 0,
+      "error": "HTTPConnectionPool(host='www.ecoex-moulis.cnrs.fr', port=80): Max retries exceeded with url: /spip.php?article98&lang=en (Caused by NameResolutionError(\"HTTPConnection(host='www.ec",
+      "labels": [
+        "CNRS Subterranean laboratory in Moulis",
+        "Podzemeljskega laboratorija v Moulisu"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.ecoex-moulis.cnrs.fr/spip.php?article98&lang=en",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PZjSSRCQDwA",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=PZjSSRCQDwA",
+      "labels": [
+        "A tribute to speleobiologist Marko Aljančič (1933-2007)"
+      ],
+      "repair": {
+        "url": "https://www.youtube.com/watch?v=PZjSSRCQDwA",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://zavod-cankar.si/userfiles/zavod-cankar.si/dokumenti/Na%C5%A1%20%C4%8Dasopis/2018/Nas_casopis_465_november_2018.pdf",
+      "status": 0,
+      "error": "HTTPSConnectionPool(host='visitvrhnika.siuserfiles', port=443): Max retries exceeded with url: /zavod-cankar.si/dokumenti/Na%C5%A1%20%C4%8Dasopis/2018/Nas_casopis_465_november_2018",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://zavod-cankar.si/userfiles/zavod-cankar.si/dokumenti/Na%C5%A1%20%C4%8Dasopis/2018/Nas_casopis_465_november_2018.pdf",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://audio.ognjisce.si/oddaje/Dozivetja_narave/2018/don_2018_04_20_turno_smucanje_dan_Zemlje.mp3",
+      "status": 200,
+      "final_url": "http://audio.ognjisce.si/oddaje/Dozivetja_narave/2018/don_2018_04_20_turno_smucanje_dan_Zemlje.mp3",
+      "labels": [
+        "listen",
+        "poslušaj"
+      ],
+      "repair": {
+        "url": "http://audio.ognjisce.si/oddaje/Dozivetja_narave/2018/don_2018_04_20_turno_smucanje_dan_Zemlje.mp3",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "https://www.dnevnik.si/1042818946",
+      "status": 404,
+      "final_url": "https://www.dnevnik.si/1042818946",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/https://www.dnevnik.si/1042818946",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://primorska24.si/sos-proteus-varstvo-cloveske-ribice-in-njenega-habitata/",
+      "status": 200,
+      "final_url": "https://primorska24.si/sos-proteus-varstvo-cloveske-ribice-in-njenega-habitata/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://primorska24.si/sos-proteus-varstvo-cloveske-ribice-in-njenega-habitata/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://www.facebook.com/tvkoper/videos/10155480650458008/",
+      "status": 200,
+      "final_url": "https://www.facebook.com/tvkoper/videos/10155480650458008/",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://www.facebook.com/tvkoper/videos/10155480650458008/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://znanost.sta.si/2503743/pred-250-leti-prvi-znanstveni-opis-cloveske-ribice",
+      "status": 403,
+      "final_url": "https://znanost.sta.si/2503743/pred-250-leti-prvi-znanstveni-opis-cloveske-ribice",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "http://znanost.sta.si/2503743/pred-250-leti-prvi-znanstveni-opis-cloveske-ribice",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.mladina.si/185063/proteus-kamionus/",
+      "status": 200,
+      "final_url": "https://www.mladina.si/185063/proteus-kamionus/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.mladina.si/185063/proteus-kamionus/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.si.emb-japan.go.jp/website_jp/doc/Slovenia%20Monthly_2018/Slovenia%20Monthly_Jan_2018.pdf",
+      "status": 200,
+      "final_url": "https://www.si.emb-japan.go.jp/website_jp/doc/Slovenia%20Monthly_2018/Slovenia%20Monthly_Jan_2018.pdf",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.si.emb-japan.go.jp/website_jp/doc/Slovenia%20Monthly_2018/Slovenia%20Monthly_Jan_2018.pdf",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/slovenski-magazin/174516279",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/slovenski-magazin/174516279",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/slovenski-magazin/174516279",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.mladina.si/183404/pregled-leta-mozganci/",
+      "status": 200,
+      "final_url": "https://www.mladina.si/183404/pregled-leta-mozganci/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.mladina.si/183404/pregled-leta-mozganci/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://notranjskoprimorske.si/2017/12/ta-veseli-dan-kulture-tudi-v-notranjskem-muzeju-postojna/",
+      "status": 404,
+      "final_url": "https://notranjskoprimorske.si/2017/12/ta-veseli-dan-kulture-tudi-v-notranjskem-muzeju-postojna/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://notranjskoprimorske.si/2017/12/ta-veseli-dan-kulture-tudi-v-notranjskem-muzeju-postojna/",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.delo.si/novice/slovenija/ko-bo-izumrla-bomo-izginili-tudi-mi.html",
+      "status": 404,
+      "final_url": "https://www.delo.si/novice/slovenija/ko-bo-izumrla-bomo-izginili-tudi-mi.html",
+      "labels": [
+        "watch",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.delo.si/novice/slovenija/ko-bo-izumrla-bomo-izginili-tudi-mi",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered Delo article; verified page title"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/po-sloveniji/174501281",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/po-sloveniji/174501281",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/po-sloveniji/174501281",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.gorenjskiglas.si/article/20171102/C/171109960/1038/resevalna-sluzba-za-cloveske-ribice",
+      "status": 404,
+      "final_url": "https://www.gorenjskiglas.si/article/20171102/C/171109960/1038/resevalna-sluzba-za-cloveske-ribice",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://arhiv.gorenjskiglas.si/article/20171102/C/171109960/resevalna-sluzba-za-cloveske-ribice",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Publisher archive migration"
+      }
+    },
+    {
+      "url": "http://junior.si/vsebina/slovenija/sos_proteus/",
+      "status": 0,
+      "error": "HTTPConnectionPool(host='junior.si', port=80): Max retries exceeded with url: /vsebina/slovenija/sos_proteus/ (Caused by ConnectTimeoutError(<HTTPConnection(host='junior.si', port=",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://junior.si/vsebina/slovenija/sos_proteus/",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/dnevnik/174497436",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/dnevnik/174497436",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/dnevnik/174497436",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174491783",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174491783",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174491783",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://issuu.com/trdoziv/docs/trdoziv11_0827-web",
+      "status": 404,
+      "final_url": "https://issuu.com/trdoziv/docs/trdoziv11_0827-web",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/https://issuu.com/trdoziv/docs/trdoziv11_0827-web",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.zurnal24.si/vizita-za-zivali/novice/simbolu-na-katerega-smo-tako-ponosni-grozi-nenadno-izumrtje-295859",
+      "status": 200,
+      "final_url": "https://www.zurnal24.si/vizita-za-zivali/novice/simbolu-na-katerega-smo-tako-ponosni-grozi-nenadno-izumrtje-295859",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.zurnal24.si/vizita-za-zivali/novice/simbolu-na-katerega-smo-tako-ponosni-grozi-nenadno-izumrtje-295859",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.primorske.si/2017/08/05/Mi-pa-si-redno-pljuvamo-v-kozarec",
+      "status": 200,
+      "final_url": "https://primorske.si/plus/sobota/mi-pa-si-redno-pljuvamo-v-kozarec/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://primorske.si/plus/sobota/mi-pa-si-redno-pljuvamo-v-kozarec/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.slovenskenovice.si/novice/slovenija/clovesko-ribico-vrnili-v-belo-jamo",
+      "status": 200,
+      "final_url": "https://slovenskenovice.delo.si/novice/slovenija/clovesko-ribico-vrnili-v-belo-jamo",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://slovenskenovice.delo.si/novice/slovenija/clovesko-ribico-vrnili-v-belo-jamo",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.rtvslo.si/radio-koper/prispevki/zgodbe/cloveska-ribica-iz-bele-jame-spet-doma/428418",
+      "status": 200,
+      "final_url": "https://radiokoper.rtvslo.si/clanek/prispevki/zgodbe/cloveska-ribica-iz-bele-jame-spet-doma/428418",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://radiokoper.rtvslo.si/clanek/prispevki/zgodbe/cloveska-ribica-iz-bele-jame-spet-doma/428418",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.primorske.si/Novice/Goriska/Varstvo-proteusa-pomeni-varstvo-nas",
+      "status": 404,
+      "final_url": "https://primorske.si/Novice/Goriska/Varstvo-proteusa-pomeni-varstvo-nas",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.primorske.si/Novice/Goriska/Varstvo-proteusa-pomeni-varstvo-nas",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.zurnal24.si/slovenija/borut-pahor-iz-jame-reseval-clovesko-ribico-294277",
+      "status": 200,
+      "final_url": "https://www.zurnal24.si/slovenija/borut-pahor-iz-jame-reseval-clovesko-ribico-294277",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.zurnal24.si/slovenija/borut-pahor-iz-jame-reseval-clovesko-ribico-294277",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.predsednik.si/up-rs/uprs.nsf/objave/0F3885E2DEB7B25CC125816400639394?OpenDocument",
+      "status": 0,
+      "error": "HTTPConnectionPool(host='www.predsednik.si', port=80): Max retries exceeded with url: /up-rs/uprs.nsf/objave/0F3885E2DEB7B25CC125816400639394?OpenDocument (Caused by NameResolution",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.predsednik.si/up-rs/uprs.nsf/objave/0F3885E2DEB7B25CC125816400639394?OpenDocument",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.slovenskenovice.si/novice/slovenija/pahor-na-pomoc-cloveski-ribici-izpustili-jo-bodo",
+      "status": 200,
+      "final_url": "https://slovenskenovice.delo.si/novice/slovenija/pahor-na-pomoc-cloveski-ribici-izpustili-jo-bodo",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://slovenskenovice.delo.si/novice/slovenija/pahor-na-pomoc-cloveski-ribici-izpustili-jo-bodo",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://robin.si/index.php/lokalno/dobre-novice/item/3288-cloveska-ribica-se-vraca-domov-na-vipavsko",
+      "status": 404,
+      "final_url": "https://arhiv.robin.si/index.php/lokalno/dobre-novice/item/3288-cloveska-ribica-se-vraca-domov-na-vipavsko",
+      "labels": [
+        "read/listen",
+        "preberi/poslušaj"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/https://robin.si/index.php/lokalno/dobre-novice/item/3288-cloveska-ribica-se-vraca-domov-na-vipavsko",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "https://www.sta.si/2411342/v-vipavi-bodo-izpustili-clovesko-ribico",
+      "status": 403,
+      "final_url": "https://www.sta.si/2411342/v-vipavi-bodo-izpustili-clovesko-ribico",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.sta.si/2411342/v-vipavi-bodo-izpustili-clovesko-ribico",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/slovenska-kronika/174483145",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/slovenska-kronika/174483145",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/slovenska-kronika/174483145",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://www.newscientist.com/article/2138344-weird-amphibians-found-at-record-depth-in-dark-underground-lake/",
+      "status": 406,
+      "final_url": "https://www.newscientist.com/article/2138344-weird-amphibians-found-at-record-depth-in-dark-underground-lake/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.newscientist.com/article/2138344-weird-amphibians-found-at-record-depth-in-dark-underground-lake/",
+        "kind": "publisher",
+        "status": 406,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.smithsonianmag.com/science/cave-dragons-exist-and-saving-them-could-protect-drinking-water-180963797/#MelXv1DJCgDUb9E1.99",
+      "status": 403,
+      "final_url": "https://www.smithsonianmag.com/science/cave-dragons-exist-and-saving-them-could-protect-drinking-water-180963797/#MelXv1DJCgDUb9E1.99",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.smithsonianmag.com/science-nature/cave-dragons-exist-and-saving-them-could-protect-drinking-water-180963797/",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Recovered publisher article"
+      }
+    },
+    {
+      "url": "http://ars.rtvslo.si/2017/06/glasovi-svetov-92/",
+      "status": 200,
+      "final_url": "https://ars.rtvslo.si/podkast/glasovi-svetov/10295743/174477166",
+      "labels": [
+        "read/listen",
+        "poglej/poslušaj"
+      ],
+      "repair": {
+        "url": "https://ars.rtvslo.si/podkast/glasovi-svetov/10295743/174477166",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/dokumentarni-filmi-in-oddaje-izobrazevalni-program/174476808",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/dokumentarci-izobrazevalni/174476808",
+      "labels": [
+        "watch;",
+        "poglej;"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/dokumentarci-izobrazevalni/174476808",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/po-sloveniji/174474286",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/po-sloveniji/174474286",
+      "labels": [
+        "watch;",
+        "poglej;"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/po-sloveniji/174474286",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://radioprvi.rtvslo.si/2017/04/nova-spoznanja-o-zivljenju-cloveske-ribice/",
+      "status": 200,
+      "final_url": "https://prvi.rtvslo.si/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://prvi.rtvslo.si/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.ekodezela.si/aktualno/cloveski-ribici-spustili-v-naravno-okolje/",
+      "status": 200,
+      "final_url": "https://www.ekodezela.si",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.ekodezela.si",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.delo.si/novice/slovenija/cloveski-ribici-spet-v-hudourniku.html",
+      "status": 404,
+      "final_url": "https://www.delo.si/novice/slovenija/cloveski-ribici-spet-v-hudourniku.html",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.delo.si/novice/slovenija/cloveski-ribici-spet-v-hudourniku",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered Delo article; verified page title"
+      }
+    },
+    {
+      "url": "https://www.sta.si/2377972/reseni-cloveski-ribici-spustili-v-naravno-okolje",
+      "status": 403,
+      "final_url": "https://www.sta.si/2377972/reseni-cloveski-ribici-spustili-v-naravno-okolje",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.sta.si/2377972/reseni-cloveski-ribici-spustili-v-naravno-okolje",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.rtvslo.si/stevilke/cloveska-ribica-zivi-stoletje-a-natancna-doba-se-ni-znana/414019",
+      "status": 200,
+      "final_url": "https://www.rtvslo.si/stevilke/cloveska-ribica-zivi-stoletje-a-natancna-doba-se-ni-znana/414019",
+      "labels": [
+        "listen",
+        "poslušaj"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.rtvslo.si/stevilke/cloveska-ribica-zivi-stoletje-a-natancna-doba-se-ni-znana/414019",
+        "kind": "archive",
+        "status": 410,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.vaskanal.com/novice/25885-30-let-od-odkritja-crnega-mocerila.html",
+      "status": 404,
+      "final_url": "https://vaskanal.com/novice/25885-30-let-od-odkritja-crnega-mocerila.html",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.vaskanal.com/novice/25885-30-let-od-odkritja-crnega-mocerila.html",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/ugriznimo-znanost/174440505",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/ugriznimo-znanost/174440505",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/ugriznimo-znanost/174440505",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.birdlife.org/sites/default/files/attachments/together_local-solutions-from-the-med_for-web.pdf",
+      "status": 404,
+      "final_url": "https://www.birdlife.org/sites/default/files/attachments/together_local-solutions-from-the-med_for-web.pdf",
+      "labels": [
+        "PDF, 9.59 MB"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.birdlife.org/sites/default/files/attachments/together_local-solutions-from-the-med_for-web.pdf",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "https://www.sta.si/2300258/clovesko-ribico-ponovno-izpustili-v-naravno-okolje",
+      "status": 403,
+      "final_url": "https://www.sta.si/2300258/clovesko-ribico-ponovno-izpustili-v-naravno-okolje",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.sta.si/2300258/clovesko-ribico-ponovno-izpustili-v-naravno-okolje",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.gorenjskiglas.si/article/20160812/C/160819772/1082/1039/monaski-obisk-jamskega-laboratorija-",
+      "status": 404,
+      "final_url": "https://www.gorenjskiglas.si/article/20160812/C/160819772/1082/1039/monaski-obisk-jamskega-laboratorija-",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://arhiv.gorenjskiglas.si/article/20160812/C/160819772/monaski-obisk-jamskega-laboratorija-",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Publisher archive migration"
+      }
+    },
+    {
+      "url": "http://govori.se/zanimivosti/pazimo-na-crno-clovesko-ribico/",
+      "status": 200,
+      "final_url": "https://govorise.metropolitan.si/zanimivosti/pazimo-na-crno-clovesko-ribico/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://govorise.metropolitan.si/zanimivosti/pazimo-na-crno-clovesko-ribico/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.cepf.net/SiteCollectionDocuments/annual_reports/CEPF-AnnualReport-FY15.pdf",
+      "status": 403,
+      "final_url": "http://www.cepf.net/SiteCollectionDocuments/annual_reports/CEPF-AnnualReport-FY15.pdf",
+      "labels": [
+        "PDF"
+      ],
+      "repair": {
+        "url": "http://www.cepf.net/SiteCollectionDocuments/annual_reports/CEPF-AnnualReport-FY15.pdf",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "https://www.sciencemag.org/news/2016/06/crime-solving-technique-maps-underground-lair-slovenian-dragon",
+      "status": 403,
+      "final_url": "https://www.sciencemag.org/news/2016/06/crime-solving-technique-maps-underground-lair-slovenian-dragon",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.science.org/content/article/crime-solving-technique-maps-underground-lair-slovenian-dragon",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Publisher domain migration"
+      }
+    },
+    {
+      "url": "http://www.sciencemag.org/news/2016/06/crime-solving-technique-maps-underground-lair-slovenian-dragon",
+      "status": 403,
+      "final_url": "http://www.sciencemag.org/news/2016/06/crime-solving-technique-maps-underground-lair-slovenian-dragon",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.science.org/content/article/crime-solving-technique-maps-underground-lair-slovenian-dragon",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Publisher domain migration"
+      }
+    },
+    {
+      "url": "http://www.newyorker.com/tech/elements/whats-behind-slovenias-love-affair-with-a-salamander",
+      "status": 200,
+      "final_url": "https://www.newyorker.com/tech/annals-of-technology/whats-behind-slovenias-love-affair-with-a-salamander",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.newyorker.com/tech/annals-of-technology/whats-behind-slovenias-love-affair-with-a-salamander",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/intelekta/174392766",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/intelekta/174392766",
+      "labels": [
+        "listen",
+        "poslušaj"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/intelekta/174392766",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.slovenskenovice.si/novice/slovenija/clovesko-ribico-je-bruhnilo-na-travnik",
+      "status": 200,
+      "final_url": "https://slovenskenovice.delo.si/novice/slovenija/clovesko-ribico-je-bruhnilo-na-travnik",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://slovenskenovice.delo.si/novice/slovenija/clovesko-ribico-je-bruhnilo-na-travnik",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://radio.ognjisce.si/sl/176/utrip/19999/",
+      "status": 200,
+      "final_url": "https://radio.ognjisce.si/sl/176/utrip/19999/",
+      "labels": [
+        "listen",
+        "poslušaj"
+      ],
+      "repair": {
+        "url": "https://radio.ognjisce.si/sl/176/utrip/19999/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.gorenjskiglas.si/article/20160228/C/160229815/1038/senzacija-zanju-le-dobra-novica-",
+      "status": 404,
+      "final_url": "https://www.gorenjskiglas.si/article/20160228/C/160229815/1038/senzacija-zanju-le-dobra-novica-",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://arhiv.gorenjskiglas.si/article/20160228/C/160229815/senzacija-zanju-le-dobra-novica-",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Publisher archive migration"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xqmOV-POXHc",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=xqmOV-POXHc",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://www.youtube.com/watch?v=xqmOV-POXHc",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174381511",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174381511",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174381511",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://www.newscientist.com/article/mg22830501-000-meet-the-weird-amphibian-that-rules-the-underworld/",
+      "status": 406,
+      "final_url": "https://www.newscientist.com/article/mg22830501-000-meet-the-weird-amphibian-that-rules-the-underworld/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.newscientist.com/article/mg22830501-000-meet-the-weird-amphibian-that-rules-the-underworld/",
+        "kind": "publisher",
+        "status": 406,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.24ur.com/novice/slovenija/crna-cloveska-ribica-ki-se-ji-menda-pisejo-crni-casi.html",
+      "status": 200,
+      "final_url": "https://www.24ur.com/novice/slovenija/crna-cloveska-ribica-ki-se-ji-menda-pisejo-crni-casi.html",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://www.24ur.com/novice/slovenija/crna-cloveska-ribica-ki-se-ji-menda-pisejo-crni-casi.html",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.delo.si/novice/slovenija/jajceca-crne-cloveske-ribice-prvic-na-oceh-javnosti.html",
+      "status": 404,
+      "final_url": "https://www.delo.si/novice/slovenija/jajceca-crne-cloveske-ribice-prvic-na-oceh-javnosti.html",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.delo.si/novice/slovenija/jajceca-crne-cloveske-ribice-prvic-na-oceh-javnosti",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered Delo article; verified page title"
+      }
+    },
+    {
+      "url": "http://www.dolenjskilist.si/2015/12/09/146370/novice/bela_krajina/O_ogrozenosti_cloveske_ribice_in_pitne_vode_v_Beli_krajini/",
+      "status": 200,
+      "final_url": "https://dolenjskilist.svet24.si",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://dolenjskilist.svet24.si",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.vaskanal.com/novice/23916-je-crna-cloveska-ribica-ogrozena.html",
+      "status": 404,
+      "final_url": "https://vaskanal.com/novice/23916-je-crna-cloveska-ribica-ogrozena.html",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.vaskanal.com/novice/23916-je-crna-cloveska-ribica-ogrozena.html",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.dobrepolje.si/Files/eMagazine/38/42286/Nas_kraj_10_2015_WEB.pdf",
+      "status": 200,
+      "final_url": "https://www.dobrepolje.si/Files/eMagazine/38/42286/Nas_kraj_10_2015_WEB.pdf",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.dobrepolje.si/Files/eMagazine/38/42286/Nas_kraj_10_2015_WEB.pdf",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://www.dnevnik.si/1042717487",
+      "status": 404,
+      "final_url": "https://www.dnevnik.si/1042717487",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/https://www.dnevnik.si/1042717487",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.dolenjskilist.si/2015/07/25/138450/novice/bela_krajina/Studenti_biologije_na_taboru_v_Dragatusu/",
+      "status": 200,
+      "final_url": "https://dolenjskilist.svet24.si",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://dolenjskilist.svet24.si",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.birdlife.org/worldwide/news/industry-must-act-now-safeguard-biodiversity-threatened-limestone-quarrying-ngos-say",
+      "status": 404,
+      "final_url": "https://www.birdlife.org/worldwide/news/industry-must-act-now-safeguard-biodiversity-threatened-limestone-quarrying-ngos-say",
+      "labels": [
+        "read"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.birdlife.org/worldwide/news/industry-must-act-now-safeguard-biodiversity-threatened-limestone-quarrying-ngos-say",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.vecer.com/clanek/201503176103039",
+      "status": 404,
+      "final_url": "https://vecer.com/clanek/201503176103039",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.vecer.com/clanek/201503176103039",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.earthtouchnews.com/conservation/endangered/cave-labs-human-fish-dna-how-scientists-are-saving-europes-weirdest-salamander",
+      "status": 200,
+      "final_url": "https://www.earthtouchnews.com/conservation/endangered/cave-labs-human-fish-dna-how-scientists-are-saving-europes-weirdest-salamander/",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.earthtouchnews.com/conservation/endangered/cave-labs-human-fish-dna-how-scientists-are-saving-europes-weirdest-salamander/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://www.dnevnik.si/1042706204/magazin/znanost-in-tehnologija/zmaji-ki-v-podzemlju-varujejo-nase-okolje-",
+      "status": 404,
+      "final_url": "https://www.dnevnik.si/1042706204/magazin/znanost-in-tehnologija/zmaji-ki-v-podzemlju-varujejo-nase-okolje-",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/https://www.dnevnik.si/1042706204/magazin/znanost-in-tehnologija/zmaji-ki-v-podzemlju-varujejo-nase-okolje-",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.gorenjskiglas.si/supplement/b4z2m5w284s284v203v2e4i57423q2c4n5c45464i5y2747474l5a4c4d4r294t2o2g3q474v24434r284x234l3a3c3n2r2/Kranjcanka_20150130_01.pdf",
+      "status": 404,
+      "final_url": "https://www.gorenjskiglas.si/supplement/b4z2m5w284s284v203v2e4i57423q2c4n5c45464i5y2747474l5a4c4d4r294t2o2g3q474v24434r284x234l3a3c3n2r2/Kranjcanka_20150130_01.pdf",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.gorenjskiglas.si/supplement/b4z2m5w284s284v203v2e4i57423q2c4n5c45464i5y2747474l5a4c4d4r294t2o2g3q474v24434r284x234l3a3c3n2r2/Kranjcanka_20150130_01.pdf",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/dopoldan-in-pol/174315867",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/dopoldan-in-pol/174315867",
+      "labels": [
+        "listen",
+        "poslušaj"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/dopoldan-in-pol/174315867",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.gorenjskiglas.si/article/20150123/C/150129914/1003/do-cloveske-ribice-s-pomocjo--forenzike--",
+      "status": 404,
+      "final_url": "https://www.gorenjskiglas.si/article/20150123/C/150129914/1003/do-cloveske-ribice-s-pomocjo--forenzike--",
+      "labels": [
+        "listen",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://arhiv.gorenjskiglas.si/article/20150123/C/150129914/do-cloveske-ribice-s-pomocjo--forenzike--",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Publisher archive migration"
+      }
+    },
+    {
+      "url": "https://www.dnevnik.si/1042704035/lokalno/gorenjska/clovesko-ribico-odkrili-tudi-v-crni-gori",
+      "status": 404,
+      "final_url": "https://www.dnevnik.si/1042704035/lokalno/gorenjska/clovesko-ribico-odkrili-tudi-v-crni-gori",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/https://www.dnevnik.si/1042704035/lokalno/gorenjska/clovesko-ribico-odkrili-tudi-v-crni-gori",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.delo.si/novice/slovenija/v-crni-gori-dokazali-sledi-cloveske-ribice.html",
+      "status": 404,
+      "final_url": "https://www.delo.si/novice/slovenija/v-crni-gori-dokazali-sledi-cloveske-ribice.html",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.delo.si/novice/slovenija/v-crni-gori-dokazali-sledi-cloveske-ribice",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered Delo article; verified page title"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/danes-do-13-00/174315294",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/danes-do-13-00/174315294",
+      "labels": [
+        "listen @16:22-18:23",
+        "poslušaj 16:22-18:23"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/danes-do-13-00/174315294",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://krog.sta.si/2094638/strokovnjaki-korak-blizje-poznavanju-zivljenja-cloveske-ribice",
+      "status": 403,
+      "final_url": "https://krog.sta.si/2094638/strokovnjaki-korak-blizje-poznavanju-zivljenja-cloveske-ribice",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://krog.sta.si/2094638/strokovnjaki-korak-blizje-poznavanju-zivljenja-cloveske-ribice",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://4d.rtvslo.si/arhiv/prispevki-in-izjave-slovenska-kronika/174315369",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/slovenska-kronika/174315369",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/slovenska-kronika/174315369",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.delo.si/prosti-cas/zanimivosti/sestavljanje-mozaika-o-zmajevih-mladicih.html",
+      "status": 404,
+      "final_url": "https://www.delo.si/prosti-cas/zanimivosti/sestavljanje-mozaika-o-zmajevih-mladicih.html",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.delo.si/prosti-cas/zanimivosti/sestavljanje-mozaika-o-zmajevih-mladicih.html",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://val202.rtvslo.si/2014/11/jamski-laboratorij-tular/",
+      "status": 200,
+      "final_url": "https://val202.rtvslo.si/",
+      "labels": [
+        "listen",
+        "poslušaj"
+      ],
+      "repair": {
+        "url": "https://val202.rtvslo.si/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://4d.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174304581",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174304581",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/o-zivalih-in-ljudeh/174304581",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.rtvslo.si/otroski-infodrom/prispevek/2692",
+      "status": 503,
+      "final_url": "https://www.rtvslo.si/otroski-infodrom/prispevek/2692",
+      "labels": [
+        "read & watch",
+        "preberi & poglej"
+      ],
+      "repair": {
+        "url": "http://www.rtvslo.si/otroski-infodrom/prispevek/2692",
+        "kind": "publisher",
+        "status": 503,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.24ur.com/bin/video.php?media_id=61516005&section_id=2&article_id=4026467",
+      "status": 404,
+      "final_url": "https://www.24ur.com/bin/video.php?media_id=61516005&section_id=2&article_id=4026467",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.24ur.com/bin/video.php?media_id=61516005&section_id=2&article_id=4026467",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.rtvslo.si/okolje/svet-zivali/video-resili-clovesko-ribico-ki-se-je-znasla-v-poplavljeni-kleti/350759",
+      "status": 200,
+      "final_url": "https://www.rtvslo.si/okolje/svet-zivali/video-resili-clovesko-ribico-ki-se-je-znasla-v-poplavljeni-kleti/350759",
+      "labels": [
+        "read & watch",
+        "preberi & poglej"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.rtvslo.si/okolje/svet-zivali/video-resili-clovesko-ribico-ki-se-je-znasla-v-poplavljeni-kleti/350759",
+        "kind": "archive",
+        "status": 410,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.pobjeda.me/2014/09/08/speleologija-u-crnoj-gori-tek-predstoje-pionirski-koraci/#.VFTkZBZrv9y",
+      "status": 200,
+      "final_url": "https://www.pobjeda.me/2014/09/08/speleologija-u-crnoj-gori-tek-predstoje-pionirski-koraci/#.VFTkZBZrv9y",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.pobjeda.me/2014/09/08/speleologija-u-crnoj-gori-tek-predstoje-pionirski-koraci/#.VFTkZBZrv9y",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.radioljubuski.ba/rlj-audio/8610-Ljubuski-10-novih-nalazista-covjecje-ribice-audio-i-foto.html#.VIHSd8lrvDv",
+      "status": 0,
+      "error": "HTTPSConnectionPool(host='www.radioljubuski.ba', port=443): Max retries exceeded with url: /rlj-audio/8610-Ljubuski-10-novih-nalazista-covjecje-ribice-audio-i-foto.html (Caused by ",
+      "labels": [
+        "read & listen",
+        "preberi & poslušaj"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.radioljubuski.ba/rlj-audio/8610-Ljubuski-10-novih-nalazista-covjecje-ribice-audio-i-foto.html#.VIHSd8lrvDv",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://us4.campaign-archive1.com/?u=17ff123d369db9f424d486492&id=30588f3716&e=6d5f081288",
+      "status": 200,
+      "final_url": "https://us4.campaign-archive.com/?u=17ff123d369db9f424d486492&id=30588f3716&e=6d5f081288",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://us4.campaign-archive.com/?u=17ff123d369db9f424d486492&id=30588f3716&e=6d5f081288",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.delo.si/novice/slovenija/resevanje-naplavljenih-cloveskih-ribic.html",
+      "status": 404,
+      "final_url": "https://www.delo.si/novice/slovenija/resevanje-naplavljenih-cloveskih-ribic.html",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.delo.si/novice/slovenija/resevanje-naplavljenih-cloveskih-ribic",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Recovered Delo article; verified page title"
+      }
+    },
+    {
+      "url": "http://www.delo.si/druzba/znanost/v-jami-tular-eksperiment-traja-ze-50-let.html",
+      "status": 404,
+      "final_url": "https://www.delo.si/druzba/znanost/v-jami-tular-eksperiment-traja-ze-50-let.html",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.delo.si/druzba/znanost/v-jami-tular-eksperiment-traja-ze-50-let.html",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "https://4d.rtvslo.si/arhiv/nocni-obisk/147594175",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/nocni-obisk/147594175",
+      "labels": [
+        "listen",
+        "poslušaj"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/nocni-obisk/147594175",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.daserste.de/information/wissen-kultur/w-wie-wissen/sendung/2012/grottenolm-102.html",
+      "status": 0,
+      "error": "HTTPSConnectionPool(host='www.ardmediathek.de', port=443): Read timed out. (read timeout=15)",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.daserste.de/information/wissen-kultur/w-wie-wissen/sendung/2012/grottenolm-102.html",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "http://www.delo.si/clanek/133803",
+      "status": 0,
+      "error": "HTTPSConnectionPool(host='www.delo.si', port=443): Read timed out. (read timeout=15)",
+      "labels": [
+        "read",
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.delo.si/clanek/133803",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "https://4d.rtvslo.si/arhiv/ugriznimo-znanost/85808258",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/ugriznimo-znanost/85808258",
+      "labels": [
+        "watch",
+        "poglej"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/ugriznimo-znanost/85808258",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://4d.rtvslo.si/arhiv/nedeljski-gost-vala-202/81089978",
+      "status": 200,
+      "final_url": "https://365.rtvslo.si/arhiv/nedeljski-gost/81089978",
+      "labels": [
+        "listen",
+        "poslušaj"
+      ],
+      "repair": {
+        "url": "https://365.rtvslo.si/arhiv/nedeljski-gost/81089978",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://sl.wikipedia.org/wiki/Janez_Vajkard_Valvasor",
+      "status": 200,
+      "final_url": "https://sl.wikipedia.org/wiki/Janez_Vajkard_Valvasor",
+      "labels": [
+        "J. V. Valvasor"
+      ],
+      "repair": {
+        "url": "https://sl.wikipedia.org/wiki/Janez_Vajkard_Valvasor",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.notranjski-muzej.si/dogodki/2002/slavko/slavko4.htm",
+      "status": 404,
+      "final_url": "https://www.notranjski-muzej.si/dogodki/2002/slavko/slavko4.htm",
+      "labels": [
+        "Egon Pretner"
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.notranjski-muzej.si/dogodki/2002/slavko/slavko4.htm",
+        "kind": "archive",
+        "status": 404,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YVCTeBTW60s",
+      "status": 200,
+      "final_url": "https://www.youtube.com/watch?v=YVCTeBTW60s",
+      "labels": [
+        "V spomin speleobiologu Marku Aljančiču"
+      ],
+      "repair": {
+        "url": "https://www.youtube.com/watch?v=YVCTeBTW60s",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "http://www.slovenska-biografija.si/oseba/sbi1000340/",
+      "status": 200,
+      "final_url": "https://www.slovenska-biografija.si/oseba/sbi1000340/",
+      "labels": [
+        "Marko Aljančič"
+      ],
+      "repair": {
+        "url": "https://www.slovenska-biografija.si/oseba/sbi1000340/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.zurnal24.si/vizita-za-zivali/novice/velik-dosezek-slovenskih-znanstvenikov-289617",
+      "status": 200,
+      "final_url": "https://www.zurnal24.si/vizita-za-zivali/novice/velik-dosezek-slovenskih-znanstvenikov-289617",
+      "labels": [
+        "preberi"
+      ],
+      "repair": {
+        "url": "https://www.zurnal24.si/vizita-za-zivali/novice/velik-dosezek-slovenskih-znanstvenikov-289617",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.zrc-sazu.si/",
+      "status": 200,
+      "final_url": "https://www.zrc-sazu.si/sl",
+      "labels": [
+        ""
+      ],
+      "repair": {
+        "url": "https://www.zrc-sazu.si/sl",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://bijh.zrc-sazu.si/#v",
+      "status": 200,
+      "final_url": "https://bijh.zrc-sazu.si/sl#v",
+      "labels": [
+        "Biološki inštitut Jovana Hadžija ZRC SAZU",
+        "Biološki inštitut Jovana Hadžija pri ZRC SAZU"
+      ],
+      "repair": {
+        "url": "https://bijh.zrc-sazu.si/sl#v",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://www.facebook.com/TularCaveLaboratory",
+      "status": 200,
+      "final_url": "https://www.facebook.com/TularCaveLaboratory",
+      "labels": [
+        "https://www.facebook.com/TularCaveLaboratory"
+      ],
+      "repair": {
+        "url": "https://www.facebook.com/TularCaveLaboratory",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "https://twitter.com/tularcavelab",
+      "status": 200,
+      "final_url": "https://x.com/tularcavelab",
+      "labels": [
+        "@TularCaveLab"
+      ],
+      "repair": {
+        "url": "https://x.com/tularcavelab",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "http://www.norveski.nvosklad.si/",
+      "status": 0,
+      "error": "HTTPConnectionPool(host='www.norveski.nvosklad.si', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.norveski.nvosklad.si', port=",
+      "labels": [
+        ""
+      ],
+      "repair": {
+        "url": "https://web.archive.org/web/*/http://www.norveski.nvosklad.si/",
+        "kind": "archive",
+        "status": 0,
+        "reason": "Archive lookup; original unavailable"
+      }
+    },
+    {
+      "url": "https://www.lifewatch.eu/2025/09/11/olm-proteus-anguinus-lifewatch-slovenia-nautilus-magazine/",
+      "status": 200,
+      "final_url": "https://www.lifewatch.eu/2025/09/11/olm-proteus-anguinus-lifewatch-slovenia-nautilus-magazine/",
+      "labels": [
+        "ProteusWatch: towards a virtual cave laboratory"
+      ],
+      "repair": {
+        "url": "https://www.lifewatch.eu/2025/09/11/olm-proteus-anguinus-lifewatch-slovenia-nautilus-magazine/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "https://lifewatch.si/partners/tular/",
+      "status": 200,
+      "final_url": "https://lifewatch.si/partners/tular/",
+      "labels": [
+        "Building virtual laboratories to monitor Proteus anguinus"
+      ],
+      "repair": {
+        "url": "https://lifewatch.si/partners/tular/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "https://nautil.us/in-the-land-of-the-eyeless-dragons-1232238/",
+      "status": 200,
+      "final_url": "https://nautil.us/in-the-land-of-the-eyeless-dragons-1232238",
+      "labels": [
+        "In the Land of the Eyeless Dragons"
+      ],
+      "repair": {
+        "url": "https://nautil.us/in-the-land-of-the-eyeless-dragons-1232238",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://www.buzzsprout.com/1921443/11870793-s3-e10-the-underground-karst-caves-of-postojna",
+      "status": 200,
+      "final_url": "https://www.buzzsprout.com/1921443/episodes/11870793-s3-e10-the-underground-karst-caves-of-postojna",
+      "labels": [
+        "The underground Karst caves of Postojna"
+      ],
+      "repair": {
+        "url": "https://www.buzzsprout.com/1921443/episodes/11870793-s3-e10-the-underground-karst-caves-of-postojna",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Verified redirect"
+      }
+    },
+    {
+      "url": "https://www.earthtouchnews.com/conservation/conservation/saving-slovenias-human-fish/",
+      "status": 200,
+      "final_url": "https://www.earthtouchnews.com/conservation/conservation/saving-slovenias-human-fish/",
+      "labels": [
+        "Saving Slovenia’s ‘Human Fish’"
+      ],
+      "repair": {
+        "url": "https://www.earthtouchnews.com/conservation/conservation/saving-slovenias-human-fish/",
+        "kind": "publisher",
+        "status": 200,
+        "reason": "Original publisher link"
+      }
+    },
+    {
+      "url": "https://www.smithsonianmag.com/science-nature/cave-dragons-exist-and-saving-them-could-protect-drinking-water-180963797/",
+      "status": 403,
+      "final_url": "https://www.smithsonianmag.com/science-nature/cave-dragons-exist-and-saving-them-could-protect-drinking-water-180963797/",
+      "labels": [
+        "Cave Dragons Exist—And Saving Them Could Be Key to Protecting Drinking Water"
+      ],
+      "repair": {
+        "url": "https://www.smithsonianmag.com/science-nature/cave-dragons-exist-and-saving-them-could-protect-drinking-water-180963797/",
+        "kind": "publisher",
+        "status": 403,
+        "reason": "Original publisher link"
+      }
+    }
+  ]
+}

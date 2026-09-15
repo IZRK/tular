@@ -1,0 +1,110 @@
+{
+  "tular": {
+    "image": "assets/images/jama-tular-2-photo-g-aljancic.jpg",
+    "credit": "Gregor Aljančič",
+    "sl": {
+      "label": "Pod površjem Kranja",
+      "intro": "Naravna jama pod Kranjem je leta 1960 postala prostor za raziskovanje, opazovanje in varstvo človeške ribice. Spoznajte njeno zgodbo."
+    },
+    "en": {
+      "label": "Beneath Kranj",
+      "intro": "From a natural cave to a place for research, observation and conservation. Tular’s life as a laboratory began in 1960."
+    }
+  },
+  "proteus": {
+    "image": "assets/images/proteus-photo-gregor-aljancic-mediuma.jpg",
+    "credit": "Gregor Aljančič",
+    "sl": {
+      "label": "Življenje v podzemlju",
+      "intro": "Spoznajte človeško ribico, njene nenavadne prilagoditve na temo in ranljiv svet podzemnih voda."
+    },
+    "en": {
+      "label": "Life underground",
+      "intro": "Meet the olm, its remarkable adaptations to darkness and the vulnerable world of groundwater."
+    }
+  },
+  "proteus/olm": {
+    "image": "assets/images/edna-proteus.jpg",
+    "credit": "Gregor Aljančič",
+    "sl": {
+      "label": "Življenje v temi",
+      "intro": "Kako živi, se prehranjuje in razmnožuje ena najbolj prepoznavnih jamskih živali."
+    },
+    "en": {
+      "label": "Life in the dark",
+      "intro": "The life, feeding and reproduction of one of the world’s most distinctive cave animals."
+    }
+  },
+  "proteus/black-proteus": {
+    "image": "assets/images/black-proteus-photo-gregor-aljancic.jpg",
+    "credit": "Gregor Aljančič",
+    "sl": {
+      "label": "Posebnost Bele krajine",
+      "intro": "Temna koža, razvite oči in izjemno omejen življenjski prostor. Spoznajte črno človeško ribico."
+    },
+    "en": {
+      "label": "Unique to Bela krajina",
+      "intro": "Dark skin, developed eyes and an exceptionally restricted habitat. Discover the black olm."
+    }
+  },
+  "conservation": {
+    "image": "assets/images/proteus-stranded-photo-gregor-aljancic-mediuma.jpg",
+    "credit": "Gregor Aljančič",
+    "sl": {
+      "label": "Skupaj za podzemno vodo",
+      "intro": "Varstvo človeške ribice povezuje reševanje živali, raziskovanje in skrb za čisto podzemno vodo."
+    },
+    "en": {
+      "label": "Protecting our shared water",
+      "intro": "Olm conservation brings together animal rescue, research and the protection of clean groundwater."
+    }
+  },
+  "conservation/sos-proteus": {
+    "image": "assets/images/proteus-stranded-photo-gregor-aljancic-mediuma.jpg",
+    "credit": "Gregor Aljančič",
+    "sl": {
+      "label": "SOS Proteus",
+      "intro": "Poplave lahko človeške ribice odplavijo na površje. Vaš klic lahko pomaga rešiti njihovo življenje."
+    },
+    "en": {
+      "label": "SOS Proteus",
+      "intro": "Floods can wash olms out of their caves. Your call can help save their lives."
+    }
+  },
+  "conservation/monitoring": {
+    "image": "assets/images/hutovo-blato-photo-gregor-aljancic-a.jpg",
+    "credit": "Gregor Aljančič",
+    "sl": {
+      "label": "Raziskovanje na terenu",
+      "intro": "Sledi okoljske DNK v vzorcu vode nam pomagajo odkriti živali, ki ostajajo skrite globoko pod površjem."
+    },
+    "en": {
+      "label": "Research in the field",
+      "intro": "Traces of environmental DNA in a water sample help reveal animals hidden deep beneath the surface."
+    }
+  },
+  "projects": {
+    "image": "assets/images/workshop-sos-proteus-2015.jpg",
+    "credit": "",
+    "sl": {
+      "label": "Znanje za varstvo",
+      "intro": "Raziskave, sodelovanja in izobraževanje za varstvo človeške ribice in njenega življenjskega prostora."
+    },
+    "en": {
+      "label": "Knowledge for conservation",
+      "intro": "Research, collaboration and education for the protection of the olm and its habitat."
+    }
+  },
+  "projects/groundwater": {
+    "image": "assets/images/hutovo-blato-photo-gregor-aljancic-a.jpg",
+    "credit": "Gregor Aljančič",
+    "sl": {
+      "label": "Projektni arhiv · 2015",
+      "intro": "S človeško ribico si delimo odvisnost od podtalnice. Cilji, partnerji in rezultati projekta."
+    },
+    "en": {
+      "label": "Project archive · 2015",
+      "intro": "With Proteus we share dependence on groundwater. The project’s aims, partners and outcomes."
+    }
+  }
+}

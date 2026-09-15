@@ -1,0 +1,78 @@
+{
+  "en": [
+    {
+      "title": "Proteus",
+      "description": "The olm, also known as the “human fish”, is an extraordinary symbol of subterranean wildlife and the long history of its study.",
+      "route": "proteus/olm",
+      "image": "assets/images/proteus-photo-gregor-aljancic-mediuma.jpg"
+    },
+    {
+      "title": "Conservation",
+      "description": "Seasonal floods can wash olms out of their caves. Tular provides a sanctuary and coordinates their rescue. Call +386 31 804 163 to report a stranded olm.",
+      "route": "conservation/sos-proteus",
+      "image": "assets/images/proteus-stranded-photo-gregor-aljancic-mediuma.jpg"
+    },
+    {
+      "title": "Black proteus",
+      "description": "A rare, dark-coloured olm found only in Bela krajina, southeastern Slovenia. Even local pollution can threaten its survival.",
+      "route": "proteus/black-proteus",
+      "image": "assets/images/black-proteus-photo-gregor-aljancic.jpg"
+    },
+    {
+      "title": "eDNA monitoring",
+      "description": "Innovative method to survey Proteus distribution through the detection of its eDNA trace; CEPF, BirdLife International, 2013–2014; 2016",
+      "route": "conservation/monitoring",
+      "image": "assets/images/hutovo-blato-photo-gregor-aljancic-a.jpg"
+    },
+    {
+      "title": "Tular Cave Laboratory",
+      "description": "Tular is a conglomerate cave in Kranj, Slovenia. In 1960 it was turned into a cave laboratory by speleobiologist Marko Aljančič.",
+      "route": "tular",
+      "image": "assets/images/tular-photo-gregor-aljancic-mediuma.jpg"
+    },
+    {
+      "title": "Projects",
+      "description": "With Proteus we share dependence on groundwater (NGO Programme, EEA Grants & Norway Grants; 2015).",
+      "route": "projects",
+      "image": "assets/images/eea-nor-grants-logo.png"
+    }
+  ],
+  "sl": [
+    {
+      "title": "Človeška ribica · Proteus anguinus",
+      "description": "Človeška ribica je eden najpomembnejših simbolov svetovne naravne dediščine in zgodovine njenega raziskovanja. Tako kot nas jo ogroža onesnaževanje podzemne vode.",
+      "route": "proteus/olm",
+      "image": "assets/images/proteus-photo-gregor-aljancic-mediuma.jpg"
+    },
+    {
+      "title": "Zatočišče za človeške ribice",
+      "description": "Sezonske poplave lahko odplavijo človeške ribice na površje. Tular jim nudi zatočišče in organizira reševanje. Ob najdbi pokličite +386 31 804 163.",
+      "route": "conservation/sos-proteus",
+      "image": "assets/images/proteus-stranded-photo-gregor-aljancic-mediuma.jpg"
+    },
+    {
+      "title": "Črna človeška ribica",
+      "description": "Najbolj nenavadna in redka, živi le na robu Bele krajine, na manj kot 50 km² velikem področju. Za vedno jo lahko izbriše že lokalno onesnaženje.",
+      "route": "proteus/black-proteus",
+      "image": "assets/images/black-proteus-photo-gregor-aljancic.jpg"
+    },
+    {
+      "title": "Monitoring razširjenosti",
+      "description": "Inovativna metoda monitoringa razširjenosti človeške ribice s pomočjo vzorčenja njene okoljske DNK (CEPF, BirdLife International; 2013–2014 in 2016).",
+      "route": "conservation/monitoring",
+      "image": "assets/images/hutovo-blato-photo-gregor-aljancic-a.jpg"
+    },
+    {
+      "title": "Jamski laboratorij Tular",
+      "description": "Naravna jama v Kranju, ki jo je speleobiolog Marko Aljančič leta 1960 preuredil v jamski laboratorij, edini v Sloveniji.",
+      "route": "tular",
+      "image": "assets/images/tular-photo-gregor-aljancic-mediuma.jpg"
+    },
+    {
+      "title": "Rezultati projektov",
+      "description": "S človeško ribico si delimo odvisnost od čiste kraške podzemeljske vode (Sklad za NVO, Finančni mehanizem EGP in Norveški finančni mehanizem; 2015)",
+      "route": "projects",
+      "image": "assets/images/eea-nor-grants-logo.png"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "section": "research",
+    "year": 2025,
+    "type": { "en": "Research development", "sl": "Razvoj raziskav" },
+    "title": {
+      "en": "ProteusWatch: towards a virtual cave laboratory",
+      "sl": "ProteusWatch: na poti do virtualnega jamskega laboratorija"
+    },
+    "description": {
+      "en": "Plans for long-term monitoring of proteus and its groundwater habitat, bringing together Tular, the Karst Research Institute ZRC SAZU and LifeWatch ERIC. A facility in development, as described in the 2025 update.",
+      "sl": "Načrti za dolgoročno spremljanje človeške ribice in njenega podzemnega habitata povezujejo Tular, Inštitut za raziskovanje krasa ZRC SAZU in LifeWatch ERIC. Objava iz leta 2025 predstavlja laboratorij v razvoju."
+    },
+    "publisher": "LifeWatch ERIC",
+    "url": "https://www.lifewatch.eu/2025/09/11/olm-proteus-anguinus-lifewatch-slovenia-nautilus-magazine/"
+  },
+  {
+    "section": "research",
+    "year": 2023,
+    "type": { "en": "Conference contribution", "sl": "Konferenčni prispevek" },
+    "title": {
+      "en": "Building virtual laboratories to monitor Proteus anguinus",
+      "sl": "Razvoj virtualnih laboratorijev za spremljanje človeške ribice"
+    },
+    "description": {
+      "en": "Aljančič and colleagues presented challenges and preliminary results at the LifeWatch ERIC Biodiversity & Ecosystem eScience Conference in Seville (22–24 May 2023, abstract book, p. 27).",
+      "sl": "Aljančič in sodelavci so izzive in prve rezultate predstavili na konferenci LifeWatch ERIC Biodiversity & Ecosystem eScience v Sevilli (22.–24. maj 2023, zbornik povzetkov, str. 27)."
+    },
+    "publisher": "LifeWatch Slovenia",
+    "url": "https://lifewatch.si/partners/tular/"
+  },
+  {
+    "section": "media",
+    "year": 2025,
+    "type": { "en": "Feature · 28 August 2025", "sl": "Reportaža · 28. avgust 2025" },
+    "title": { "en": "In the Land of the Eyeless Dragons", "sl": "V deželi slepih zmajev" },
+    "description": {
+      "en": "Gary Hartley visits Tular and explores how the proposed ProteusWatch laboratory could reveal the health of groundwater ecosystems.",
+      "sl": "Gary Hartley obišče Tular in predstavi, kako bi lahko načrtovani laboratorij ProteusWatch razkrival stanje podzemnih vodnih ekosistemov."
+    },
+    "publisher": "Nautilus",
+    "url": "https://nautil.us/in-the-land-of-the-eyeless-dragons-1232238/"
+  },
+  {
+    "section": "media",
+    "year": 2022,
+    "type": { "en": "Podcast · A window on science", "sl": "Podkast · A window on science" },
+    "title": {
+      "en": "The underground Karst caves of Postojna",
+      "sl": "Podzemne kraške jame Postojne"
+    },
+    "description": {
+      "en": "A conversation with Tanja Pipan, Nataša Ravbar and Gregor Aljančič about the karst underground. LifeWatch ERIC, season 3, episode 10.",
+      "sl": "Pogovor s Tanjo Pipan, Natašo Ravbar in Gregorjem Aljančičem o kraškem podzemlju. LifeWatch ERIC, 3. sezona, 10. epizoda."
+    },
+    "publisher": "LifeWatch ERIC",
+    "url": "https://www.buzzsprout.com/1921443/11870793-s3-e10-the-underground-karst-caves-of-postojna",
+    "verified_source": "https://lifewatch.si/partners/tular/"
+  },
+  {
+    "section": "media",
+    "year": 2021,
+    "type": { "en": "Photo story · 26 January 2021", "sl": "Fotoreportaža · 26. januar 2021" },
+    "title": {
+      "en": "Saving Slovenia’s ‘Human Fish’",
+      "sl": "Reševanje slovenske človeške ribice"
+    },
+    "description": {
+      "en": "Katie Jewett’s story, with photographs by Luka Dakskobler, follows the Aljančič family’s research and conservation work. Originally published by bioGraphic.",
+      "sl": "Prispevek Katie Jewett s fotografijami Luke Dakskoblerja spremlja raziskovalno in naravovarstveno delo družine Aljančič. Prvotno objavljeno pri bioGraphic."
+    },
+    "publisher": "Earth Touch / bioGraphic",
+    "url": "https://www.earthtouchnews.com/conservation/conservation/saving-slovenias-human-fish/"
+  },
+  {
+    "section": "media",
+    "year": 2017,
+    "type": { "en": "Science feature", "sl": "Poljudnoznanstveni članek" },
+    "title": {
+      "en": "Cave Dragons Exist—And Saving Them Could Be Key to Protecting Drinking Water",
+      "sl": "Jamski zmaji obstajajo – njihovo varstvo pomaga varovati pitno vodo"
+    },
+    "description": {
+      "en": "A feature on Gregor Aljančič, proteus research and the connection between cave conservation and drinking water.",
+      "sl": "Članek o Gregorju Aljančiču, raziskovanju človeške ribice in povezavi med varstvom jam ter pitno vodo."
+    },
+    "publisher": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/science-nature/cave-dragons-exist-and-saving-them-could-protect-drinking-water-180963797/"
+  }
+]

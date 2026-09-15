@@ -1,0 +1,27 @@
+# Dependencies and local environments
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated release packages and browser artifacts
+dist/
+reports/screenshots/
+.impeccable/review/
+.impeccable/mocks/
+playwright-report/
+test-results/
+
+# Local tools, editors and OS files
+.idea/
+.vscode/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example

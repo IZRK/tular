@@ -1,0 +1,11 @@
+<div class="reference-list">
+  {% for reference in references %}
+  <article class="reference">
+    <div class="reference-meta">{{ reference.publisher }}<span>{{ reference.type[language] }}</span></div>
+    <div>
+      <h3><a href="{{ reference.url }}">{{ reference.title[language] }} <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14" /></svg></a></h3>
+      <p>{{ reference.description[language] }}</p>
+    </div>
+  </article>
+  {% endfor %}
+</div>

@@ -1,0 +1,28 @@
+{
+  "source": "https://tular.si",
+  "retrieved": "2026-09-15",
+  "pages": 47,
+  "assets": 66,
+  "failures": [
+    {
+      "url": "https://tular.si/index.php/sl/proteus",
+      "error": "500 Server Error: Internal Server Error for url: https://tular.si/index.php/sl/proteus"
+    },
+    {
+      "url": "https://tular.si/index.php/sl/proteus-media/3-mediaa",
+      "error": "500 Server Error: Internal Server Error for url: https://tular.si/index.php/sl/proteus-media/3-mediaa"
+    },
+    {
+      "url": "https://tular.si/images/Tular_img/Threats_on_Proteus_and_groundwater_Page_1s.jpg",
+      "error": "404 Client Error: Not Found for url: https://tular.si/images/Tular_img/Threats_on_Proteus_and_groundwater_Page_1s.jpg"
+    },
+    {
+      "url": "https://tular.si/images/Tular_img/Zatocisce_za_cloveske_ribice_Page_1s.jpg",
+      "error": "404 Client Error: Not Found for url: https://tular.si/images/Tular_img/Zatocisce_za_cloveske_ribice_Page_1s.jpg"
+    },
+    {
+      "url": "https://tular.si/images/Tular_img/Ogrozenost_proteusa_Page_2s.jpg",
+      "error": "404 Client Error: Not Found for url: https://tular.si/images/Tular_img/Ogrozenost_proteusa_Page_2s.jpg"
+    }
+  ]
+}

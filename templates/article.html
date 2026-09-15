@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-width">
+  <nav class="breadcrumbs" aria-label="{{ 'Pot do strani' if language == 'sl' else 'Breadcrumb' }}"><a href="{{ page_url('home') }}">{{ titles.home }}</a><span aria-hidden="true">/</span><span>{{ title }}</span></nav>
+  {% if page_intro %}
+  <header class="article-masthead">
+    <div class="masthead-copy">
+      <p class="eyebrow">{{ page_intro[language].label }}</p>
+      <h1>{{ title }}</h1>
+      <p class="masthead-intro">{{ page_intro[language].intro }}</p>
+    </div>
+    <figure>
+      <img src="{{ url(page_intro.image) }}" alt="{{ title }}" fetchpriority="high" />
+      {% if page_intro.credit %}<figcaption>{{ 'Fotografija' if language == 'sl' else 'Photograph' }}: {{ page_intro.credit }}</figcaption>{% endif %}
+    </figure>
+  </header>
+  {% else %}
+  <header class="page-heading">
+    <h1>{{ title }}</h1>
+    {% if key == 'contact' %}<p>{{ copy.contact_intro }}</p>{% endif %}
+  </header>
+  {% endif %}
+  <div class="reading-layout">
+    {% if related or article_toc %}
+    <aside class="section-nav">
+      {% if article_toc %}
+      <h2>{{ 'Na tej strani' if language == 'sl' else 'On this page' }}</h2>
+      {% for item in article_toc %}<a href="#{{ item.id }}">{{ item.title }}</a>{% endfor %}
+      {% endif %}
+      {% if related %}
+      <h2>{{ copy.related }}</h2>
+      {% for item in related %}<a href="{{ page_url(item.key) }}">{{ titles[item.key] }}</a>{% endfor %}
+      {% if section == 'conservation' %}<a href="{{ page_url('projects') }}">{{ titles.projects }}</a>{% endif %}
+      {% endif %}
+    </aside>
+    {% endif %}
+    <div class="article-content">
+      {{ fragment() }}
+      {% if key != 'contact' %}<p class="source-context">{{ copy.source_context }}</p>{% endif %}
+    </div>
+  </div>
+</div>
+{% endblock %}

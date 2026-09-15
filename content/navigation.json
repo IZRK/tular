@@ -1,0 +1,192 @@
+{
+  "titles": {
+    "en": {
+      "home": "Home",
+      "proteus": "Proteus",
+      "conservation": "Conservation",
+      "research": "Research",
+      "tular": "Tular",
+      "media": "Media",
+      "contact": "Contact",
+      "proteus/olm": "The olm",
+      "proteus/black-proteus": "Black proteus",
+      "conservation/sos-proteus": "SOS Proteus",
+      "conservation/monitoring": "eDNA monitoring",
+      "projects": "Projects",
+      "projects/groundwater": "Groundwater project"
+    },
+    "sl": {
+      "home": "Domov",
+      "proteus": "Proteus",
+      "conservation": "Varstvo",
+      "research": "Raziskovanje",
+      "tular": "Tular",
+      "media": "Mediji",
+      "contact": "Kontakt",
+      "proteus/olm": "Človeška ribica",
+      "proteus/black-proteus": "Črna človeška ribica",
+      "conservation/sos-proteus": "SOS Proteus",
+      "conservation/monitoring": "Monitoring z okoljsko DNK",
+      "projects": "Projekti",
+      "projects/groundwater": "Projekt o podzemni vodi"
+    }
+  },
+  "pages": [
+    {
+      "route": "index.html",
+      "language": "en",
+      "source": "https://tular.si/",
+      "key": "home"
+    },
+    {
+      "route": "proteus.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/proteus",
+      "key": "proteus"
+    },
+    {
+      "route": "conservation.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/conservation",
+      "key": "conservation"
+    },
+    {
+      "route": "research.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/research",
+      "key": "research"
+    },
+    {
+      "route": "tular.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/tular",
+      "key": "tular"
+    },
+    {
+      "route": "media.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/proteus-media",
+      "key": "media"
+    },
+    {
+      "route": "contact.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/contact",
+      "key": "contact"
+    },
+    {
+      "route": "proteus/olm.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/proteus/9-proteus",
+      "key": "proteus/olm"
+    },
+    {
+      "route": "proteus/black-proteus.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/proteus/12-black-proteus",
+      "key": "proteus/black-proteus"
+    },
+    {
+      "route": "conservation/sos-proteus.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/conservation/8-proteus-sos",
+      "key": "conservation/sos-proteus"
+    },
+    {
+      "route": "conservation/monitoring.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/conservation/7-monitoring",
+      "key": "conservation/monitoring"
+    },
+    {
+      "route": "projects.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/39-eea-proteus/28-eea-proteus",
+      "key": "projects"
+    },
+    {
+      "route": "projects/groundwater.html",
+      "language": "en",
+      "source": "https://tular.si/index.php/2-uncategorised/25-eea-proteus-sum",
+      "key": "projects/groundwater"
+    },
+    {
+      "route": "sl/index.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/",
+      "key": "home"
+    },
+    {
+      "route": "sl/proteus.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/proteus-sl-si",
+      "key": "proteus"
+    },
+    {
+      "route": "sl/conservation.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/conservation-sl-si",
+      "key": "conservation"
+    },
+    {
+      "route": "sl/research.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/research-sl-si",
+      "key": "research"
+    },
+    {
+      "route": "sl/tular.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/tular-sl-si",
+      "key": "tular"
+    },
+    {
+      "route": "sl/media.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/proteus-media-sl-si",
+      "key": "media"
+    },
+    {
+      "route": "sl/contact.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/contact-sl-si",
+      "key": "contact"
+    },
+    {
+      "route": "sl/proteus/olm.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/proteus-sl-si/21-proteus-sl-si",
+      "key": "proteus/olm"
+    },
+    {
+      "route": "sl/proteus/black-proteus.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/proteus-sl-si/24-black-proteus-sl-si",
+      "key": "proteus/black-proteus"
+    },
+    {
+      "route": "sl/conservation/sos-proteus.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/conservation-sl-si/20-proteus-sos-sl-si",
+      "key": "conservation/sos-proteus"
+    },
+    {
+      "route": "sl/conservation/monitoring.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/conservation-sl-si/19-monitoring-sl-si",
+      "key": "conservation/monitoring"
+    },
+    {
+      "route": "sl/projects.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/40-eea-proteus-sl/29-eea-proteus-sl",
+      "key": "projects"
+    },
+    {
+      "route": "sl/projects/groundwater.html",
+      "language": "sl",
+      "source": "https://tular.si/index.php/sl/20-uncategorised-sl-si/26-eea-proteus-sum-sl",
+      "key": "projects/groundwater"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+reports/
+.impeccable/
+templates/
+assets/images/
+assets/documents/
+package-lock.json
