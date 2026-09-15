@@ -14,7 +14,10 @@
       "conservation/monitoring": "eDNA monitoring",
       "projects": "Projects",
       "projects/groundwater": "Groundwater project",
-      "info-centre": "SOS Proteus Info Centre"
+      "info-centre": "SOS Proteus Info Centre",
+      "conference": "SOS Proteus Conference",
+      "conference/2024": "SOS Proteus 2024 · Kranj",
+      "conference/2022": "SOS Proteus 2022 · Trieste"
     },
     "sl": {
       "home": "Domov",
@@ -30,7 +33,10 @@
       "conservation/monitoring": "Monitoring z okoljsko DNK",
       "projects": "Projekti",
       "projects/groundwater": "Projekt o podzemni vodi",
-      "info-centre": "Info center SOS Proteus"
+      "info-centre": "Info center SOS Proteus",
+      "conference": "Konferenca SOS Proteus",
+      "conference/2024": "SOS Proteus 2024 · Kranj",
+      "conference/2022": "SOS Proteus 2022 · Trst"
     }
   },
   "pages": [
@@ -201,6 +207,42 @@
       "language": "en",
       "source": "https://www.visitkranj.com/en/tours-and-trips/sos-proteus-info-centre/",
       "key": "info-centre"
+    },
+    {
+      "route": "conference.html",
+      "language": "en",
+      "source": "https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/",
+      "key": "conference"
+    },
+    {
+      "route": "conference/2024.html",
+      "language": "en",
+      "source": "https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/",
+      "key": "conference/2024"
+    },
+    {
+      "route": "conference/2022.html",
+      "language": "en",
+      "source": "https://sites.google.com/view/sosproteus2022/home",
+      "key": "conference/2022"
+    },
+    {
+      "route": "sl/conference.html",
+      "language": "sl",
+      "source": "https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/",
+      "key": "conference"
+    },
+    {
+      "route": "sl/conference/2024.html",
+      "language": "sl",
+      "source": "https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/",
+      "key": "conference/2024"
+    },
+    {
+      "route": "sl/conference/2022.html",
+      "language": "sl",
+      "source": "https://sites.google.com/view/sosproteus2022/home",
+      "key": "conference/2022"
     }
   ],
   "main_navigation": [
@@ -210,15 +252,18 @@
     "research",
     "tular",
     "info-centre",
+    "conference",
     "media",
     "contact"
   ],
   "menu_labels": {
     "en": {
-      "info-centre": "Visit us"
+      "info-centre": "Visit us",
+      "conference": "Conference"
     },
     "sl": {
-      "info-centre": "Obiščite nas"
+      "info-centre": "Obiščite nas",
+      "conference": "Konferenca"
     }
   }
 }

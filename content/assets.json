@@ -323,5 +323,62 @@
     "source_page": "https://www.visitkranj.com/ogledi-in-izleti/info-center-sos-proteus/",
     "credit": "Gregor Aljančič",
     "bytes": 127021
+  },
+  "https://lifewatch.si/assets/uploads/WhatsApp-Image-2024-12-19-at-10.36.26.jpeg": {
+    "path": "assets/images/sos-proteus-2024-participants.jpg",
+    "bytes": 236966,
+    "sha256": "9f2d06864341d76e0cf8b05998c03e981837d44fa150222a932448a1383c24b5"
+  },
+  "https://drive.google.com/uc?export=download&id=12mP3yGp1Z9PdL4Y50IauYQ8goevNKaJi": {
+    "path": "assets/documents/sos-proteus-2022-abstracts.pdf",
+    "bytes": 1745727,
+    "sha256": "031681425ff711fa9a3c818150a521805cede407f6a834b32533cd51499d7a3c"
+  },
+  "https://drive.google.com/uc?export=download&id=1B4h8qpPfhyTZFwJBmoff9aOBJtWyMf-s": {
+    "path": "assets/documents/sos-proteus-2022-programme.pdf",
+    "bytes": 2557539,
+    "sha256": "ce169fbbd4d95133d5d3a03dbbcba33aca6267a04737c21034df99a1d0b26c21"
+  },
+  "https://www.facebook.com/photo/?fbid=5428014023947963&set=pb.100064836452795.-2207520000": {
+    "path": "assets/images/sos-proteus-2022-photo-1.jpg",
+    "bytes": 163179,
+    "sha256": "77ceac6c447f17601e0942ce5084c189c276384c13a020f9462eb16e89255ac4",
+    "source_page": "https://www.facebook.com/photo/?fbid=5428014023947963&set=pb.100064836452795.-2207520000",
+    "credit": "Photographer not identified in accessible source"
+  },
+  "https://www.facebook.com/photo/?fbid=1043638124474060&set=a.1043656621138877": {
+    "path": "assets/images/sos-proteus-2024-photo-2.jpg",
+    "bytes": 17222,
+    "sha256": "f4b58e9db35433c8606bc35f886f16849ec5eb00d38e05d7ffdaf34b8c034f26",
+    "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
+    "credit": "Photographer not identified in accessible source"
+  },
+  "https://www.facebook.com/photo/?fbid=1043639514473921&set=a.1043656621138877": {
+    "path": "assets/images/sos-proteus-2024-photo-3.jpg",
+    "bytes": 15504,
+    "sha256": "f964f52cf51f5cd71cfc6b352cb24ec6158d004c1ec8405dc119ab24dc6cbd0a",
+    "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
+    "credit": "Photographer not identified in accessible source"
+  },
+  "https://www.facebook.com/photo/?fbid=1043639554473917&set=a.1043656621138877": {
+    "path": "assets/images/sos-proteus-2024-photo-4.jpg",
+    "bytes": 16547,
+    "sha256": "0991e5b8609554d9f0c43b8a90597515ab5df1a697517c07c224b5fcbdd26838",
+    "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
+    "credit": "Photographer not identified in accessible source"
+  },
+  "https://www.facebook.com/photo/?fbid=1043638911140648&set=a.1043656621138877": {
+    "path": "assets/images/sos-proteus-2024-photo-5.jpg",
+    "bytes": 21537,
+    "sha256": "7cefef6cd8752063210e8990a695010cd3d17b0765e6e716907ad2d9a2de8717",
+    "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
+    "credit": "Photographer not identified in accessible source"
+  },
+  "https://www.facebook.com/photo/?fbid=1043639087807297&set=a.1043656621138877": {
+    "path": "assets/images/sos-proteus-2024-photo-6.jpg",
+    "bytes": 23945,
+    "sha256": "e0473587c867ab7f23b56eebc043d7ac7ffb87acc01ca71dd6e35362f2c6a1f9",
+    "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
+    "credit": "Photographer not identified in accessible source"
   }
 }

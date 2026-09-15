@@ -256,6 +256,60 @@
         "description": "Obiščite Info center SOS Proteus v Rovih pod starim Kranjem. Spoznajte rešene človeške ribice z raziskovalci Tularja in rezervirajte vodeni ogled.",
         "image_alt": "Človeška ribica na fotografiji Gregorja Aljančiča"
       }
+    },
+    "conference": {
+      "image": {
+        "path": "assets/images/sos-proteus-2024-participants.jpg",
+        "width": 960,
+        "height": 537,
+        "type": "image/jpeg"
+      },
+      "en": {
+        "title": "SOS Proteus Conference | Tular",
+        "description": "International meetings for olm research and conservation. Explore the 2024 Kranj conference and archived programmes, abstracts and recordings.",
+        "image_alt": "Participants at the SOS Proteus meeting"
+      },
+      "sl": {
+        "title": "Konferenca SOS Proteus | Tular",
+        "description": "Mednarodna srečanja za raziskovanje in varstvo človeške ribice. Konferenca 2024 v Kranju ter arhiv programov, povzetkov in posnetkov.",
+        "image_alt": "Udeleženci srečanja SOS Proteus"
+      }
+    },
+    "conference/2024": {
+      "image": {
+        "path": "assets/images/sos-proteus-2024-participants.jpg",
+        "width": 960,
+        "height": 537,
+        "type": "image/jpeg"
+      },
+      "en": {
+        "title": "SOS Proteus 2024 · Kranj | Tular",
+        "description": "The fifth international SOS Proteus conference, 7–8 December 2024 in Kranj: research themes, participants, photographs and reports.",
+        "image_alt": "Participants at the SOS Proteus meeting"
+      },
+      "sl": {
+        "title": "Konferenca SOS Proteus 2024 v Kranju | Tular",
+        "description": "Peta mednarodna konferenca SOS Proteus, 7.–8. decembra 2024 v Kranju: raziskovalne teme, udeleženci, fotografije in poročila.",
+        "image_alt": "Udeleženci srečanja SOS Proteus"
+      }
+    },
+    "conference/2022": {
+      "image": {
+        "path": "assets/images/sos-proteus-2022-photo-1.jpg",
+        "width": 1200,
+        "height": 616,
+        "type": "image/jpeg"
+      },
+      "en": {
+        "title": "SOS Proteus 2022 · Trieste | Tular",
+        "description": "The fourth international SOS Proteus meeting, 21–22 May 2022 in Trieste: programme, book of abstracts, recordings and participant archive.",
+        "image_alt": "Participants at the SOS Proteus meeting"
+      },
+      "sl": {
+        "title": "SOS Proteus 2022 · Trst | Tular",
+        "description": "Četrto mednarodno srečanje SOS Proteus, 21.–22. maja 2022 v Trstu: program, zbornik povzetkov, posnetki in arhiv informacij.",
+        "image_alt": "Udeleženci srečanja SOS Proteus"
+      }
     }
   }
 }

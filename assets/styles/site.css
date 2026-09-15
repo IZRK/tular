@@ -1755,7 +1755,7 @@ p {
 .booking-panel p a {
   color: #ffffff;
 }
-@media (min-width: 851px) and (max-width: 1200px) {
+@media (min-width: 851px) and (max-width: 1300px) {
   .site-header {
     flex-wrap: wrap;
     padding-block: 18px;
@@ -1836,4 +1836,165 @@ p {
   .home-visit-copy {
     grid-row: 1;
   }
+}
+
+/* Conference archive: shared edges, uncropped photographs and readable schedules. */
+.home-conference {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: clamp(24px, 4vw, 64px);
+  align-items: center;
+  margin-block: 72px;
+  padding-block: 40px;
+  border-block: 1px solid var(--ink, #173d3d);
+}
+.home-conference h2 {
+  font-size: clamp(2rem, 3.5vw, 3.4rem);
+  line-height: 1.12;
+}
+.home-conference figure {
+  margin: 0;
+}
+.home-conference img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.home-conference figcaption {
+  font-size: 0.85rem;
+  margin-top: 8px;
+}
+.conference-home-date {
+  margin-block: 24px;
+}
+.conference-feature {
+  background: #173d3d;
+  color: #f9faf7;
+  padding: clamp(24px, 4vw, 40px);
+  border-radius: 4px;
+}
+.conference-feature h3,
+.conference-feature a {
+  color: inherit;
+}
+.conference-feature a {
+  font-weight: 700;
+}
+.conference-timeline > section {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 24px;
+  padding-block: 24px;
+  border-bottom: 1px solid #c5d0c9;
+}
+.conference-timeline .conference-year {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+}
+.conference-timeline h3 {
+  margin-top: 0;
+}
+.archive-notice {
+  padding: 20px 24px;
+  background: #eaf0ec;
+  border-left: 4px solid #173d3d;
+}
+.conference-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-block: 32px;
+}
+.conference-stats > div {
+  padding-block: 16px;
+  border-top: 1px solid #a7bbb0;
+}
+.conference-stats dd {
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin: 0;
+}
+.conference-downloads {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-block: 28px;
+}
+.conference-downloads a {
+  padding: 16px 20px;
+  background: #173d3d;
+  color: #fff;
+  border-radius: 4px;
+  font-weight: 700;
+}
+.conference-schedule {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+}
+.conference-schedule section {
+  border-top: 3px solid #173d3d;
+}
+.conference-schedule li {
+  margin-bottom: 12px;
+}
+.conference-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  align-items: start;
+}
+.conference-gallery figure {
+  margin: 0;
+}
+.conference-gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.conference-video iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  display: block;
+}
+@media (max-width: 750px) {
+  .home-conference,
+  .conference-schedule {
+    grid-template-columns: 1fr;
+  }
+  .conference-timeline > section {
+    grid-template-columns: 72px 1fr;
+    gap: 16px;
+  }
+  .conference-gallery {
+    grid-template-columns: 1fr;
+  }
+  .conference-stats {
+    gap: 12px;
+  }
+  .conference-stats dt {
+    font-size: 0.9rem;
+  }
+}
+
+.conference-masthead figure {
+  align-self: center;
+}
+.conference-masthead img {
+  height: auto;
+  min-height: 0;
+  object-fit: contain;
+  display: block;
+}
+.conference-masthead figcaption {
+  position: static;
+  background: transparent;
+  color: var(--muted);
+  padding: 10px 16px;
+  text-align: right;
+}
+.conference-masthead figcaption a {
+  color: inherit;
 }

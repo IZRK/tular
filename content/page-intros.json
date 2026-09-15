@@ -122,5 +122,44 @@
       "sl": "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
       "en": "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
     }
+  },
+  "conference": {
+    "image": "assets/images/sos-proteus-2024-participants.jpg",
+    "source_url": "https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/",
+    "source_name": "LifeWatch Slovenia",
+    "en": {
+      "label": "International meetings · Archive",
+      "intro": "International meetings for olm research and conservation. Explore the 2024 Kranj conference and archived programmes, abstracts and recordings."
+    },
+    "sl": {
+      "label": "Mednarodna srečanja · Arhiv",
+      "intro": "Mednarodna srečanja za raziskovanje in varstvo človeške ribice. Konferenca 2024 v Kranju ter arhiv programov, povzetkov in posnetkov."
+    }
+  },
+  "conference/2024": {
+    "image": "assets/images/sos-proteus-2024-participants.jpg",
+    "source_url": "https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/",
+    "source_name": "LifeWatch Slovenia",
+    "en": {
+      "label": "International meetings · Archive",
+      "intro": "The fifth international SOS Proteus conference, 7–8 December 2024 in Kranj: research themes, participants, photographs and reports."
+    },
+    "sl": {
+      "label": "Mednarodna srečanja · Arhiv",
+      "intro": "Peta mednarodna konferenca SOS Proteus, 7.–8. decembra 2024 v Kranju: raziskovalne teme, udeleženci, fotografije in poročila."
+    }
+  },
+  "conference/2022": {
+    "image": "assets/images/sos-proteus-2022-photo-1.jpg",
+    "source_url": "https://www.facebook.com/photo/?fbid=5428014023947963&set=pb.100064836452795.-2207520000",
+    "source_name": "Tular · Facebook",
+    "en": {
+      "label": "International meetings · Archive",
+      "intro": "The fourth international SOS Proteus meeting, 21–22 May 2022 in Trieste: programme, book of abstracts, recordings and participant archive."
+    },
+    "sl": {
+      "label": "Mednarodna srečanja · Arhiv",
+      "intro": "Četrto mednarodno srečanje SOS Proteus, 21.–22. maja 2022 v Trstu: program, zbornik povzetkov, posnetki in arhiv informacij."
+    }
   }
 }

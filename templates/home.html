@@ -37,6 +37,16 @@
     <p class="booking-provider">{{ 'Rezervacije prek Visit Kranj' if language == 'sl' else 'Booking through Visit Kranj' }}</p>
   </div>
 </section>
+<section class="home-conference page-width" aria-labelledby="conference-heading">
+  <div class="home-conference-copy">
+    <p class="eyebrow">{{ 'Znanost povezuje' if language == 'sl' else 'Science brings us together' }}</p>
+    <h2 id="conference-heading">{{ titles.conference }}</h2>
+    <p>{{ 'Mednarodna srečanja za prihodnost človeške ribice in kraških podzemnih voda.' if language == 'sl' else 'International meetings for the future of proteus and karst groundwater.' }}</p>
+    <p class="conference-home-date">Kranj · 7.–8. 12. 2024<br />{{ 'Zadnja potrjena izvedba · 83 udeležencev, 14 držav' if language == 'sl' else 'Latest confirmed edition · 83 participants, 14 countries' }}</p>
+    <div class="home-visit-actions"><a class="button" href="{{ page_url('conference/2024') }}">{{ 'Konferenca 2024' if language == 'sl' else '2024 conference' }} →</a><a class="underlined" href="{{ page_url('conference') }}">{{ 'Vsa srečanja in gradiva' if language == 'sl' else 'All meetings and resources' }}</a></div>
+  </div>
+  <figure><img src="{{ url('assets/images/sos-proteus-2024-participants.jpg') }}" width="960" height="537" alt="{{ 'Udeleženci konference SOS Proteus 2024 v Kranju' if language == 'sl' else 'Participants at the 2024 SOS Proteus conference in Kranj' }}" loading="lazy" /><figcaption>{{ 'Vir' if language == 'sl' else 'Source' }}: <a href="https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/">LifeWatch Slovenia</a></figcaption></figure>
+</section>
 <section class="topics page-width">
   <h2>{{ copy.explore }}</h2>
   <div class="topic-grid">

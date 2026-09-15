@@ -3,7 +3,7 @@
 <div class="page-width">
   <nav class="breadcrumbs" aria-label="{{ 'Pot do strani' if language == 'sl' else 'Breadcrumb' }}"><a href="{{ page_url('home') }}">{{ titles.home }}</a><span aria-hidden="true">/</span><span>{{ title }}</span></nav>
   {% if page_intro %}
-  <header class="article-masthead">
+  <header class="article-masthead{% if section == 'conference' %} conference-masthead{% endif %}">
     <div class="masthead-copy">
       <p class="eyebrow">{{ page_intro[language].label }}</p>
       <h1>{{ title }}</h1>
@@ -15,6 +15,7 @@
     </div>
     <figure>
       <img src="{{ url(page_intro.image) }}" alt="{{ title }}" fetchpriority="high" />
+      {% if page_intro.source_url %}<figcaption>{{ "Vir" if language == "sl" else "Source" }}: <a href="{{ page_intro.source_url }}">{{ page_intro.source_name }}</a></figcaption>{% endif %}
       {% if page_intro.credit %}<figcaption>{{ 'Fotografija' if language == 'sl' else 'Photograph' }}: {{ page_intro.credit }}</figcaption>{% endif %}
     </figure>
   </header>
@@ -40,7 +41,7 @@
     {% endif %}
     <div class="article-content">
       {{ fragment() }}
-      {% if key not in ('contact', 'info-centre') %}<p class="source-context">{{ copy.source_context }}</p>{% endif %}
+      {% if key not in ('contact', 'info-centre') and section != 'conference' %}<p class="source-context">{{ copy.source_context }}</p>{% endif %}
     </div>
   </div>
 </div>
