@@ -60,11 +60,17 @@ def main() -> None:
                 if parsed.scheme or parsed.netloc:
                     continue
                 local_links += 1
+                if parsed.path.endswith("index.html"):
+                    failures.append(
+                        f"{route}: use a directory link instead of {target}"
+                    )
                 destination = (
                     (ROOT / route).parent / unquote(parsed.path)
                     if parsed.path
                     else ROOT / route
                 )
+                if destination.is_dir():
+                    destination = destination / "index.html"
                 if not destination.exists():
                     failures.append(f"{route}: missing {target}")
                 elif parsed.fragment and destination.suffix == ".html":

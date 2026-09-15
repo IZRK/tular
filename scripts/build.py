@@ -8,7 +8,7 @@ from __future__ import annotations
 import json
 import os
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -135,9 +135,16 @@ def local_url(target: str, current_page: str) -> str:
     parsed = urlsplit(target)
     if parsed.scheme or parsed.netloc or target.startswith("#"):
         return target
-    path = target.lstrip("/")
-    relative = os.path.relpath(path, Path(current_page).parent).replace(os.sep, "/")
-    return relative
+    path = parsed.path.lstrip("/")
+    directory = path.endswith("/") or path.endswith("index.html") or not path
+    if path.endswith("index.html"):
+        path = path.removesuffix("index.html")
+    relative = os.path.relpath(path or ".", Path(current_page).parent).replace(
+        os.sep, "/"
+    )
+    if directory:
+        relative = "./" if relative == "." else relative.rstrip("/") + "/"
+    return urlunsplit(("", "", relative, parsed.query, parsed.fragment))
 
 
 def asset_path(name: str) -> str:
@@ -207,7 +214,8 @@ def build_page(page: dict, environment: Environment) -> None:
         "structured_data": structured_data(key, language, TITLES[language]),
         "copy": COPY[language],
         "titles": TITLES[language],
-        "main_navigation": list(TITLES[language])[:7],
+        "menu_labels": NAVIGATION["menu_labels"][language],
+        "main_navigation": NAVIGATION["main_navigation"],
         "section": section,
         "topics": HOME[language],
         "related": related,

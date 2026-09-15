@@ -13,7 +13,8 @@
       "conservation/sos-proteus": "SOS Proteus",
       "conservation/monitoring": "eDNA monitoring",
       "projects": "Projects",
-      "projects/groundwater": "Groundwater project"
+      "projects/groundwater": "Groundwater project",
+      "info-centre": "SOS Proteus Info Centre"
     },
     "sl": {
       "home": "Domov",
@@ -28,7 +29,8 @@
       "conservation/sos-proteus": "SOS Proteus",
       "conservation/monitoring": "Monitoring z okoljsko DNK",
       "projects": "Projekti",
-      "projects/groundwater": "Projekt o podzemni vodi"
+      "projects/groundwater": "Projekt o podzemni vodi",
+      "info-centre": "Info center SOS Proteus"
     }
   },
   "pages": [
@@ -187,6 +189,36 @@
       "language": "sl",
       "source": "https://tular.si/index.php/sl/20-uncategorised-sl-si/26-eea-proteus-sum-sl",
       "key": "projects/groundwater"
+    },
+    {
+      "route": "sl/info-centre.html",
+      "language": "sl",
+      "source": "https://www.visitkranj.com/ogledi-in-izleti/info-center-sos-proteus/",
+      "key": "info-centre"
+    },
+    {
+      "route": "info-centre.html",
+      "language": "en",
+      "source": "https://www.visitkranj.com/en/tours-and-trips/sos-proteus-info-centre/",
+      "key": "info-centre"
     }
-  ]
+  ],
+  "main_navigation": [
+    "home",
+    "proteus",
+    "conservation",
+    "research",
+    "tular",
+    "info-centre",
+    "media",
+    "contact"
+  ],
+  "menu_labels": {
+    "en": {
+      "info-centre": "Info centre"
+    },
+    "sl": {
+      "info-centre": "Info center"
+    }
+  }
 }

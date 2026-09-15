@@ -1,0 +1,86 @@
+{
+  "checks": 8,
+  "failures": [],
+  "results": [
+    {
+      "route": "info-centre.html",
+      "width": 1440,
+      "overflow": false,
+      "buttons": [
+        "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+        "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+      ],
+      "credit": "Kafol.NET"
+    },
+    {
+      "route": "sl/info-centre.html",
+      "width": 1440,
+      "overflow": false,
+      "buttons": [
+        "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+        "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+      ],
+      "credit": "Kafol.NET"
+    },
+    {
+      "route": "info-centre.html",
+      "width": 1100,
+      "overflow": false,
+      "buttons": [
+        "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+        "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+      ],
+      "credit": "Kafol.NET"
+    },
+    {
+      "route": "sl/info-centre.html",
+      "width": 1100,
+      "overflow": false,
+      "buttons": [
+        "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+        "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+      ],
+      "credit": "Kafol.NET"
+    },
+    {
+      "route": "info-centre.html",
+      "width": 900,
+      "overflow": false,
+      "buttons": [
+        "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+        "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+      ],
+      "credit": "Kafol.NET"
+    },
+    {
+      "route": "sl/info-centre.html",
+      "width": 900,
+      "overflow": false,
+      "buttons": [
+        "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+        "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+      ],
+      "credit": "Kafol.NET"
+    },
+    {
+      "route": "info-centre.html",
+      "width": 390,
+      "overflow": false,
+      "buttons": [
+        "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+        "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+      ],
+      "credit": "Kafol.NET"
+    },
+    {
+      "route": "sl/info-centre.html",
+      "width": 390,
+      "overflow": false,
+      "buttons": [
+        "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+        "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+      ],
+      "credit": "Kafol.NET"
+    }
+  ]
+}

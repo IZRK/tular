@@ -11,7 +11,7 @@ python3 -m http.server 8000
 - English: <http://localhost:8000/>
 - Slovenian: <http://localhost:8000/sl/>
 
-The generated HTML files also open directly from disk. Google Fonts requires an internet connection; ordinary sans-serif fallbacks are supplied. The published site needs no Python, Node or backend.
+Use the local HTTP server so directory links resolve to their index pages. Google Fonts requires an internet connection; ordinary sans-serif fallbacks are supplied. The published site needs no Python, Node or backend.
 
 ## Project layout
 
@@ -51,7 +51,7 @@ npm ci
 npm run build
 ```
 
-Edit content in `content/`, shared markup in `templates/`, and styles or behaviour in `assets/`. The build renders the 26 pages, then formats the source and output with Prettier. **There is no minification step.** Editing a generated page directly works for a quick preview, but rebuilding replaces that edit.
+Edit content in `content/`, shared markup in `templates/`, and styles or behaviour in `assets/`. The build renders the 28 pages, then formats the source and output with Prettier. **There is no minification step.** Editing a generated page directly works for a quick preview, but rebuilding replaces that edit.
 
 The build is offline: it reads curated local files and makes no requests to the old website. Fonts are linked from Google Fonts in the shared base template; no fonts are stored locally.
 
@@ -71,7 +71,7 @@ With the preview server running in another terminal:
 npm run check:browser
 ```
 
-Validation covers all 26 pages at desktop and mobile widths, local links and fragments, image loading, HTML structure, matching language routes, publication counts, filters, reset, expandable details, mobile navigation, and reading without JavaScript. Representative page types also receive Axe accessibility checks. Browser screenshots are kept in ignored `reports/screenshots/`.
+Validation covers all 28 pages at desktop and mobile widths, local links and fragments, image loading, HTML structure, matching language routes, publication counts, filters, reset, expandable details, mobile navigation, and reading without JavaScript. Representative page types also receive Axe accessibility checks. Browser screenshots are kept in ignored `reports/screenshots/`.
 
 The external link audit is documented in [docs/CONTENT-AUDIT.md](docs/CONTENT-AUDIT.md). Publisher access restrictions and Internet Archive availability cannot be guaranteed by local tests.
 
@@ -102,3 +102,5 @@ Every generated page has an absolute canonical URL, reciprocal English/Slovenian
 `npm run check` validates metadata uniqueness, canonical/language consistency, preview-image files, structured data and sitemap coverage. Preview crawlers require the new site and images to be deployed at the configured production address; these changes are local until deployment. No search ranking or live social-preview result is implied by local validation.
 
 Implementation references: [Google’s localized-page guidance](https://developers.google.com/search/docs/specialty/international/localized-versions) and the [Open Graph protocol](https://ogp.me/).
+
+The SOS Proteus Info Centre pages use visitor information from Visit Kranj and direct, language-specific booking links. Main-menu order is explicit in `content/navigation.json`. Internal homepage links use directory URLs; generated filenames remain `index.html`.

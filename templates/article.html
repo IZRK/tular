@@ -8,6 +8,10 @@
       <p class="eyebrow">{{ page_intro[language].label }}</p>
       <h1>{{ title }}</h1>
       <p class="masthead-intro">{{ page_intro[language].intro }}</p>
+      {% if page_intro.booking %}
+      <a class="button booking-button masthead-booking" href="{{ page_intro.booking[language] }}">{{ 'Rezervirajte vodeni ogled' if language == 'sl' else 'Book a guided tour' }} <span aria-hidden="true">↗</span></a>
+      <p class="booking-provider">{{ 'Rezervacije prek Visit Kranj' if language == 'sl' else 'Booking through Visit Kranj' }}</p>
+      {% endif %}
     </div>
     <figure>
       <img src="{{ url(page_intro.image) }}" alt="{{ title }}" fetchpriority="high" />
@@ -36,7 +40,7 @@
     {% endif %}
     <div class="article-content">
       {{ fragment() }}
-      {% if key != 'contact' %}<p class="source-context">{{ copy.source_context }}</p>{% endif %}
+      {% if key not in ('contact', 'info-centre') %}<p class="source-context">{{ copy.source_context }}</p>{% endif %}
     </div>
   </div>
 </div>

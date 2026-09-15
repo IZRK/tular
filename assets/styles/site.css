@@ -1681,3 +1681,102 @@ p {
     gap: 32px;
   }
 }
+
+/* Visitor information and booking */
+.masthead-booking {
+  margin-top: 28px;
+}
+.booking-button {
+  background: #efc4ac;
+  color: #173d3d;
+  font-weight: 700;
+  padding: 15px 22px;
+}
+.booking-button:hover {
+  background: #e5b398;
+}
+.booking-provider {
+  margin-top: 10px;
+  font-size: 14px;
+  color: var(--muted);
+}
+.visit-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 0 0 28px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.visit-facts > div {
+  padding: 24px;
+  background: var(--surface);
+}
+.visit-facts dt {
+  font-size: 14px;
+  color: var(--muted);
+}
+.visit-facts dd {
+  margin: 6px 0 0;
+  font-size: 21px;
+  font-weight: 600;
+}
+.article-content .admission-list {
+  padding: 0;
+  list-style: none;
+}
+.admission-list li {
+  display: grid;
+  grid-template-columns: 125px minmax(0, 1fr);
+  gap: 20px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+.booking-panel {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin: 40px 0 24px;
+  padding: 32px;
+  border-radius: 6px;
+  background: var(--ink);
+  color: #ffffff;
+}
+.article-content .booking-panel h2 {
+  margin: 0 0 16px;
+  padding: 0;
+  border: 0;
+}
+.article-content .booking-panel p {
+  margin-bottom: 8px;
+}
+.booking-panel p a {
+  color: #ffffff;
+}
+@media (min-width: 851px) and (max-width: 1200px) {
+  .site-header {
+    flex-wrap: wrap;
+    padding-block: 18px;
+    gap: 14px 24px;
+  }
+  .site-header nav {
+    order: 3;
+    width: 100%;
+    justify-content: space-between;
+    gap: 12px;
+  }
+}
+@media (max-width: 560px) {
+  .visit-facts {
+    grid-template-columns: 1fr;
+  }
+  .admission-list li {
+    grid-template-columns: 100px minmax(0, 1fr);
+    gap: 14px;
+  }
+  .booking-panel {
+    padding: 24px;
+  }
+}

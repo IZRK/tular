@@ -26,7 +26,9 @@ def main() -> None:
     for source, target in url_map.items():
         original_path = urlsplit(source).path
         if original_path != "/":
-            redirects.append(f"{original_path} /{target} 301")
+            redirects.append(
+                f"{original_path} /{target.removesuffix('index.html')} 301"
+            )
     (OUTPUT / "_redirects").write_text("\n".join(redirects) + "\n")
     print(f"Packaged {len(pages)} pages in {OUTPUT}")
 

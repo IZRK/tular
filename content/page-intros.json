@@ -106,5 +106,21 @@
       "label": "Project archive · 2015",
       "intro": "With Proteus we share dependence on groundwater. The project’s aims, partners and outcomes."
     }
+  },
+  "info-centre": {
+    "image": "assets/images/sos-proteus-info-centre-visit-kranj.jpg",
+    "credit": "Visit Kranj",
+    "en": {
+      "label": "Visit us beneath the old town of Kranj",
+      "intro": "Meet rescued olms and explore their underground world with researchers from Tular. Your visit supports their research and protection."
+    },
+    "sl": {
+      "label": "Obiščite nas v Rovih pod starim Kranjem",
+      "intro": "Spoznajte rešene človeške ribice in njihov podzemeljski svet z raziskovalci Tularja. Z obiskom podprete njihovo raziskovanje in varstvo."
+    },
+    "booking": {
+      "sl": "https://rezervacije.visitkranj.com/sl/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/",
+      "en": "https://rezervacije.visitkranj.com/en/experience/detail/ogled-informacijskega-centra-o-cloveski-ribici-sos-proteus/"
+    }
   }
 }

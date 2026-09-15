@@ -50,7 +50,7 @@
       </button>
       <nav id="navigation" aria-label="{{ copy.navigation }}">
         {% for item in main_navigation %}
-        <a href="{{ page_url(item) }}" {% if item == section %}aria-current="page"{% endif %}>{{ titles[item] }}</a>
+        <a href="{{ page_url(item) }}" {% if item == section %}aria-current="page"{% endif %}>{{ menu_labels.get(item, titles[item]) }}</a>
         {% endfor %}
       </nav>
       <a class="language" href="{{ page_url(key, other_language) }}" lang="{{ other_language }}" hreflang="{{ other_language }}" aria-label="{{ 'Switch to English' if language == 'sl' else 'Preklopi v slovenščino' }}">{{ other_language | upper }}</a>
@@ -92,7 +92,7 @@
         </nav>
       </div>
       <div class="footer-bottom">
-        <span>© Društvo za jamsko biologijo / Society for Cave Biology</span>
+        <span>© Društvo za jamsko biologijo / Society for Cave Biology · {{ 'Spletna produkcija:' if language == 'sl' else 'Web production:' }} <a href="https://kafol.net/">Kafol.NET</a></span>
         <a href="tel:+38631804163">SOS Proteus · +386 31 804 163</a>
       </div>
     </footer>

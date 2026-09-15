@@ -316,5 +316,12 @@
     "path": "assets/images/tular-logo-55.png",
     "bytes": 13519,
     "sha256": "68b4c07dd018b95330e3e1f10c30e7884748d3494d1058f6ed416d3042458a3e"
+  },
+  "https://www.visitkranj.com/wp-content/uploads/2023/05/cloveska-ribica-nova1.jpg": {
+    "path": "assets/images/sos-proteus-info-centre-visit-kranj.jpg",
+    "sha256": "d549590d97e3200c8f81b7a4b0911bb700b08b72d81f0b320c2c56ee93a204c9",
+    "source_page": "https://www.visitkranj.com/ogledi-in-izleti/info-center-sos-proteus/",
+    "credit": "Visit Kranj",
+    "bytes": 127021
   }
 }
