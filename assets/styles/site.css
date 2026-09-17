@@ -1785,8 +1785,8 @@ p {
 .home-visit {
   display: grid;
   grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
-  align-items: center;
-  gap: 48px;
+  align-items: stretch;
+  gap: 0;
   margin-top: 56px;
   overflow: hidden;
   padding: 0;
@@ -1800,10 +1800,12 @@ p {
 .home-visit-photo {
   position: relative;
   min-width: 0;
+  align-self: stretch;
 }
 .home-visit-photo img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   border-radius: 0;
 }
 .home-visit-photo figcaption {
@@ -1837,7 +1839,7 @@ p {
 }
 @media (max-width: 850px) {
   .home-visit {
-    gap: 28px;
+    gap: 0;
   }
   .home-visit-copy {
     padding: 28px;
@@ -1852,6 +1854,10 @@ p {
   .home-visit-copy {
     grid-row: 1;
     padding: 24px;
+  }
+  .home-visit-photo img {
+    height: auto;
+    object-fit: initial;
   }
   .home-visit-photo figcaption {
     inset-inline: 12px;
