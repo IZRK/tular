@@ -125,8 +125,9 @@
   },
   "conference": {
     "image": "assets/images/sos-proteus-2024-participants.jpg",
-    "source_url": "https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/",
-    "source_name": "LifeWatch Slovenia",
+    "source_url": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
+    "source_name": "Facebook",
+    "credit": "Matej Blatnik",
     "en": {
       "label": "International meetings · Archive",
       "intro": "International meetings for olm research and conservation. Explore the 2024 Kranj conference and archived programmes, abstracts and recordings."
@@ -138,8 +139,9 @@
   },
   "conference/2024": {
     "image": "assets/images/sos-proteus-2024-participants.jpg",
-    "source_url": "https://lifewatch.si/5th-international-sos-proteus-conference-december-7-8-2024-kranj-slovenia/",
-    "source_name": "LifeWatch Slovenia",
+    "source_url": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
+    "source_name": "Facebook",
+    "credit": "Matej Blatnik",
     "en": {
       "label": "International meetings · Archive",
       "intro": "The fifth international SOS Proteus conference, 7–8 December 2024 in Kranj: research themes, participants, photographs and reports."

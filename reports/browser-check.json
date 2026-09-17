@@ -1,5 +1,5 @@
 {
-  "checks": 52,
+  "checks": 68,
   "failures": [],
   "externalPlayerIssues": [
     {
@@ -28,7 +28,7 @@
             "iframe",
             "#movie_player"
           ],
-          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/8c3fda2d/p...\" aria-label=\"YouTubov predvajalni...\">"
+          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/1c642fb9/p...\" aria-label=\"YouTubov predvajalni...\">"
         }
       ]
     },
@@ -73,7 +73,7 @@
             "iframe",
             "#movie_player"
           ],
-          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/8c3fda2d/p...\" aria-label=\"YouTubov predvajalni...\">"
+          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/1c642fb9/p...\" aria-label=\"YouTubov predvajalni...\">"
         }
       ]
     },
@@ -118,7 +118,7 @@
             "iframe",
             "#movie_player"
           ],
-          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/8c3fda2d/p...\" aria-label=\"YouTubov predvajalni...\">"
+          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/1c642fb9/p...\" aria-label=\"YouTubov predvajalni...\">"
         }
       ]
     },
@@ -163,58 +163,13 @@
             "iframe",
             "#movie_player"
           ],
-          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/8c3fda2d/p...\" aria-label=\"YouTubov predvajalni...\">"
+          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/1c642fb9/p...\" aria-label=\"YouTubov predvajalni...\">"
         }
       ]
     },
     {
       "route": "sl/tular.html",
       "width": 1440,
-      "id": "button-name",
-      "impact": "critical",
-      "nodes": [
-        {
-          "target": [
-            "iframe",
-            ".ytmVideoInfoChannelAvatar"
-          ],
-          "html": "<button class=\"ytmVideoInfoLink ytmVideoInfoChannelAvatar\"><img class=\"ytCoreImageHost ytmVideoInfoChannelLogo ytCoreImageFillParentHeight ytCoreImageFillParentWidth ytCoreImageContentModeScaleAspectF"
-        }
-      ]
-    },
-    {
-      "route": "index.html",
-      "width": 390,
-      "id": "aria-allowed-attr",
-      "impact": "critical",
-      "nodes": [
-        {
-          "target": [
-            "iframe",
-            ".ytmVideoInfoVideoTitle"
-          ],
-          "html": "<a class=\"ytmVideoInfoVideoTitle\" aria-level=\"2\" href=\"https://www.youtube.com/watch?v=tePqvqWYOxA\">"
-        }
-      ]
-    },
-    {
-      "route": "index.html",
-      "width": 390,
-      "id": "aria-prohibited-attr",
-      "impact": "serious",
-      "nodes": [
-        {
-          "target": [
-            "iframe",
-            "#movie_player"
-          ],
-          "html": "<div class=\"html5-video-player ytp-hide-controls ytp-exp-bottom-control-flexbox ytp-modern-caption ytp-livebadge-color unstarted-mode ytp-small-mode\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/pla"
-        }
-      ]
-    },
-    {
-      "route": "index.html",
-      "width": 390,
       "id": "button-name",
       "impact": "critical",
       "nodes": [
@@ -259,51 +214,6 @@
     },
     {
       "route": "tular.html",
-      "width": 390,
-      "id": "button-name",
-      "impact": "critical",
-      "nodes": [
-        {
-          "target": [
-            "iframe",
-            ".ytmVideoInfoChannelAvatar"
-          ],
-          "html": "<button class=\"ytmVideoInfoLink ytmVideoInfoChannelAvatar\"><img class=\"ytCoreImageHost ytmVideoInfoChannelLogo ytCoreImageFillParentHeight ytCoreImageFillParentWidth ytCoreImageContentModeScaleAspectF"
-        }
-      ]
-    },
-    {
-      "route": "sl/index.html",
-      "width": 390,
-      "id": "aria-allowed-attr",
-      "impact": "critical",
-      "nodes": [
-        {
-          "target": [
-            "iframe",
-            ".ytmVideoInfoVideoTitle"
-          ],
-          "html": "<a class=\"ytmVideoInfoVideoTitle\" aria-level=\"2\" href=\"https://www.youtube.com/watch?v=tePqvqWYOxA\">"
-        }
-      ]
-    },
-    {
-      "route": "sl/index.html",
-      "width": 390,
-      "id": "aria-prohibited-attr",
-      "impact": "serious",
-      "nodes": [
-        {
-          "target": [
-            "iframe",
-            "#movie_player"
-          ],
-          "html": "<div class=\"html5-video-player ytp-hide-controls ytp-exp-bottom-control-flexbox ytp-modern-caption ytp-livebadge-color unstarted-mode ytp-small-mode\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/pla"
-        }
-      ]
-    },
-    {
-      "route": "sl/index.html",
       "width": 390,
       "id": "button-name",
       "impact": "critical",
@@ -599,6 +509,78 @@
       "contactImageUncropped": true
     },
     {
+      "route": "sl/info-centre.html",
+      "width": 1440,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "info-centre.html",
+      "width": 1440,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "conference.html",
+      "width": 1440,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "conference/2024.html",
+      "width": 1440,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "conference/2022.html",
+      "width": 1440,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "sl/conference.html",
+      "width": 1440,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "sl/conference/2024.html",
+      "width": 1440,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "sl/conference/2022.html",
+      "width": 1440,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
       "route": "index.html",
       "width": 390,
       "overflow": false,
@@ -825,6 +807,78 @@
     },
     {
       "route": "sl/projects/groundwater.html",
+      "width": 390,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "sl/info-centre.html",
+      "width": 390,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "info-centre.html",
+      "width": 390,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "conference.html",
+      "width": 390,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "conference/2024.html",
+      "width": 390,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "conference/2022.html",
+      "width": 390,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "sl/conference.html",
+      "width": 390,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "sl/conference/2024.html",
+      "width": 390,
+      "overflow": false,
+      "images": [],
+      "h1": 1,
+      "alignedArticle": true,
+      "contactImageUncropped": true
+    },
+    {
+      "route": "sl/conference/2022.html",
       "width": 390,
       "overflow": false,
       "images": [],

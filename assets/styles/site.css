@@ -1788,18 +1788,23 @@ p {
   align-items: center;
   gap: 48px;
   margin-top: 56px;
-  padding: 36px;
+  overflow: hidden;
+  padding: 0;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--surface);
 }
+.home-visit-copy {
+  padding: 36px;
+}
 .home-visit-photo img {
   width: 100%;
   height: auto;
-  border-radius: 4px;
+  border-radius: 0;
 }
 .home-visit-photo figcaption {
   margin-top: 10px;
+  padding-inline: 36px;
   color: var(--muted);
   font-size: 12px;
 }
@@ -1824,6 +1829,8 @@ p {
 @media (max-width: 850px) {
   .home-visit {
     gap: 28px;
+  }
+  .home-visit-copy {
     padding: 28px;
   }
 }
@@ -1831,10 +1838,15 @@ p {
   .home-visit {
     grid-template-columns: 1fr;
     margin-top: 28px;
-    padding: 24px;
+    gap: 0;
   }
   .home-visit-copy {
     grid-row: 1;
+    padding: 24px;
+  }
+  .home-visit-photo figcaption {
+    padding-inline: 24px;
+    padding-bottom: 24px;
   }
 }
 
@@ -1898,7 +1910,6 @@ p {
 .archive-notice {
   padding: 20px 24px;
   background: #eaf0ec;
-  border-left: 4px solid #173d3d;
 }
 .conference-stats {
   display: grid;

@@ -55,7 +55,6 @@ def structured_data(key: str, language: str, titles: dict) -> dict:
         },
         "sameAs": [
             "https://www.facebook.com/TularCaveLaboratory",
-            "https://twitter.com/TularCaveLab",
         ],
     }
     page_type = (
