@@ -15,7 +15,7 @@
     </div>
     <figure>
       <img src="{{ url(page_intro.image) }}" alt="{{ title }}" fetchpriority="high" />
-      {% if page_intro.source_url or page_intro.credit %}<figcaption>{% if page_intro.source_url %}{{ "Vir" if language == "sl" else "Source" }}: <a href="{{ page_intro.source_url }}">{{ page_intro.source_name }}</a>{% endif %}{% if page_intro.credit %}{% if page_intro.source_url %} · {% endif %}{{ 'Avtor' if language == 'sl' else 'Photographer' }}: {{ page_intro.credit }}{% endif %}</figcaption>{% endif %}
+      {% if page_intro.credit %}<figcaption>{{ 'Avtor fotografij' if language == 'sl' else 'Photographer' }}: {{ page_intro.credit }}</figcaption>{% elif page_intro.source_url %}<figcaption>{{ "Vir" if language == "sl" else "Source" }}: <a href="{{ page_intro.source_url }}">{{ page_intro.source_name }}</a></figcaption>{% endif %}
     </figure>
   </header>
   {% else %}

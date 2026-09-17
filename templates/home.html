@@ -45,7 +45,7 @@
     <p class="conference-home-date">Kranj · 7.–8. 12. 2024<br />{{ 'Zadnja potrjena izvedba · 83 udeležencev, 14 držav' if language == 'sl' else 'Latest confirmed edition · 83 participants, 14 countries' }}</p>
     <div class="home-visit-actions"><a class="button" href="{{ page_url('conference/2024') }}">{{ 'Konferenca 2024' if language == 'sl' else '2024 conference' }} →</a><a class="underlined" href="{{ page_url('conference') }}">{{ 'Vsa srečanja in gradiva' if language == 'sl' else 'All meetings and resources' }}</a></div>
   </div>
-  <figure><img src="{{ url('assets/images/sos-proteus-2024-participants.jpg') }}" width="960" height="537" alt="{{ 'Udeleženci konference SOS Proteus 2024 v Kranju' if language == 'sl' else 'Participants at the 2024 SOS Proteus conference in Kranj' }}" loading="lazy" /><figcaption>{{ 'Vir' if language == 'sl' else 'Source' }}: <a href="{{ conference_2024.source_url }}">{{ conference_2024.source_name }}</a> · {{ 'Avtor' if language == 'sl' else 'Photographer' }}: {{ conference_2024.credit }}</figcaption></figure>
+  <figure><img src="{{ url('assets/images/sos-proteus-2024-participants.jpg') }}" width="960" height="537" alt="{{ 'Udeleženci konference SOS Proteus 2024 v Kranju' if language == 'sl' else 'Participants at the 2024 SOS Proteus conference in Kranj' }}" loading="lazy" /><figcaption>{{ 'Avtor fotografij' if language == 'sl' else 'Photographer' }}: {{ conference_2024.credit }}</figcaption></figure>
 </section>
 <section class="topics page-width">
   <h2>{{ copy.explore }}</h2>

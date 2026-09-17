@@ -348,37 +348,37 @@
   },
   "https://www.facebook.com/photo/?fbid=1043638124474060&set=a.1043656621138877": {
     "path": "assets/images/sos-proteus-2024-photo-2.jpg",
-    "bytes": 17222,
-    "sha256": "f4b58e9db35433c8606bc35f886f16849ec5eb00d38e05d7ffdaf34b8c034f26",
+    "bytes": 33417,
+    "sha256": "a0e91a82f19aaa2e4df21dcb82f2957bdbfad0d70983044a5732ee1ffa3e2491",
     "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
-    "credit": "Photographer not identified in accessible source"
+    "credit": "Matej Blatnik"
   },
   "https://www.facebook.com/photo/?fbid=1043639514473921&set=a.1043656621138877": {
     "path": "assets/images/sos-proteus-2024-photo-3.jpg",
-    "bytes": 15504,
-    "sha256": "f964f52cf51f5cd71cfc6b352cb24ec6158d004c1ec8405dc119ab24dc6cbd0a",
+    "bytes": 329983,
+    "sha256": "863a48ef9e8fcfdc7374f8e4738189638d57243ab5d109bfdbf61409d46a4ce2",
     "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
-    "credit": "Photographer not identified in accessible source"
+    "credit": "Matej Blatnik"
   },
   "https://www.facebook.com/photo/?fbid=1043639554473917&set=a.1043656621138877": {
     "path": "assets/images/sos-proteus-2024-photo-4.jpg",
-    "bytes": 16547,
-    "sha256": "0991e5b8609554d9f0c43b8a90597515ab5df1a697517c07c224b5fcbdd26838",
+    "bytes": 168687,
+    "sha256": "af9cb2c368e075b041b89d6745123f76b887fbdbc2a7f67f7f34fa3b83dd6d82",
     "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
-    "credit": "Photographer not identified in accessible source"
+    "credit": "Matej Blatnik"
   },
   "https://www.facebook.com/photo/?fbid=1043638911140648&set=a.1043656621138877": {
     "path": "assets/images/sos-proteus-2024-photo-5.jpg",
-    "bytes": 21537,
-    "sha256": "7cefef6cd8752063210e8990a695010cd3d17b0765e6e716907ad2d9a2de8717",
+    "bytes": 214545,
+    "sha256": "36eaaed7e5ffa289186c4ab26baa72bd8aa3fc82d3b30b669672cf06dba7af28",
     "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
-    "credit": "Photographer not identified in accessible source"
+    "credit": "Matej Blatnik"
   },
   "https://www.facebook.com/photo/?fbid=1043639087807297&set=a.1043656621138877": {
     "path": "assets/images/sos-proteus-2024-photo-6.jpg",
-    "bytes": 23945,
-    "sha256": "e0473587c867ab7f23b56eebc043d7ac7ffb87acc01ca71dd6e35362f2c6a1f9",
+    "bytes": 233371,
+    "sha256": "9ae86c4d94552cde943b5db86ea7f1e2a79f003d571c1ea559cfe953f65cc45f",
     "source_page": "https://www.facebook.com/media/set/?set=a.1043656621138877&type=3",
-    "credit": "Photographer not identified in accessible source"
+    "credit": "Matej Blatnik"
   }
 }

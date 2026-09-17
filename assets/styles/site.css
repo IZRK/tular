@@ -1797,15 +1797,24 @@ p {
 .home-visit-copy {
   padding: 36px;
 }
+.home-visit-photo {
+  position: relative;
+  min-width: 0;
+}
 .home-visit-photo img {
   width: 100%;
   height: auto;
   border-radius: 0;
 }
 .home-visit-photo figcaption {
-  margin-top: 10px;
-  padding-inline: 36px;
-  color: var(--muted);
+  position: absolute;
+  inset: auto 20px 18px;
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 12px;
+  background: #102e2ed9;
+  color: #ffffff;
   font-size: 12px;
 }
 .home-visit-copy h2 {
@@ -1845,8 +1854,8 @@ p {
     padding: 24px;
   }
   .home-visit-photo figcaption {
-    padding-inline: 24px;
-    padding-bottom: 24px;
+    inset-inline: 12px;
+    bottom: 12px;
   }
 }
 

@@ -881,12 +881,6 @@
     "status": 200,
     "reason": "Original publisher link"
   },
-  "https://twitter.com/tularcavelab": {
-    "url": "https://x.com/tularcavelab",
-    "kind": "publisher",
-    "status": 200,
-    "reason": "Verified redirect"
-  },
   "http://www.norveski.nvosklad.si/": {
     "url": "https://web.archive.org/web/*/http://www.norveski.nvosklad.si/",
     "kind": "archive",
